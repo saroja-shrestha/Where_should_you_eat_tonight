@@ -1,0 +1,1216 @@
+﻿id,position,name,score,ratings,category,price_range,lat,lng,address,city,state,zip_code
+34517,6,Fiesta Liquor #3,3,,"African, Ethiopian, Vegetarian, Alcohol, Liquor Stores, Drinks, Wine",$,29.57432,-98.51521,14415 Blanco Road, San Antonio, TX,78248
+34518,5,Squeezers Juice Bar,5,11,"Black-owned, Juice and Smoothies, African, Healthy, Allergy Friendly",,29.441,-98.48547,914 East Elmira Street, San Antonio, TX,78212
+34520,76,Spinster Sisters Co. (427 Lombrano St),,,"Home &amp; Personal Care, Everyday Essentials, Alcohol",$,29.44191,-98.51055,427 Lombrano St, San Antonio, TX,78207
+34521,194,Yaya's Thai Fusion,,,"Thai, Asian, Noodles",$,29.480652,-98.6079078,5819 Northwest Loop 410, San Antonio, TX,78238
+34522,192,Willie's Grill &amp; Icehouse (7911 Interstate),4.5,92,"American, Burgers, Family Friendly, Wings, Alcohol",$,29.3500662,-98.5376722,7911 Interstate 35 Access Rd, San Antonio, TX,78224
+34524,206,Pho Thien An,,,"Pho, Thai",$,29.5165683,-98.4951362,126 W Rector, San Antonio, TX,78216
+34525,58,Wicked Panda,,,"Asian Fusion, Snacks, Wings",$,29.50998901,-98.37561373,5616 walzem rd, San Antonio, TX,78218
+34526,1,The Roo Pub,,,Modern Australian,$$,29.6215669,-98.4624877,19314 US-281, San Antonio, TX,78259
+34527,190,McDonald's¬Æ (1643 Pleasanton Road),4.2,167,"American, Fast Food, Burgers",$,29.3661261,-98.5045879,1643 Pleasanton Rd, San Antonio, TX,78221
+34529,164,NOSH Kitchen ,,,"Burgers, American, Sandwiches",$,29.60736,-98.50146,434 North Loop 1604 West, San Antonio, TX,78232
+34531,287,Copal Comida Mexicana &amp; Bar,,,"Mexican, Burgers, Steak",$,29.4813992,-98.5983586,5720 Bandera Rd, San Antonio, TX,78238
+34532,284,Casasol Mexican restaurant  ,,,"Mexican, Latin American, New Mexican",,29.53006,-98.49549,9938 San Pedro Avenue, San Antonio, TX,78216
+34533,57,Pokeman Sushi Bowl LLC,,,"Japanese, Hawaiian, Exclusive to Eats",$,29.45184,-98.46923,223 Brackenridge Ave, San Antonio, TX,78209
+34534,55,Poke Planet,,,Hawaiian,$$,29.5020338,-98.5754882,7302 Louis Pasteur Dr., San Antonio, TX,78229
+34535,46,Southern Grit,,,"Sandwiches, South American",,29.45726,-98.47001,3303 Broadway, San Antonio, TX,78209
+34536,38,Halcyon,,,"Sandwich, Breakfast and Brunch",$,29.4098191,-98.495428,1414 S Alamo St, San Antonio, TX,78210
+34537,35,Asian Vegan,4.7,77,"Asian Fusion, Vegan, Vegetarian, South East Asian, Gluten Free",,29.5326,-98.52164,2177 Northwest Military Highway, San Antonio, TX,78231
+34538,283,The Barn Door,,,"American, Seafood, Steak, Exclusive to Eats",$,29.51246,-98.4595,8400 North New Braunfels Ave, San Antonio, TX,78209
+34539,280,Las Chiladas,,,"Seafood, American, Southern",$,29.54472,-98.52919,2387 NW Military Hwy, San Antonio, TX,78213
+34540,278,Pueblo Viejo,,,"Mexican, Latin American, New Mexican",$,29.4450681,-98.4915367,1626 McCullough Ave, San Antonio, TX,78212
+34541,277,Millano Risorante Ital,,,"Italian, Pasta, Comfort Food",$,29.62896,-98.49591,19239 Stone Oak Pkwy, San Antonio, TX,78258
+34543,265,Tata‚Äôs Tacos,4.3,17,"Mexican, Latin American, New Mexican, Tacos",,29.47469,-98.52571,1400 West Avenue, San Antonio, TX,78201
+34544,227,El Golfo De Mexico,,,"Mexican, Latin American, New Mexican",$$,29.48803,-98.51913,2034 Basse Road, San Antonio, TX,78201
+34545,222,Noel's Nachos,,,"Mexican, American, Fast Food, Desserts",,29.38656,-98.55009,2110 Cupples Road, San Antonio, TX,78226
+34546,221,La Fonda (Alamo Height),,,"Italian, Pasta, Comfort Food",$$,29.5149696,-98.4612309,8633 Crownhill Blvd, San Antonio, TX,78209
+34547,215,The Philly Cheesesteak Company (1011 N Loop 1604 E),3.9,41,"American, Sandwiches, Desserts",$,29.61114,-98.47781,1011 N Loop 1604 E, San Antonio, TX,78232
+34548,201,Shawarmatee,4.7,48,"Mediterranean, Chicken, Falafel, Middle Eastern",,29.52846,-98.57586479,9523 Fredericksburg RD, San Antonio, TX,78240
+34549,183,Stone Werks Big Rock Grille (Basse Rd),,,"Pizza, American, Italian",$$,29.4974544,-98.4671666,999 E Basse Rd, San Antonio, TX,78209
+34551,171,Zito's Delicatessen &amp; Sandwich Shop (8800 Broadway Street),4.8,11,"Sandwiches, American, Healthy",$$,29.52026,-98.46073,8800 Broadway St, San Antonio, TX,78217
+34552,160,"Nachos Muchachos (427 Lombrano St,)",3.2,33,"American, Mexican, Snacks",$$,29.44191,-98.51055,427 Lombrano St, San Antonio, TX,78207
+34553,145,Sonic (6608 Fm 78),4.2,37,"Sandwich, Fast Food, burger, Hot Dog, American",$$,29.48178,-98.35766,6608 Fm 78, San Antonio, TX,78244
+34554,122,Wild Wing Station (Walzem Road),,,"Wings, American, Fast Food",$$,29.50982,-98.38128,5502 Walzem Road, San Antonio, TX,78218
+34555,109,Golden Meals,4.7,88,"Mediterranean, Greek, Vegetarian",,29.45865,-98.46809,3500 Broadway, San Antonio, TX,78209
+34556,92,Jamaica Jamaica Cuisine,,,"Caribbean, Seafood, Latin American",$$,29.50237,-98.41699,2026 Austin Hwy, San Antonio, TX,78218
+34557,81,Cristan's Tacos,,,"Mexican, Latin American, New Mexican",$$,29.50943,-98.37989,8054 Midcrown Drive, San Antonio, TX,78218
+34558,78,El Pilon Sabor Boriqua,4.8,73,Puerto Rican,$,29.4698051,-98.4386455,1127 Harry Wurzbach Rd, San Antonio, TX,78209
+34559,74,54th Street Restaurant &amp; Drafthouse - (Rector),4.6,153,"Burgers, American, Sandwiches, Family Meals",$,29.5164891,-98.4788928,954 East Rector Street, San Antonio, TX,78216
+34561,56,La Madeleine Country French Cafe (4820 Broadway),4.7,146,"European, French, Pasta",$,29.4709494,-98.4628797,4820 Broadway, San Antonio, TX,78209
+34562,27,El Jarro De Arturo,4.8,24,"Salads, Chicken, Pasta, Family Meals, Healthy",$$,29.5650087,-98.4840888,13421 San Pedro Ave, San Antonio, TX,78216
+34563,216,Bun 'N Barrel (1150 Austin Hwy),,,"BBQ, American, Burgers",$,29.48689,-98.44762,1150 Austin Hwy, San Antonio, TX,78209
+34564,214,Tee‚Äôs ribs,,,"BBQ, American, Burgers",,29.51387,-98.43189,1946 Northeast Loop 410, San Antonio, TX,78217
+34566,212,Ed's Smok-N-Q,,,"BBQ, American, Burgers",$,29.4167521,-98.405066,902 S Ww White Rd, San Antonio, TX,78220
+34567,210,Big Mama's Taste of Soul,,,"American, Burgers, Soul Food, Seafood, Comfort Food",,29.5092,-98.37622,5616 Walzem Road, San Antonio, TX,78218
+34568,208,Mr. A Ok's Kitchen,,,"BBQ, American, Burgers",$$,29.50885,-98.37964,5532 Walzem Road, San Antonio, TX,78218
+34569,206,The Smokehouse,4.4,49,"BBQ, American, Burgers",$,29.3968,-98.43461,3306 Roland Rd, San Antonio, TX,78210
+34570,205,Billy Bob's Bar-b-que,,,"BBQ, American, Sandwiches",,29.574386,-98.439458,3030 Thousand Oaks Drive, San Antonio, TX,78247
+34571,203,Smokin Joe's of Texas,,,"BBQ, American, Burgers",$,29.5338895,-98.3789798,114 N Weidner Rd, San Antonio, TX,78233
+34572,202,Burger King (1515 North New Braunfels Ave),4.1,28,"American, burger, Fast Food, Family Meals",$,29.4373236,-98.4611915,1515 North New Braunfels Ave, San Antonio, TX,78208
+34573,196,Red Point Pizza,,,"Pizza, American, Italian",$,29.5785,-98.37369,15033 Nacogdoches Rd, San Antonio, TX,78247
+34574,195,Tyga Bites (826 San Pedro Avenue),,,"Chicken, American, Sandwiches, Desserts",$,29.4415,-98.49891,826 San Pedro Avenue, San Antonio, TX,78212
+34575,193,Backyard on Broadway,,,"Burgers, American, Sandwiches",,29.44883,-98.47519,2411 Broadway Street, San Antonio, TX,78215
+34576,194,Eat A Burger,,,"Burgers, American, Sandwiches",,29.51848,-98.43108,2015 Northeast Loop 410, San Antonio, TX,78217
+34577,192,BBQ Done Wright,,,"BBQ, American, Comfort Food",,29.38999,-98.52056,2432 Nogalitos Street, San Antonio, TX,78225
+34578,191,The Purple Pig BBQ,,,"BBQ, American, Burgers",$,29.4997848,-98.4211392,1916 Austin Hwy, San Antonio, TX,78218
+34579,190,Holy Smoke BBQ &amp; Taquitos (Camp 1604),,,"BBQ, American, Tacos",,29.59132,-98.59142,5534 North Loop 1604 West, San Antonio, TX,78249
+34581,188,Backwoods BBQ &amp; Grilled Cheeses,,,"BBQ, American, Burgers, Exclusive to Eats",$,29.55085,-98.40636,12234 Nacogdoches Road, San Antonio, TX,78233
+34582,187,King Lou's Soul Food &amp; BBQ,,,"Black-owned, American, Sandwich, Burgers",,29.4254176,-98.452482,2553 E Houston St, San Antonio, TX,78202
+34585,185,FAT BASTARDS BBQ &amp; GRILL,,,"BBQ, American, Burgers",,29.4241,-98.4936,7530 Bandera Road, San Antonio, TX,78238
+34586,181,Skywalk Sports Bar BBQ &amp; Grill,,,"BBQ, American, Wings",$,29.5334095,-98.5586601,10227 Ironside Dr, San Antonio, TX,78230
+34587,180,Bella Pizza (8132 Fredericksburg Rd),,,"Pizza, American, Italian, Chicken, BBQ",$,29.51551,-98.57069,8132 Fredericksburg Rd, San Antonio, TX,78229
+34589,167,Kain Na - Filipino Cuisine,,,"Comfort Food, American, Burgers",$$,29.52497,-98.41187,9323 Perrin Beitel Road, San Antonio, TX,78217
+34590,160,DEE WILLIES,,,"BBQ, American, Sandwich",,29.5497,-98.37583,12130 O'Connor Road, San Antonio, TX,78233
+34592,158,Applebee's (North Star),4.5,122,"American, Burgers, Salads, Healthy, Family Friendly, Comfort Food, Pasta, Sandwiches, Steak, Wings",$$,29.5210713,-98.4847806,97 Loop 410 NE., San Antonio, TX,78216
+34593,154,The County Line - IH 10,4.5,36,"BBQ, American",$$,29.5374792,-98.5673484,10101 IH-10 West, San Antonio, TX,78230
+34594,150,El Sabrosito Jalisco Restaurant,,,"Mexican, Latin American, New Mexican",$$,29.53382,-98.37905,118 N Weidner Rd, San Antonio, TX,78233
+34595,149,Rooster's Run Shavano Park,,,"Wings, Chicken",,29.60145,-98.56197,4051 North Loop 1604 West, San Antonio, TX,78257
+34596,142,Rooster's Run Zarzamora,3.5,10,"Wings, Chicken",,29.35008,-98.53771,7911 Interstate 35 Access Road, San Antonio, TX,78224
+34597,146,El Molino,,,"Mexican, Latin American, New Mexican",$$,29.43919,-98.47006,1703 North PanAm Expressway, San Antonio, TX,78218
+34598,141,Fire &amp; Slice,3.3,15,"Pizza, Comfort Food, Vegetarian",$,29.43802,-98.54174,901 NW 24th St, San Antonio, TX,78207
+34599,138,House of Wings ,,,"American, Wings, Fast Food, Sandwiches, Salads, Chicken",,29.43802,-98.54174,901 Northwest 24th Street, San Antonio, TX,78228
+34600,121,Skinny Black BBQ &amp; More,,,"BBQ, American, Burgers",$$,29.41324,-98.43336,3102 Martin Luther King Drive, San Antonio, TX,78220
+34601,126,Plant B (Stone Oak),,,"Burgers, American, Sandwiches",$,29.64963,-98.45279,20907 Stone Oak Parkway, San Antonio, TX,78258
+34602,116,Tita Jelas Kusina (427 Lombrano Street),,,"American, Comfort Food, Healthy",$$,29.44191,-98.51055,427 Lombrano Street, San Antonio, TX,78245
+34603,111,Kona Grill (North Star),4.5,41,"American, Sushi",$$,29.518406,-98.4952585,7400 San Pedro Ave, San Antonio, TX,78216
+34604,106,"Jason's Deli (9933 IH -10 West, Colonade)",4.7,200,"Burgers, American, Sandwiches",$,29.5342454,-98.5641294,9933 West Interstate 10, San Antonio, TX,78230
+34605,103,Snack Attack - Nacogdoches Rd,4.8,13,"Ice Cream + Frozen Yogurt, Snacks, Black-owned, Convenience, Everyday Essentials",,29.55285,-98.4039,12434 Nacogdoches Road, San Antonio, TX,78217
+34608,43,Rooster's Run Hill Country Village,,,"Chicken, Wings, Sandwiches",,29.58632,-98.47587,15801 San Pedro Avenue, San Antonio, TX,78232
+34613,7,Smoke BBQ &amp; Brew,4.5,57,"BBQ, American",$$,29.42424,-98.48076,501 E Crockett St, San Antonio, TX,78202
+34614,163,In a Bun (SAT01-1),,,"Burgers, Sandwich, American, Bar Food",$,29.54784,-98.37637,11911 Crosswinds Way, San Antonio, TX,78233
+34615,162,The Other Side (SAT01-1),,,"Burgers, Sandwich, American, Bar Food",$,29.54784,-98.37637,11911 Crosswinds Way, San Antonio, TX,78233
+34616,161,The Lord's Kitchen,,,"Burgers, American, Sandwiches, Fast Food",$,29.4365083,-98.4603659,118 Seguin St, San Antonio, TX,78208
+34617,160,Pretzelmaker (6909 N Loop 1604 E),,,"Fast Food, Bakery, Desserts",$,29.5970323,-98.3504534,6909 N Loop 1604 E Ste. 2032, San Antonio, TX,78247
+34618,142,Russo's Italian Family Meals (San Antonio),,,"Italian, Pasta, Comfort Food, Family Meals, Wings",$,29.61233,-98.59446,17631 La Cantera Pkwy, San Antonio, TX,78257
+34619,134,Menchie's Frozen Yogurt (999 E Basse Rd #177),4.9,12,"Ice Cream &amp; Frozen Yogurt, Comfort Food, Desserts",$,29.49797,-98.4686,999 E Basse Rd #177, San Antonio, TX,78209
+34620,129,Helados Aranda,,,"Ice Cream &amp; Frozen Yogurt, Comfort Food, Desserts",$$,29.55609,-98.39954,12728 Nacogdoches Rd, San Antonio, TX,78217
+34621,127,7-Eleven (11110 IH 35N),,,"Everyday Essentials, Convenience, Home &amp; Personal Care, Snacks, Pizza, American",$,29.53954,-98.3788,11110 Ih 35N, San Antonio, TX,78233
+34623,114,L'Orenta Nuts,,,"Specialty Foods, Gift Store",$,29.53379,-98.45018,2564 MacArthur View 101, San Antonio, TX,78217
+34624,106,Grimaldi's Pizzeria (22810 US Highway 281 N Ste 105),4.6,106,"Italian, pizza, Comfort Food, Family Friendly",$$,29.65392931,-98.44792492,22810 Highway 281 N Ste 105, San Antonio, TX,78259
+34625,105,Fat Tummy Empanadas,4.7,27,"Comfort Food, Street Food, Argentinian",$,29.4280167,-98.5279523,2922 W. Commerce St, San Antonio, TX,78207
+34626,98,Se√±or Fish Seafood Bar,4.6,10,"Seafood, Mexican, Tacos, South American, Healthy",$$,29.4441,-98.47696,1915 Broadway, San Antonio, TX,78215
+34627,96,Naara Cafe,4.7,29,Middle Eastern,$$,29.5303344,-98.5647002,9329 Wurzbach Rd, San Antonio, TX,78240
+34628,82,Kulture Kafe,4.9,138,"Coffee and Tea, Bagels, Breakfast and Brunch",,29.41247,-98.48806,1112 South Saint Mary's Street, San Antonio, TX,78210
+34629,44,Taco Palenque (Medical Center),4.6,200,"Mexican, Latin American, New Mexican, Fast Food, Family Meals, Group Friendly",$,29.5270353,-98.5589365,3847 Parkdale Dr, San Antonio, TX,78229
+34630,39,"Charleys Cheesesteaks and Wings - Walmart - SE Loop 410, TX",4.4,70,"Sandwich, American, Comfort Food",$,29.40062,-98.38858,2100 South East Loop 410, San Antonio, TX,78220
+34631,38,Embers Wood Fire Grill &amp; Bar (North Loop),4.6,38,"Burgers, American, Sandwiches",$,29.6109288,-98.4810534,819 N Loop 1604 E, San Antonio, TX,78232
+34633,32,Taco Cabana (8105 Fourwinds Dr),4.4,66,"Mexican, Tex Mex, Breakfast and Brunch, Family Meals",$,29.510848,-98.395458,8105 Fourwinds Dr, San Antonio, TX,78239
+34634,31,Five Guys TX-0405 260 E. Basse Rd,4.6,200,"American, Burgers, Fast Food",$,29.4944316,-98.4790181,260 E Basse St Suite 107, San Antonio, TX,78209
+34635,23,Cosmic Wings (Windsor Park),4.6,14,"American, Bar Food, Wings, Fast Food, Chicken, Family Meals, Exclusive to Eats, Comfort Food",$,29.50687,-98.3974,7880 IH35 North, San Antonio, TX,78218
+34636,21,225¬∞ Urban Smoke,4.8,57,"BBQ, American, Salads, Sandwiches, Soul Food",,29.48538,-98.428,1015 Rittiman Road, San Antonio, TX,78218
+34637,17,Buffalo Wild Wings GO (4230 N Foster Rd),4.4,178,"wings, American, Comfort Food",$$,29.46685,-98.35927,4230 North Foster Road, San Antonio, TX,78244
+34638,7,Mamma Lou's Soul Food Kitchen,4.7,100,"Soul Food, American, Chicken",,29.510447,-98.393005,4929 Walzem Rd, San Antonio, TX,78218
+34639,208,Senor Mango Ice Cream,4.7,75,"Ice Cream + Frozen Yogurt, Desserts",$,29.5142543,-98.5255473,5112 West Ave, San Antonio, TX,78213
+34640,202,La Mejico Express,,,"Desserts, Bakery, Mexican",$,29.5918171,-98.5122629,16505 Blanco Rd, San Antonio, TX,78248
+34641,201,Chicago Bagel &amp; Deli,4.9,75,"Breakfast and Brunch, Deli, Sandwiches, Bagels, Salads, Hot Dog, Coffee and Tea",$,29.5409731,-98.5515406,10918 Wurzbach Rd, San Antonio, TX,78230
+34644,199,Dulce Victoria Desserts,,,"Desserts, Bakery, Pastry",$,29.4605945,-98.5224276,1717 Fredericksburg Rd, San Antonio, TX,78201
+34645,198,Pretzelmaker (17238 Bulverde Rd),,,"Bakery, Desserts, Fast Food, Drinks",$,29.59501,-98.41739,17238 Bulverde Rd, San Antonio, TX,78247
+34646,197,Jamba Juice (San Pedro),,,"Juice and Smoothies, Breakfast and Brunch, Bowls, Healthy",,29.51829,-98.49548,7400 San Pedro Ave, San Antonio, TX,78216
+34647,196,The Baked Bird,,,"Breakfast and Brunch, Coffee and Tea, Bakery",,29.54678,-98.47981,1003 East Nakoma Street, San Antonio, TX,78216
+34648,194,Panifico Bake Shop,4.9,16,"Bakery, Cupcakes, Comfort Food",$,29.4348397,-98.5416716,602 N.W. 24th, San Antonio, TX,78207
+34649,193,Corner Bakery (255 E Basse Rd Ste 100),4.7,200,"Breakfast and Brunch, Family Meals, Sandwich, Salads, Pasta, Cafe",$$,29.49226658,-98.4811297,255 E Basse Rd Ste 100, San Antonio, TX,78209
+34650,191,Commonwealth Coffeehouse &amp; Bakery (Hemisfair),,,"American, Breakfast and Brunch, Coffee and Tea",,29.41913,-98.48418,611 Hemisfair Boulevard, San Antonio, TX,78205
+34651,192,Commonwealth Coffeehouse &amp; Bakery Evergreen,,,"Coffee and Tea, American, Breakfast and Brunch, Bakery",,29.44249,-98.4965,224 West Evergreen Street, San Antonio, TX,78212
+34652,190,Wholesome Eating Gluten Free Bakery and Restaurant,,,"American, Desserts, Burgers, Pizza",$$,29.57192,-98.51791,13455 Blanco Road, San Antonio, TX,78216
+34653,189,Twin Sister's Bakery and Cafe,,,"Healthy, Pastry, Salads, Breakfast and Brunch",,29.4875814,-98.4587057,6322 N New Braunfels Ave, San Antonio, TX,78209
+34654,179,"Marco's Pizza (822 Evans Rd., Ste.102)",4.7,51,"pizza, Sandwich, Salads",$,29.64274,-98.48114,822 Evans Rd. Ste.102, San Antonio, TX,78258
+34655,170,Bill Miller Bar-B-Q (Thousand Oaks Dr),4.6,69,Family Meals,$$,29.57778,-98.44078,2911 Thousand Oaks, San Antonio, TX,78247
+34656,155,Pasha Mediterranean Grill (Wurzbach),4.8,200,"Mediterranean, Family Friendly",$$,29.5296686,-98.5641544,9339 Wurzbach Rd, San Antonio, TX,78240
+34657,128,Whataburger (8002 Fredericksburg Rd),4.5,116,"Burgers, Fast Food, Burgers, Sandwiches, American",$$,29.51337,-98.56921,8002 Fredericksburg Rd, San Antonio, TX,78229
+34659,112,Salata Quarry Village,4.8,130,"Healthy, Salads, Vegan",$,29.49336,-98.4788,250 E. Basse Rd, San Antonio, TX,78209
+34661,105,Small Town Nutrition,,,"Bakery, Juice and Smoothies, Coffee and Tea",$,29.51016,-98.38545,5370 Walzem Road, San Antonio, TX,78218
+34663,93,Mellow Mushroom (San Antonio),4.6,48,"Pizza, Salads, Wings, Family Meals, Healthy",$$,29.6098054,-98.4900628,115 N Loop 1604 E, San Antonio, TX,78258
+34664,88,Capos Pizzeria (8522 Broadway Street #105),4.3,64,"Italian, Pasta, Sandwich",,29.51783,-98.4625,8522 Broadway St #105, San Antonio, TX,78217
+34665,84,CAVA (LINCOLN HEIGHTS),4.8,200,"Dinner, Healthy, Salads",$,29.49797,-98.4686,999 E Basse Rd #125, San Antonio, TX,78209
+34668,77,Arby's (13601 Nacogdoches Rd.),4.6,90,"American, Fast Food, Sandwich",$,29.56531,-98.38885,13601 NACOGDOCHES RD., San Antonio, TX,78217
+34670,65,Potbelly Sandwich Shop (Broadway | 450),4.7,197,"Deli, Salads, Sandwich, Healthy",$,29.45439,-98.47102,3006 Broadway Ste. 101, San Antonio, TX,78209
+34671,57,Chipotle Mexican Grill (6302 FM 78),4.6,169,"Healthy, Mexican",$,29.479172,-98.36247625,6302 FM 78, San Antonio, TX,78244
+34673,53,IHOP (14424 San Pedro),4.4,157,"American, Breakfast and Brunch, burger, Comfort Food, Dinner, Omelette, salad, Traditional American, Family Meals",$,29.5731217,-98.4785662,14424 San Pedro, San Antonio, TX,78232
+34674,50,Amy's Ice Creams (San Antonio),5,23,"Ice Cream + Frozen Yogurt, Desserts, Family Meals",$,29.4960006,-98.4801718,255 E Basse Rd, San Antonio, TX,78209
+34675,45,Scooped Cookie Dough Bar,4.5,11,Desserts,$,29.6155,-98.3171,18771 Farm-to-Market 2252, San Antonio, TX,78266
+34676,44,Taco Cabana (11722 IH 35 N),4.5,41,"Mexican, Tex Mex, Breakfast and Brunch, Family Meals",$,29.5462341,-98.366366,11722 IH 35 N, San Antonio, TX,78233
+34677,42,Auntie Anne's (7400 San Pedro Avenue),,,"Bakery, Comfort Food, Desserts, Pretzel",$,29.51838,-98.49789,7400 San Pedro Avenue, San Antonio, TX,78216
+34678,35,BellaRo Cupcakery &amp; Sweets,,,"Bakery, Cakes, Desserts",,29.62526398,-98.49625674,19141 Stone Oak Parkway, San Antonio, TX,78258
+34679,19,Shipley Do-Nut (14088 Nacogdoches Rd),4.3,26,"American, Bakery, Desserts",$,29.57015,-98.382,14088 Nacogdoches Rd, San Antonio, TX,78247
+34680,18,Crumbl Cookies (255 E Basse Road Suite 152),4.7,61,"Snacks, Bakery, Pastry, Desserts, Desserts",$$,29.49356,-98.47978,255 E Basse Road Suite 152, San Antonio, TX,78209
+34681,15,Nadler's Bakery &amp; Deli,,,"Deli, Desserts, Bakery",$$,29.4931663,-98.5691139,1621 Babcock Rd, San Antonio, TX,78229
+34682,13,Twin Sisters Bakery &amp; Cafe,,,"Italian, Pasta, Comfort Food",$$,29.4875652,-98.4587324,6322 N New Braunfels Ave, San Antonio, TX,78209
+34685,10,Southern Roots Vegan Bakery,,,"Black-owned, Desserts, Cupcakes, Pastry",,29.362536,-98.493194,6208 South Flores Street, San Antonio, TX,78214
+34687,9,Baklovah Bakery ,,,"Desserts, Bakery, Coffee and Tea, Middle Eastern, European",$,29.5303213,-98.5647122,9329 Wurzbach Rd, San Antonio, TX,78240
+34688,188,Taqueria Datapoint (Gramercy),,,"Mexican, Latin American, New Mexican",$$,29.461,-98.5232,1702 W Gramercy Pl, San Antonio, TX,78201
+34689,187,Winner Winner Chicken Dinner,,,"Sandwiches, Chicken, Comfort Food, Fried Chicken",,29.51848,-98.43108,2015 Northeast Loop 410, San Antonio, TX,78217
+34690,186,El Jefe,,,"Burgers, American, Sandwiches",$,29.44847,-98.48807,2407 North Saint Marys Street, San Antonio, TX,78212
+34691,184,Chick-fil-A  (1350 Austin Hwy),4.9,200,"American, Fried Chicken, Family Meals, Southern, Sandwich, Fast Food",$,29.49058,-98.43937,1350 Austin Hwy, San Antonio, TX,78209
+34692,183,Ghost Kitchen SA,,,"American, Burgers, Wings",,29.51848,-98.43108,2015 Northeast Loop 410, San Antonio, TX,78217
+34693,181,Carmen's Mexican Restaurant,,,"Mexican, Latin American, New Mexican",$$,29.49874,-98.34913,7030 Branching Court, San Antonio, TX,78239
+34694,180,Teran's Restaurant,,,"Mexican, Latin American, New Mexican",$$,29.42469,-98.40901,4403 E Houston St, San Antonio, TX,78220
+34696,178,Wing Master,,,"Wings, American, Chicken",,29.51848,-98.43108,2015 Northeast Loop 410, San Antonio, TX,78217
+34697,174,Taco Cabana (5115 Rigsby ),4.4,49,"Mexican, Tex Mex, Breakfast and Brunch, Family Meals",$,29.3986009,-98.3909779,5115 Rigsby, San Antonio, TX,78222
+34700,167,Little Taco Factory(1510 McCullough Ave),,,"Mexican, Latin American, New Mexican",$$,29.4431432,-98.4916301,1510 McCullough Ave, San Antonio, TX,78212
+34702,164,Hometown Burger (5423 Evers Rd.),4.8,13,"Burgers, American, Sandwiches",$,29.48611,-98.59384,5423 Evers Rd., San Antonio, TX,78238
+34703,160,Hometown Burger (Roosevelt),4,22,"Burgers, American, Sandwiches",$,29.35705,-98.48088,3436 Roosevelt, San Antonio, TX,78214
+34704,159,FREAKING GOOD PIZZA (2620 South Presa Street),,,"American, Pizza, Italian",$$,29.39549,-98.48136,2620 South Presa Street, San Antonio, TX,78210
+34705,157,Poblano's On Main,4.2,13,Mexican,$,29.4242501,-98.4942198,115 S Main Plaza, San Antonio, TX,78205
+34706,149,Fresh Donut,,,"Breakfast and Brunch, American, Sandwiches",$$,29.48948,-98.4418,1302 Austin Highway, San Antonio, TX,78209
+34707,148,Hometown Burger (1922 Culebra Rd.),4.3,20,"Burgers, American, Desserts",$,29.44612,-98.53904,1922 Culebra Rd., San Antonio, TX,78201
+34708,147,Jesma Fine Foods,5,15,"Mexican, Latin American, New Mexican, Breakfast and Brunch, American",$,29.3978211,-98.4387585,1722 Rigsby Avenue, San Antonio, TX,78210
+34709,142,Tia's Taco Hut (St. Mary's),4.3,13,"Mexican, Breakfast and Brunch, Tacos",$,29.43435,-98.48596,1203 North Saint Marys Street, San Antonio, TX,78215
+34711,140,Rios Meat Market,4.2,62,"Breakfast and Brunch, American, Sandwiches",$,29.3463691,-98.5334249,8030 S Zarzamora St, San Antonio, TX,78224
+34712,137,Hometown Burger (11910 Blanco Rd.),4.4,22,"Burgers, American, Sandwiches",$,29.54959,-98.51048,11910 Blanco Rd #101, San Antonio, TX,78216
+34713,136,SA seafood,4.4,93,"Seafood, American, Southern",,29.5638392,-98.5866372,5222 De Zavala Rd, San Antonio, TX,78230
+34714,134,Teka Molino,4.4,22,"Mexican, Burritos, Tacos, Quesadillas",$,29.514771,-98.499701,7231 San Pedro Ave, San Antonio, TX,78216
+34715,133,Long John Silver's (3318 SE Military Dr),4.3,44,"American, Family Meals, Fish and Chips, Seafood, Chicken",$,29.3513,-98.432567,3318 SE Military Dr., San Antonio, TX,78223
+34717,130,Cafe Rosa 3,4.5,39,"Mexican, Breakfast and Brunch",$,29.4854434,-98.559754,2817 Hillcrest Dr, San Antonio, TX,78201
+34718,124,Teka Molino 2,4.6,45,"Mexican, Burritos, Tacos, Quesadillas",$$,29.485138,-98.42882,1007 Rittiman Rd, San Antonio, TX,78218
+34719,120,El Taco - Stone Oak,4.7,32,"Mexican, Family Meals, New Mexican",$,29.627486,-98.494453,19202 Stone Oak Pkwy, San Antonio, TX,78258
+34720,116,Hash Vegan Eats,4.8,49,"Vegetarian, Vegan, Healthy",,29.37603,-98.4994,5007 South Flores Street, San Antonio, TX,78214
+34721,113,Jimmy Buffett's Margaritaville (San Antonio),3.9,10,"Bar Food, American, Traditional American, Family Meals",$,29.4232731,-98.4844152,849 E Commerce St, San Antonio, TX,78205
+34722,112,Papa Johns (12642 Nacogdoches Rd),4.5,23,"Pizza, Wings, Sandwiches, Desserts, American, Traditional American, Fast Food",$,29.5551196,-98.4007624,12642 Nacogdoches Rd, San Antonio, TX,78217
+34723,111,Regio Cafe,4.6,39,"Breakfast and Brunch, Mexican",$,29.4453197,-98.491601,1706 McCullough Ave, San Antonio, TX,78212
+34724,107,Duck Donuts (11703 Huebner Rd Ste 113),4.8,77,"Desserts, Breakfast and Brunch",$$,29.5518327,-98.5731337,11703 Huebner Rd Ste 113, San Antonio, TX,78230
+34725,104,Firehouse Subs (1802 N. Loop 1604 E. #104),4.6,89,"Sandwich, Deli, Salads, Healthy",$,29.606919,-98.4631027,1802 N. Loop 1604 E. #104, San Antonio, TX,78232
+34726,95,Cici's (San Pedro),4.4,21,"Pizza, Wings",$,29.5070751,-98.4983898,6900 San Pedro Ave, San Antonio, TX,78216
+34730,81,Stuffed,4.5,24,"Burritos, Mexican, Tex Mex",,29.488666,-98.58388,4939 Northwest Loop 410, San Antonio, TX,78229
+34731,80,Super Donut,4.8,22,"Burgers, American, Sandwiches",$,29.4663341,-98.3578704,6658 Summer Fest Dr, San Antonio, TX,78244
+34732,76,Rusty Taco (17026 Bulverde Rd),4.2,42,"Mexican, South American",$,29.59781,-98.41795,17026 Bulverde Road, San Antonio, TX,78247
+34733,75,Zedric's Fit with Flavor (The Colonnade),4.6,44,"Healthy, Gluten Free, Breakfast and Brunch",$,29.5333141,-98.5611272,9873 I-10, San Antonio, TX,78230
+34735,68,PAWSitively Sweet Bakery,,,"pet supplies, Retail",$,29.50331,-98.50735,5501 Blanco Rd, San Antonio, TX,78216
+34736,64,Bobbie's Cafe,4.8,32,"Burgers, American, Sandwiches, Tacos",,29.35427,-98.48965,6728 S Flores St, San Antonio, TX,78221
+34738,51,Wild Burger (8450 N I-35),4.5,20,Burgers,$$,29.51405,-98.39627,8450 N Interstate 35, San Antonio, TX,78239
+34739,53,Wendy's (9503 Middlex Drive),4.6,200,"Burgers, American, Fast Food, Chicken",$,29.52738,-98.45941,9503 Middlex Drive, San Antonio, TX,78217
+34740,50,Chicago Philly Eats,4.8,25,"Burgers, American, Sandwiches",,29.55438,-98.50012,441 West Nakoma Drive, San Antonio, TX,78216
+34741,44,U.S.A. Donuts,4.6,48,"Bakery, Comfort Food, American",$,29.3986634,-98.402362,4535 Rigsby Ave Ste 105, San Antonio, TX,78220
+34742,37,Tycoon Flats,4.5,61,"Burgers, Wings, New American",,29.45227,-98.48495,2926 North Saint Marys Street, San Antonio, TX,78212
+34743,32,Donut Palace (1583 Thousand Oaks),4.7,81,"Bakery, Dount, Coffee and Tea",$,29.59247,-98.46758,1583 Thousand Oaks Drive, San Antonio, TX,78232
+34744,29,Los Gueros Tacos,4.8,141,Mexican,$,29.6277216,-98.493365,20323 Huebner Rd, San Antonio, TX,78258
+34745,23,Schlotzsky's Deli (Perrin Beitel Rd),4.8,124,"Salads, Sandwich, Deli, Desserts, Healthy, Family Meals",$,29.5176727,-98.410458,8534 Perrin-Beitel Road, San Antonio, TX,78217
+34746,21,The Art of Donut,4.8,73,Desserts,$,29.4564326,-98.4793261,3428 N St Mary's St, San Antonio, TX,78212
+34747,5,American Grilled Cheese Company (3619 N PanAm Expy),,,"American, Deli, Sandwich",$$,29.44859,-98.42718,3619 N PanAm Expy, San Antonio, TX,78219
+34748,20,Kneaders Bakery &amp; Cafe,4.9,86,"Pastry, Sandwich, Salads, Healthy",$$,29.6427714,-98.4904693,21639 Hardy Oak Boulevard, San Antonio, TX,78258
+34749,51,Hon Machi Japanese Korean BBQ (Blanco Rd),,,"Japanese, Korean, Asian, Family Meals",,29.621195,-98.512326,19186 Blanco Rd, San Antonio, TX,78258
+34750,205,China Sea Restaurant,,,Chinese,$$,29.5511515,-98.410122,4300 Thousand Oaks, San Antonio, TX,78217
+34751,203,Chas Market &amp; Kitchen,,,"Korean, Mexican, Traditional American",$$,29.4376208,-98.4704988,1431 N Pine St, San Antonio, TX,78208
+34752,202,Thai Lao Orchid at Babcock Rd,,,"Vietnamese, Noodles, Healthy",$,29.51593,-98.59458,5440 Babcock Rd, San Antonio, TX,78240
+34753,197,Sichuan House,4.9,26,"Asian Fusion, Asian, Korean",,29.47171,-98.6234,3505 Wurzbach Rd Ste 102, San Antonio, TX,78238
+34754,194,Sukeban,,,"Japanese, Sushi, Asian Fusion",$$,29.4097859,-98.4957333,1420 S Alamo St, San Antonio, TX,78210
+34755,190,Side Wok Cafe,,,"Chinese, Asian, Asian Fusion",$,29.4231731,-98.4851382,849 E Commerce St #155, San Antonio, TX,78205
+34756,189,Hero's Ramen X Sushi,,,"Japanese, Asian, Sushi",$,29.56469,-98.48917,13444 West Ave, San Antonio, TX,78216
+34757,188,Aroy ver thai bite,,,"Thai, Asian, Noodles",,29.44634,-98.47505,2202 Broadway Street, San Antonio, TX,78215
+34758,187,Thai Lucky sushi bar,,,"Asian, Asian Fusion, Korean",$,29.4212377,-98.4906976,102 Navarro St, San Antonio, TX,78205
+34760,185,Wok on Wheels (Bulverde),,,"Chinese, Asian",$,29.6487242,-98.4253701,22250 Bulverde Rd, San Antonio, TX,78261
+34761,182,5 Tara Indian Buffet,,,"Indian, Vegetarian, Asian, Salads",,29.49685,-98.55707,4841 Fredericksburg Road, San Antonio, TX,78229
+34763,180,Katii Thai Food ,,,"Thai, Asian, Noodles, Exclusive to Eats",,29.45053,-98.48653,2710 North Saint Marys Street, San Antonio, TX,78212
+34764,179,Kimura,,,"Ramen, Japanese, Comfort Food",,29.42845896,-98.49153746,152 E pecan st, San Antonio, TX,78205
+34768,174,Little Tokyo,,,"Asian, Asian Fusion, Korean, Family Meals",$,29.423952,-98.484883,849 E Commerce St, San Antonio, TX,78205
+34769,172,Sumo Japanese Steakhouse,,,"Japanese, Seafood, Steak",$$,29.5184532,-98.5554211,8342 Ih 10 W, San Antonio, TX,78229
+34770,173,Sip Sip Cafe,,,"Asian, Japanese, Noodles",$$,29.5787,-98.44374,2844 Thousand Oaks Dr, San Antonio, TX,78232
+34771,171,Karate Noodles,,,"Japanese, Asian, Sushi",,29.44186,-98.51055,427 Lombrano Street, San Antonio, TX,78207
+34772,170,Hew By Akhanay Coffee Roasters,,,"Coffee and Tea, Comfort Food, Thai, Asian, Asian Fusion, Noodles, Street Food, Desserts, Desserts, Everyday Essentials, Convenience, Grocery, Snacks, Home &amp; Personal Care, Noodles",$,29.44025,-98.5031,1430 North Flores Street, San Antonio, TX,78212
+34773,167,Gogi Street (Korean Fusion) (12820 Jones Maltsberger Rd),,,"Asian, Asian Fusion, Korean",$,29.55803,-98.46207,12820 Jones Maltsberger Rd, San Antonio, TX,78247
+34774,166,Spice Grill &amp; Bar Indian Restaurant,,,"Indian, Vegetarian, Asian, Healthy",$,29.4281796,-98.4872048,220 Broadway St, San Antonio, TX,78205
+34775,164,Habachi Buffet,,,"Chinese, Asian, Seafood",$,29.3999857,-98.3909068,2203 SE Loop 410, San Antonio, TX,78220
+34776,160,Jeepney Street Eats,,,"Asian, Filipino, Noodles, Asian Fusion",,29.43532,-98.48133,1009 Avenue B, San Antonio, TX,78215
+34777,159,"Curry Home (427 Lombrano St,)",,,"Indian, Asian, Vegetarian",$$,29.44191,-98.51055,427 Lombrano St, San Antonio, TX,78207
+34778,149,Curry Boys BBQ,4.7,115,"Asian Fusion, BBQ, South East Asian",,29.44822,-98.48761,2334 North Saint Marys Street, San Antonio, TX,78212
+34779,155,J Y Ramen,4.4,90,"Asian, Asian Fusion, Korean",$,29.51691,-98.59686,5500 Babcock Road, San Antonio, TX,78240
+34780,146,Hot Joy,4.6,50,Asian,$$,29.4135907,-98.4908765,1014 S Alamo St, San Antonio, TX,78210
+34781,145,LumpiasRollin,,,"South East Asian, Chicken, Filipino",,29.50748,-98.58863,2534 Babcock Road, San Antonio, TX,78229
+34782,133,Sideliners Grill (Henderson Pass),,,"Chinese, Asian, Asian Fusion",$$,29.585243,-98.451546,15630 Henderson Pass, San Antonio, TX,78232
+34783,123,Tao's Thai Hot,,,"Thai, Chinese, Asian",$,29.51493,-98.56998,8110 Fredericksburg Road, San Antonio, TX,78229
+34784,117,"Bayside Biryani (220 Broadway,)",,,"Indian, Pakistani, Indian Curry, Chicken, Halal",$,29.42816,-98.48725,220 Broadway, San Antonio, TX,78205
+34785,109,Momo House - Nepali Style Dumplings,4.7,34,"Asian, Asian Fusion, Korean",$,29.57152,-98.57371,4447 DeZavala Rd, San Antonio, TX,78249
+34786,97,Sushi Haya,4.7,20,"Japanese, Sushi, Asian",,29.56611,-98.48622,226 West Bitters Road, San Antonio, TX,78216
+34787,94,Hula Poke,4.8,155,Comfort Food,,29.5622333,-98.5928368,12730 W I-10, San Antonio, TX,78249
+34790,61,San Poke,4.9,200,"Japanese, Hawaiian, Seafood",$,29.6356007,-98.4541804,20770 281 N Ste 105, San Antonio, TX,78259
+34791,43,Suck It: The Restaurant,4.8,164,Sushi,$$,29.5007441,-98.5765564,7220 Louis Pasteur Dr, San Antonio, TX,78229
+34792,39,Tenko Ramen,4.6,119,"Noodles, Asian Fusion, Japanese, Ramen",$,29.4418552,-98.4804875,312 Pearl Pkwy, San Antonio, TX,78215
+34793,28,Pei Wei (11911 Crosswinds Way),,,"Asian, Chinese, Noodles, Rice Dishes",$,29.54784,-98.37637,11911 Crosswinds Way, San Antonio, TX,78233
+34794,22,Wok This Way (San Antonio),4.6,45,"Chinese, Thai, Vietnamese",,29.51709,-98.41865,2411 NE Loop 410 Ste 102, San Antonio, TX,78217
+34795,20,Sushi Zushi - Lincoln Heights,4.7,159,"Japanese, Sushi, Family Friendly",$,29.4974786,-98.4696318,999 E Basse Rd, San Antonio, TX,78209
+34796,18,Pinch Boil House (Broadway),4.8,163,"Asian Fusion, Asian, Korean",$,29.47347,-98.46249,5130 Broadway, San Antonio, TX,78209
+34797,6,Singhs,4.8,200,"Vietnamese, Sandwich, Family Meals",$,29.4514437,-98.486208,2803 N St Mary's St, San Antonio, TX,78212
+34798,5,Wow Bao (SAT01-2),4.3,136,"Chinese, Asian, Chicken",$,29.54784,-98.37637,11911 Crosswinds Way, San Antonio, TX,78233
+34800,297,Sabor A La Mexicana Mexican Restaurant and Cantina,,,"Mexican, Latin American, New Mexican",$,29.356412,-98.485542,920 SE Military Dr, San Antonio, TX,78214
+34801,295,Chela's tacos,,,Mexican,$,29.4562427,-98.4795491,3420 N St Mary's St, San Antonio, TX,78212
+34802,294,Reggie's Tex-Mex Cafe #1,,,"Mexican, Breakfast and Brunch, Burgers",,29.358099,-98.435196,2543 Goliad Rd, San Antonio, TX,78223
+34804,292,Mi Tierra,4.5,20,"American, Comfort Food",,29.4250355,-98.5000875,218 Produce Row, San Antonio, TX,78207
+34805,291,Taquero Vaquero,4.7,13,"Mexican, Latin American, New Mexican",,29.44186,-98.51055,427 Lombrano Street, San Antonio, TX,78207
+34806,290,Grand Fortuna Chinese Restaurant,4.1,12,"Asian, Asian Fusion, Chinese",,29.4689,-98.53015,2618 Fredericksburg Rd, San Antonio, TX,78201
+34807,289,Mama's Gumbo,4.6,65,"Cajun / Creole, Wings, Seafood",,29.50888,-98.41053,2367 Austin Highway, San Antonio, TX,78218
+34808,286,Fina's Kitchen,4.3,15,"Mexican, Latin American, New Mexican",,29.46618,-98.50864,914 W Hildebrand Ave, San Antonio, TX,78201
+34809,285,tequla mexican restaurant,4.6,16,"Mexican, Latin American, New Mexican",,29.356381,-98.482507,1059 Southeast Military Drive, San Antonio, TX,78214
+34810,284,KUNG FU RICE (427 Lombrano Street),4.2,53,"Asian, Asian Fusion, Comfort Food",$,29.44191,-98.51055,427 Lombrano Street, San Antonio, TX,78207
+34811,282,Ruth's Chris Steak House (7720 Jones Maltsberger Rd),4.6,16,"Steak, American, Seafood",$,29.5057879,-98.4812829,7720 Jones Maltsberger Rd, San Antonio, TX,78216
+34812,281,Los Azulejos Restaurant,4.1,12,"Mexican, Pizza, Burgers",,29.53672,-98.525492,2267 NW Military Hwy, San Antonio, TX,78213
+34813,280,Chilaquil,4.7,37,"Mexican, Tacos, Snacks",,29.44192465,-98.48055247,312 Pearl Parkway, San Antonio, TX,78215
+34815,277,Deco Pizzeria (1815 Fredericksburg Rd.),3.9,13,"Salads, Pizza, Desserts, Healthy",$,29.4614836,-98.5233319,1815 Fredericksburg Rd, San Antonio, TX,78201
+34816,276,Powerbomb Pizza (San Antonio) (824 Afterglow Street),,,"Pizza, American, Italian",$,29.54725,-98.50645,824 Afterglow Street, San Antonio, TX,78216
+34817,275,Los Arcos Mexican Grill (Bulverde),4.6,118,"Mexican, New Mexican, Salads, Exclusive to Eats",$,29.6466728,-98.4243819,22106 Bulverde Road, San Antonio, TX,78259
+34818,272,Los Arcos Mexican Grill (Judson),4.7,167,"Mexican, Salads, Sandwich, Exclusive to Eats",$,29.588099,-98.378622,15179 Judson Road, San Antonio, TX,78247
+34819,270,Falafel Factory (5713 Evers Rd),,,"Mediterranean, Middle Eastern, Falafel, Greek, Sandwiches, Salads, Chicken",$,29.48953,-98.59832,5713 Evers Rd, San Antonio, TX,78238
+34820,269,Gunpowder Cafe (9903 Fredericksburg Rd),,,"Chicken, Halal, Vegetarian, BOGO, Exclusive to Eats",,29.53438,-98.57737,9903 Fredericksburg Rd, San Antonio, TX,78240
+34821,268,Happy Place Bar on Rittiman (4722 Rittiman Rd),,,"American, Burgers, Sandwiches",$,29.48373,-98.39912,4722 Rittiman Rd, San Antonio, TX,78218
+34822,267,One Pocha,,,"Korean, Asian, BBQ",$$,29.5099,-98.40741,4408 Walzem Road, San Antonio, TX,78218
+34823,265,Don Adolfo‚Äôs Bar and Grill,4.8,54,"Mexican, Latin American, New Mexican",$,29.62534,-98.49551,19141 Stone Oak Pkwy, San Antonio, TX,78258
+34825,259,Barbaro,4.8,109,"Italian, Pizza",$,29.4556727,-98.4916736,2720 McCullough Ave, San Antonio, TX,78212
+34826,256,Yum Thai 2 - San Antonio,4.5,13,"Vietnamese, Noodles, Healthy, Asian, Bubble Tea, Family Meals",$,29.638355,-98.45412,21038 Hwy 281 N Ste 103, San Antonio, TX,78258
+34827,254,Rotana,4.7,57,"Mediterranean, Burgers, Wings, Desserts, Sandwich, Salads, Family Meals, Healthy",$,29.5869707,-98.4529381,2250 Thousand Oaks, San Antonio, TX,78232
+34828,253,Filipino Express,4.6,76,"Asian, Desserts",$,29.4898459,-98.5853853,4963 NW Loop 410, San Antonio, TX,78229
+34829,248,Kobe Japanese steakhouse,,,"Japanese, Asian, Sushi",$,29.5211964,-98.5076133,1007 Northwest Loop 410, San Antonio, TX,78213
+34830,246,Senor Veggie,,,"Vegetarian, Vegan, Healthy",$,29.41511,-98.48832,620 S Presa St, San Antonio, TX,78210
+34831,245,Nee‚Äôs Thai &amp; Sushi,,,"Asian, Japanese, Desserts",$$,29.4202542,-98.4730957,1502 E Commerce St, San Antonio, TX,78205
+34832,244,Kawashi Sushi &amp; Asian Cuisine,,,"Sushi, Asian",$$,29.4273985,-98.4874691,124 Broadway St, San Antonio, TX,78205
+34833,243,Sushishima Japanese Restaurant,,,"Sushi, Asian, Japanese",$,29.610692,-98.510694,1205 N Loop 1604 W/Blanco, San Antonio, TX,78258
+34834,242,Pho Kim Long,,,"Vietnamese, Noodles, Healthy",,29.47058,-98.4914,4230 McCullough Ave, San Antonio,TX,78212
+34835,241,Sushi Express,,,"Korean, Sushi",$,29.643355,-98.490839,19903 Stone Oak Pkwy, San Antonio, TX,78258
+34837,239,Alamo Cafe (14250 San Pedro Ave),,,"Salads, Tacos, Mexican",$,29.57031,-98.47943,14250 San Pedro Avenue, San Antonio, TX,78232
+34838,238,Moroccan Bites,4.2,10,"Black-owned, Moroccan, Mediterranean, Desserts",$,29.4889426,-98.5986338,5718 Evers Rd, San Antonio, TX,78238
+34839,237,"Campeche Caf√©, Mexican Restaurant",,,"Latin American, Mexican, Tex Mex",,29.42657,-98.57345,629 Enrique M Barrera Pkwy, San Antonio, TX,78237
+34840,235,Las Palapas - Thousand Oaks,,,"Mexican, Latin American, New Mexican",$$,29.57858,-98.44252,2866 Thousand Oaks Drive, San Antonio, TX,78232
+34841,234,China Rose Pleasanton Rd,4.4,66,"Chinese, Asian, Noodles, Asian-owned",$,29.36861,-98.504542,1431 Pleasanton Rd, San Antonio, TX,78221
+34842,229,Lisboa Madrid,,,"Spanish, Seafood, Mediterranean",$$,29.54167,-98.41153,11211 Perrin Beitel Rd, San Antonio, TX,78217
+34843,231,Sapore's Pizza,3.9,14,"Pizza, American, Italian, Sandwiches, Salads, Desserts, Pasta",,29.54626,-98.6156,6422 Babcock, San Antonio, TX,78240
+34844,230,Thousand Oaks Cafe II,,,"Mexican, Tacos, Latin American, New Mexican, Breakfast and Brunch, Chicken, Steak, Asado, Soup, Burritos, Tex Mex, American",$,29.48997,-98.44246,1271 Austin Hwy, San Antonio, TX,78209
+34845,228,Thai Restaurant,4.7,37,"Thai, Asian, Noodles",$,29.4942982,-98.5699797,1709 Babcock Rd, San Antonio, TX,78229
+34846,227,Ray's Pizzaria,,,"Pizza, American, Italian",$$,29.52932,-98.50024,455 McCarty Road, San Antonio, TX,78216
+34847,225,Cascabel Mexican Patio,,,"Mexican, Latin American",,29.41446,-98.48888,1000 S Saint Mary's St, San Antonio, TX,78205
+34848,223,Thai Taste,4.7,33,"Thai, Asian, Noodles",$,29.4877345,-98.5966656,5520 Evers Rd, San Antonio, TX,78238
+34849,222,Bangkok 54 Thai Cuisine,,,"Asian, Asian Fusion, Korean",$$,29.51885,-98.45006,2515 Nacogdoches Road, San Antonio, TX,78217
+34850,221,Biryani Express Indian Cuisine,4.4,16,Indian,,29.53003,-98.59285,9390 Huebner Road, San Antonio, TX,78240
+34852,219,Asian Buffet (San Antonio),,,"Asian, Asian Fusion, Korean",$$,29.49501,-98.43291,1533 Austin Hwy, San Antonio, TX,78218
+34853,218,Roman's Pizza,4.5,27,"Pizza, Italian, Salads, Sandwiches",,29.50828,-98.55439,7806 Callaghan Road, San Antonio, TX,78229
+34856,213,China Express,4.3,13,"Chinese, Asian, Noodles",,29.428398,-98.568236,406 Enrique M. Barrera Pkwy, San Antonio, TX,78237
+34858,211,Julian's Italian Pizzeria &amp; Kitchen,,,"Pasta, Italian, Pizza",$$,29.59952633,-98.42061283,17230 Autry Pond, San Antonio, TX,78247
+34859,210,Camila's Mexican Restaurant,4.7,49,"Mexican, Latin American, New Mexican",$,29.642028,-98.518598,21510 Blanco Rd, San Antonio, TX,78260
+34861,208,El Original Asadero #1,4.4,23,"Mexican, Burgers",,29.4459537,-98.5304514,1327 Culebra Rd, San Antonio, TX,78201
+34862,207,410 Diner,,,"Coffee and Tea, American, Breakfast and Brunch",$$,29.514282,-98.466255,8315 Broadway St, San Antonio, TX,78209
+34864,205,Pinkfish Poke ,4.9,15,"Asian Fusion, Asian, Korean",$,29.5268055,-98.566241,9102 Wurzbach Rd, San Antonio, TX,78229
+34865,204,Ito Poke (427 Lombrano St),,,"Healthy, Sandwiches, Burgers, Comfort Food, American",$$,29.44191,-98.51055,427 Lombrano St, San Antonio, TX,78207
+34866,203,Beijing Express Restaurant (Fredericksburg Rd),4.3,72,"Chinese, Asian, Chicken",$$,29.5029825,-98.5609674,5203 Fredericksburg Rd, San Antonio, TX,78229
+34868,200,Kickin' Wings ,,,"Wings, Bubble Tea, Comfort Food, Family Meals",$,29.53253,-98.52174,2177 NW Military Hwy, San Antonio, TX,78213
+34869,198,Curry Villa (3720 Northwest Loop 410),,,"Asian, Indian, Comfort Food",$,29.49263,-98.55528,3720 Northwest Loop 410, San Antonio, TX,78229
+34870,197,Kim Tran Restaurant,,,"Chinese, Asian, Asian Fusion",$$,29.485502,-98.428031,1015 Rittiman Rd, San Antonio, TX,78218
+34871,195,China King Buffet,,,"Chinese, Seafood, Healthy",$$,29.5051611,-98.4984712,6900 San Pedro Ave, San Antonio, TX,78216
+34872,192,Mandarin Express (11911 Crosswinds Way),,,"Asian, Chinese, Noodles, Rice Dishes",$,29.54784,-98.37637,11911 Crosswinds Way, San Antonio, TX,78233
+34873,190,Surfing Crab (San Antonio),,,"American, Seafood, Chicken",,29.53241,-98.5626,9837 IH 10W, San Antonio, TX,78230
+34874,188,Angkor Bistro,4.7,69,"Asian, Asian Fusion, Korean, Vietnamese, Cambodian, Thai",,29.66152,-98.43696,3111 TPC Parkway, San Antonio, TX,78259
+34875,185,Mad Over Curry (220 Broadway),4.5,12,"Asian, Indian, Comfort Food",$,29.42816,-98.48725,220 Broadway, San Antonio, TX,78205
+34877,179,TK Teriyaki Kitchen (San Antonio),4.9,79,"Chinese, Asian, Asian Fusion, Healthy, Seafood",$,29.4374801,-98.5526177,422 N General McMullen Dr # 101-102, San Antonio, TX,78237
+34878,177,Native Grill and Wings San Antonio ,4.3,28,"American, Italian, Pizza, Family Meals",$,29.4674211,-98.623177,3238 Wurzbach Rd, San Antonio, TX,78238
+34879,172,Tong's Thai Restaurant,4.8,160,"Thai, Asian, Noodles",,29.48655,-98.44812,1146 Austin Highway, San Antonio, TX,78209
+34882,166,Vegan Tandoor Palace ,4.7,50,"Indian, Vegetarian, Asian, Healthy",$,29.5247775,-98.5692173,8783 Wurzbach Rd, San Antonio, TX,78240
+34884,161,Hung Fong Chinese Restaurant ,4.3,80,"Chinese, Seafood, Noodles",$$,29.460108,-98.46726,3624 Broadway St, San Antonio, TX,78209
+34885,159,Taco Blvd,4.6,200,Mexican,$$,29.610978,-98.506897,18360 Blanco Rd, San Antonio, TX,78258
+34886,158,Biryani Factory (3720 Northwest Loop 410),3.8,13,"Asian, Indian, Comfort Food, Pakistani, Chicken, Halal, Vegetarian, Fast Food",$,29.49263,-98.55528,3720 Northwest Loop 410, San Antonio, TX,78229
+34887,160,Cerroni's Purple Garlic,4.6,10,"Italian, Pasta, Comfort Food",$$,29.485145,-98.452805,1017 Austin Highway, San Antonio, TX,78209
+34888,157,Demo's Greek Food (Blanco),4.8,66,"Mediterranean, Greek, Vegetarian",$,29.52267,-98.50644,7115 Blanco Rd Ste 120, San Antonio, TX,78216
+34889,156,Delicious Garden,4.7,84,"Chinese, Asian, Asian Fusion",$,29.60405,-98.44411,2815 N Loop 1604 E, San Antonio, TX,78232
+34892,147,Sushishima Japanese Restaurant,4.7,111,"Sushi, Japanese",$,29.610692,-98.510694,1205 North Loop 1604 W, San Antonio, TX,78258
+34894,146,Tick-Tock Tikka House (220 Broadway),4.6,10,"Asian, Indian, Comfort Food",$,29.42816,-98.48725,220 Broadway, San Antonio, TX,78205
+34895,145,Green Vegetarian Cuisine (Alon),4.9,155,"Vegetarian, Healthy, Sandwich",$,29.5542182,-98.5363502,10003 Northwest Military Highway, San Antonio, TX,78230
+34896,144,Ito sushi,4.6,98,"Asian, Japanese, Sushi",,29.44191,-98.51055,427 Lombrano Street, San Antonio, TX,78207
+34898,140,The Afghan Village Restaurant &amp; Halal Market,4.6,34,"Mediterranean, Greek, Vegetarian",,29.48227,-98.54428,3825 Fredericksburg Road, San Antonio, TX,78201
+34899,139,Beijing Express,4.3,186,"Asian, Asian Fusion, Korean",$,29.4875317,-98.5080667,4407 Blanco Road, San Antonio, TX,78212
+34900,137,Sakura Asian cuisine ,4.4,69,"Asian: Other, Salads, Noodles",,29.646059,-98.42744,22103 Bulverde Rd #117, San Antonio, TX,78259
+34901,134,China Sun Restaurant (San Antonio),4.4,101,"Chinese, Vietnamese, Asian",$,29.544231,-98.4140307,4107 Naco Perrin Blvd, San Antonio, TX,78217
+34902,130,CantonEats (17700 San Pedro Avenue Ste 430),,,"American, Asian, Asian Fusion",$$,29.60183,-98.46861,17700 San Pedro Avenue Ste 430, San Antonio, TX,78232
+34903,129,Tokyo Express,,,"Asian Fusion, Asian, Korean",$$,29.51062,-98.38728,5203 Walzem Rd, San Antonio, TX,78218
+34904,127,Milano on Wurzbach,4.5,28,Italian,$$,29.550451,-98.541996,11802 Wurzbach Rd, San Antonio, TX,78230
+34905,126,Thai Lucky Restaurant (Pine St) ,4.7,200,"Thai, Sushi, Family Meals, Asian, Rice &amp; Curry, Soup, Noodles",$,29.4115486,-98.4704697,711 S Pine St, San Antonio, TX,78203
+34906,125,Bean Sprout Chinese Restaurant,4.7,44,"Sushi, Chinese, Asian, Family Meals",$,29.5220433,-98.4937175,25 NE Interstate 410 Loop, San Antonio, TX,78216
+34907,124,Kim Wah Chinese BBQ,4.8,81,"Chinese, Asian, Noodles",,29.501032,-98.62573,7080 Bandera Road, San Antonio, TX,78238
+34908,123,Thai Chili Express,4.7,200,"Thai, Asian, Noodles",$,29.57684,-98.44113,2950 Thousand Oaks Dr, San Antonio, TX,78247
+34909,122,Zaatar Lebanese Grill,4.7,159,"Mediterranean, Greek, Vegetarian, Healthy",$,29.529216,-98.56452,9323 Wurzbach Rd, San Antonio, TX,78240
+34910,120,Pick Up Stix (11911 Crosswinds Way),,,"Asian, Chinese, Noodles, Rice Dishes",$,29.54784,-98.37637,11911 Crosswinds Way, San Antonio, TX,78233
+34912,118,Sizzling Wok,4.4,129,"Chinese, Asian, Asian Fusion",$,29.60183,-98.46861,17700 San Pedro Ave, San Antonio, TX,78232
+34913,117,Thousand Oaks Cafe IV,4.6,49,"Mexican, Latin American, New Mexican, Breakfast and Brunch, Chicken, Asado, Steak, Soup, Burritos, Tacos, Tex Mex, American",$,29.55086,-98.40861,4334 Thousand Oaks Dr, San Antonio, TX,78217
+34914,116,Pompeii Italian Grill,4.5,29,"Italian, Pasta, Comfort Food",$$,29.58735,-98.36082,16109 Nacogdoches Rd, San Antonio, TX,78247
+34915,115,Myunggawon,,,"Korean, Asian, BBQ",$$,29.48395,-98.40752,4404 Rittiman Road, San Antonio, TX,78218
+34916,114,Hon Machi Korean BBQ,,,"Asian, Bento, Sushi",,29.51959,-98.50607,842 Northwest Loop 410 #107, San Antonio, TX,78216
+34917,112,El Tipico,4.3,29,Mexican,$,29.3978341,-98.3946888,4930 Rigsby Ave, San Antonio, TX,78222
+34918,111,Zorba's Greek Restaurant,4.6,25,"Greek, Mediterranean",$,29.5309556,-98.5219387,2110 NW Military Hwy, San Antonio, TX,78213
+34919,108,Thai Lucky Sushi Bar &amp; Restaurant (Navarro St),4.4,153,"Asian, Asian Fusion, Sushi, Thai, Rice Dishes, Soup, Rice &amp; Curry",,29.42128,-98.49045,102 Navarro Street, San Antonio, TX,78205
+34920,106,La Milanesa Restaurant and Grill,,,"Argentinian, South American, Salads, Pasta, Healthy",$,29.5286446,-98.4344927,3261 Nacogdoches Rd 101, San Antonio, TX,78217
+34921,104,Dosa City ,4.6,105,"Indian, Biryani, Asian",,29.53328,-98.57704,9903 Fredericksburg Road, San Antonio, TX,78240
+34922,103,Costa Pacifica,4.3,65,"Seafood, Mexican, Tex Mex",$$,29.6071722,-98.5012786,434 North Loop 1604 W, San Antonio, TX,78232
+34924,100,Mama Adam Foods,,,"Black-owned, Mediterranean, Sandwiches, Salads",,29.42517,-98.49461,4030 medical Dr, San Antonio, TX,78229
+34925,99,Cappalletti's Italian Food and Pizza on Bitters,4.1,32,"Italian, Pizza, Pasta, Exclusive to Eats, Salads, Sandwiches",$,29.5661458,-98.4861962,226 W Bitters Rd, San Antonio, TX,78216
+34926,98,Green Vegetarian Cuisine (Alamo Quarry),4.8,95,"Vegetarian, Healthy, Salads",$,29.49714489,-98.48174941,255 East Basse rd, San Antonio, TX,78216
+34928,95,Milano Italian Grill,4.6,62,"Italian, Family Meals, Salads",$$,29.6291116,-98.4957221,19239 Stone Oak Pkwy, San Antonio, TX,78258
+34930,87,Pockets Billiards Wings &amp; Beer,,,"Burgers, American, Sandwiches, Wings",,29.48082,-98.6072,5819 Northwest Loop 410, San Antonio, TX,78238
+34931,81,Po Po Trattoria Pizzeria,4.5,59,"Italian, Pizza, Pasta",$$,29.6151262,-98.4931722,18866 Stone Oak Parkway, San Antonio, TX,78258
+34933,79,Hook &amp; Reel (4987 Northwest Loop 410),4.8,57,"Seafood, American, Southern",$,29.4883,-98.58549,4987 Northwest Loop 410, San Antonio, TX,78229
+34934,75,Chef Joe Asian Cuisine,,,"Chinese, Asian, Asian Fusion",$$,29.5094,-98.38198,5456 Walzem Road, San Antonio, TX,78218
+34935,73,Cocina El Jibarazo,4.7,98,Puerto Rican,$,29.4986579,-98.4231746,1790 Austin Hwy, San Antonio, TX,78218
+34936,70,Lee's Kitchen (Perrin Beitel Rd),4.6,95,"Chinese, Asian, Asian Fusion",$,29.536453,-98.410965,10606 Perrin Beitel Rd, San Antonio, TX,78217
+34939,67,Third Coast Wings And Daiquiris,3.7,10,"Wings, American, Burgers, Comfort Food",,29.42499,-98.42375,3710 East Commerce Street, San Antonio, TX,78219
+34940,65,Panda Express (5738 Walzem Rd),4.6,137,"Asian, Chinese, Family Meals",$,29.5096807,-98.3722046,5738 Walzem Rd, San Antonio, TX,78218
+34941,64,Hootie's Bait &amp; Tackle (13131 San Pedro),4.3,37,"American, Barfood, Wings, Seafood, Fish and Chips, Desserts, Fast Food, Bar Food, Sandwich",$$,29.5616,-98.4842,13131 San Pedro, San Antonio, TX,78216
+34942,59,Myung Ga Won,4.6,81,"Korean, Asian, Asian Fusion",,29.48374,-98.40746,4400 Rittiman Rd, San Antonio, TX,78218
+34943,57,India Palace (San Antonio),4.7,179,"Indian, Family Meals",$,29.5198752,-98.5715412,8474 Fredericksburg Rd, San Antonio, TX,78229
+34944,56,QUARRY HOFBRAU &amp; BEER GARDEN,,,"Mexican, Sandwich",$$,29.4975723,-98.479523,7310 Jones Maltsberger Rd, San Antonio, TX,78209
+34946,50,Fratello's Italian Market &amp; Deli,4.6,83,"Pizza, Pasta, Breakfast and Brunch",$,29.4497596,-98.4747052,2503 Broadway St, San Antonio, TX,78215
+34947,47,The Hayden,4.7,33,"American, Deli, Cafe",,29.46306,-98.46561,4025 Broadway Street, San Antonio, TX,78209
+34948,44,India oven,4.7,200,Indian,$$,29.5454477,-98.5122181,1031 Patricia, San Antonio, TX,78213
+34949,43,Hoffman‚Äôs Steak House,4.2,29,"Steakhouse, American",$$,29.3978938,-98.3942506,4946 Rigsby Ave, San Antonio, TX,78222
+34950,37,Saltgrass (16910 US281 North),4.5,129,"Seafood, American, Southern, Healthy, Desserts, Alcohol",$$,29.5957524,-98.4713932,16910 US281 North, San Antonio, TX,78232
+34951,32,China Stix,4.8,10,Chinese,$$,29.64619,-98.4244,22100 Bulverde Rd, San Antonio, TX,78259
+34952,33,"Bed Bath &amp; Beyond (522 Northwest Loop,410 Suite 103)",,,"Retail, Gift Store, Beauty Supply",$,29.5183837,-98.50137051,522 Northwest Loop410, San Antonio, TX,78216
+34954,28,Chopstix Cafe,4.7,81,"Chinese, Asian, Chicken",,29.6427872,-98.4908477,19903 Stone Oak Parkway, San Antonio, TX,78258
+34955,27,Joe's Crab Shack (212 College St),4.4,19,"Seafood, American, Southern, Healthy, Desserts",$$,29.4257102,-98.4892373,212 College St, San Antonio, TX,78205
+34956,25,Caracheos (3033 MacArthu),,,"Mexican, Latin American, New Mexican",$$,29.5268745,-98.4394792,3033 MacArthur View, San Antonio, TX,78217
+34957,24,China Rose SW Military Drive,4.5,109,"Chinese, Asian, Asian-owned, Noodles, Rice Dishes",$,29.35766,-98.535223,2535 SW Military Dr, San Antonio, TX,78211
+34958,22,San Antonio Burger Co.,4.2,22,"American, Burgers, Sandwich, Salads, Wings, Comfort Food, Hot Dog",$,29.5188585,-98.572785,8440 Fredericksburg Rd, San Antonio, TX,78229
+34959,20,Los Cabos Wwwhite,,,"Burgers, American, Sandwiches",$$,29.38487,-98.40497,2525 South WW White Road, San Antonio, TX,78222
+34961,17,Kosta's Greek Food,,,"Mediterranean, Greek, Vegetarian",$$,29.55451,-98.40113,12606 Nacogdoches Road, San Antonio, TX,78217
+34962,16,Wasabi,4.6,74,"Sushi, Asian, Japanese",,29.5341352,-98.5634559,9921 I-10, San Antonio, TX,78230
+34963,15,Kiku Garden,,,"Sushi, Asian, Japanese",$$,29.48276,-98.40193,4527 Goldfield, San Antonio, TX,78218
+34964,12,Godai Sushi Bar &amp; Japanese Restaurant,4.6,77,"Japanese, Sushi, Rolls",$$,29.54176,-98.51405,11203 West Avenue, San Antonio, TX,78213
+34966,6,Bubba Gump Shrimp Co (406 Navarro St),3.6,20,"Seafood, American, Southern, Healthy, Desserts",$,29.4253674,-98.4896078,406 Navarro St, San Antonio, TX,78205
+34967,5,Mediterranean Turkish Grill,4.7,58,Mediterranean,$$,29.5161599,-98.4928404,8507 McCullough Ave, San Antonio, TX,78216
+34968,3,Leeann Chin (11911 Crosswinds Way),,,"Asian, Chinese, Noodles, Rice Dishes",$,29.54784,-98.37637,11911 Crosswinds Way, San Antonio, TX,78233
+34969,190,Sabor de M√©xico,,,"Mexican, Latin American, New Mexican, Breakfast and Brunch",$,29.491444,-98.43973,1367 Austin Hwy, San Antonio, TX,78209
+34971,188,Southtown Barbacoa,4.7,19,"Mexican, Latin American",,29.40443,-98.49538,317 Probandt, San Antonio, TX,78204
+34972,187,The Point Panaderia &amp; Cafe,4.8,13,"Breakfast and Brunch, Latin American, Asian",$$,29.527685,-98.393239,9735 N Interstate 35, San Antonio, TX,78233
+34973,185,Tacos El Guero Loko LLC,4.7,65,"Mexican, Latin American, Tacos",,29.60227,-98.5083,17595 Blanco Road, San Antonio, TX,78232
+34974,184,Rios Barbacoa,4.8,106,"Mexican, Latin American, New Mexican, BBQ",$,29.49005841,-98.59890447,5745 Evers Rd, San Antonio, TX,78238
+34975,183,Tacos El Regio -  Nacogdoches,4.5,168,"Mexican, Latin American, New Mexican",$,29.5570533,-98.3994637,12757 Nacogdoches Road, San Antonio, TX,78217
+34976,182,Sarah's Barbacoa,4.4,51,"Mexican, Latin American, New Mexican",$,29.56271,-98.60999,6330 De Zavala Rd, San Antonio, TX,78249
+34977,181,Birria Barrio,4.7,121,"Mexican, Latin American, New Mexican, Tacos, Mac and Cheese",,29.394902,-98.481135,2710 South Presa Street, San Antonio, TX,78210
+34979,178,The Burger Den (9550 I-10 West),4.6,53,"American, Burgers, Comfort Food, Vegetarian Friendly, Fast Food",$$,29.52913,-98.56125,9550 I-10 West, San Antonio, TX,78230
+34980,179,Mi Rodeo,4.4,109,"Mexican, Latin American, New Mexican, Family Meals",$,29.3978669,-98.3868904,5310 Rigsby Ave, San Antonio, TX,78222
+34981,175,Dona Tota (Southside),4.8,46,"Mexican, Latin American, New Mexican",,29.35102,-98.45993,2230 Southeast Military Drive #102, San Antonio, TX,78223
+34982,173,Fusion Food,,,"Pizza, American, Italian",$,29.51575,-98.57114,8132 Fredericksburg Road, San Antonio, TX,78229
+34984,171,Luciano's - South Park Mall,4.1,19,"Pizza, American, Italian, Wings, Pasta, Family Meals",$,29.355162,-98.52957,2310 S.W Military Dr Ste #107, San Antonio, TX,78224
+34985,170,Delicious Tamales (1330 Culebra Rd.),4.5,16,"Mexican, Latin American, New Mexican",,29.44532,-98.53117,1330 Culebra Road, San Antonio, TX,78201
+34986,169,Tejas Cafe,,,"Coffee and Tea, American, Breakfast and Brunch",$$,29.54967,-98.3758,12122 Oconnor Rd, San Antonio, TX,78233
+34988,165,Tia's Taco Hut (Babcock Rd.),3.9,13,"Mexican, Latin American, New Mexican",$,29.52267,-98.59975,5730 Babcock Road, San Antonio, TX,78240
+34989,163,4 Seasons Yogurt,5,25,"Ice Cream + Frozen Yogurt, Desserts, Comfort Food",$,29.6096729,-98.5114208,1207 Texas 1604 Access Rd, San Antonio, TX,78258
+34990,161,K&amp;K Donuts,5,23,"American, Sandwiches, Dount, Breakfast and Brunch, Coffee and Tea",,29.579168,-98.586598,5138 UTSA Boulevard, San Antonio, TX,78249
+34991,157,Birotes Tortas Ahogadas (West Martin),4.6,92,"Mexican, Latin American, New Mexican, Tacos, Tex Mex, Hot Dog, Burgers",$,29.43185,-98.52555,3004 West Martin Street, San Antonio, TX,78207
+34992,156,Las Palapas (O‚ÄôConnor),4.4,72,"Mexican, Latin American, Comfort Food",$,29.60113,-98.40509,4438 North Loop 1604 East, San Antonio, TX,78247
+34993,155,Alamo Pizza &amp; Wings,4.5,53,"Pizza, American, Italian",,29.38572,-98.53274,3938 S Zarzamora St, San Antonio, TX,78225
+34994,154,La Unica Birotes Restaurant (Goliad),4.3,59,"Mexican, Latin American, Tex Mex, Tacos, Tamale, Burgers, Breakfast and Brunch, Hot Dog",,29.35694,-98.43363,2622 Goliad Rd., San Antonio, TX,78223
+34997,146,Tink-A-Tako (2511 SE Military Dr),4.3,63,"Mexican, Latin American",$,29.3529388,-98.4531714,2511 SE Military Dr, San Antonio, TX,78223
+34998,145,Sandwich De Paris,4.9,11,"Sandwiches, American, Healthy",$$,29.5008065,-98.5765238,7220 Louis Pasteur Drive, San Antonio, TX,78229
+34999,143,Pan &amp; Coffee,4.9,67,"Coffee and Tea, American, Breakfast and Brunch",,29.63223,-98.49502,19298 Stone Oak Parkway, San Antonio, TX,78258
+35000,138,Los Generales (16216 Nacogdoches Road),4.6,49,"Mexican, Soup, Breakfast and Brunch, Latin American, New Mexican, Asado, Steak, Chicken, Soup, Burritos, Tacos, Tex Mex, American",$,29.58765,-98.35842,16216 Nacogdoches Road, San Antonio, TX,78247
+35001,137,Goombas Pizzeria,4.6,45,"American, Pizza",$,29.4930549,-98.5518653,4522 Fredericksburg Rd, San Antonio, TX,78201
+35002,133,El ranchero mexican restaurant,4.7,30,"Mexican, Latin American, New Mexican, Exclusive to Eats",$,29.688202,-98.47651,26180 Canyon Golf Road, San Antonio, TX,78260
+35003,130,Ay Chiwawa (1604 E),4.7,66,"Mexican, New Mexican, Latin American",,29.610222,-98.469448,1615 N Loop 1604 E, San Antonio, TX,78232
+35004,129,Paul's Pizza Roma,4.1,39,"Italian, Salads, Pasta, Healthy",$$,29.502044,-98.5601247,5137 Fredericksburg Rd, San Antonio, TX,78229
+35005,127,Vida Mia Mexican Cuisine,4.8,44,"Mexican, Latin American, New Mexican",$,29.625677,-98.49585,19141 Stone Oak Parkway #803, San Antonio, TX,78258
+35006,126,Cazadores Mexican Restaurant,4.8,34,"Mexican, Latin American, New Mexican, Tacos, Burritos, Soup, Seafood, Tex Mex",$,29.48494,-98.43101,927 Rittiman Rd, San Antonio, TX,78209
+35007,124, Las Adelitas El Pacifico,4.7,13,"Mexican, Latin American, New Mexican, South American, Fish and Chips, Seafood, Burritos, Tacos, Tex Mex, Soup",$,29.56656,-98.38627,13860 Nacogdoches Road, San Antonio, TX,78217
+35008,123,Con Huevos Tacos,4.7,48,"Mexican, Latin American, New Mexican",$,29.4253145,-98.4719507,1629 E Houston St, San Antonio, TX,78202
+35009,122,Urban Bricks Pizza (19141 Stone Oak Pkwy Suite 101),4.3,86,"Pizza, American, Italian",$$,29.62472,-98.49592,19141 Stone Oak Parkway, San Antonio, TX,78258
+35010,119,Demo's Greek Food (Stone Oak),4.8,139,"Sandwiches, American, Healthy, Greek, Mediterranean",$,29.60918,-98.51074,1205 N Loop 1604 W., San Antonio, TX,78258
+35013,116,Tommy's (Wurzbach Parkway),4.6,126,"Mexican, Latin American, New Mexican",$,29.5574,-98.51863,938 Wurzbach Parkway #109, San Antonio, TX,78231
+35014,115,El Taco De Jalisco,4.5,89,"Mexican, Latin American, New Mexican",,29.515208,-98.53547,4407 Vance Jackson Rd, San Antonio, TX,78230
+35015,114,Susana's Mexican Restaurant &amp; Catering,4.8,23,"Mexican, Latin American, New Mexican",$,29.4008784,-98.5306673,2223 S Zarzamora St, San Antonio, TX,78207
+35016,113,IHOP (17242 Autry Road),4,32,"American, Comfort Food",$,29.59854,-98.4213,17242 Autry Pond Road, San Antonio, TX,78247
+35017,112,Rami's Pizza,4.5,35,"Pizza, American, Italian",,29.54498,-98.41191,4189 Naco Perrin Blvd, San Antonio, TX,78217
+35018,111,Eddie's Taco House,4.6,151,"Mexican, New Mexican, Latin American, Tex Mex, Local Specialities",$,29.4106482,-98.5058014,402 W Cevallos, San Antonio, TX,78204
+35019,110,Tommy's Restaurant (Silicon Dr),4.9,150,"Mexican, Latin American, New Mexican",$,29.56567,-98.59349,12830 Silicon Dr., San Antonio, TX,78249
+35020,109,LISA'S MEXICAN RESTAURANT,4.4,44,"Mexican, Latin American, New Mexican",$,29.4559245,-98.5543323,815 Bandera Rd, San Antonio, TX,78228
+35021,108,Pizza Italia,4.6,58,"Pizza, American, Italian, Wings",$,29.5754934,-98.4392544,3023 Thousand Oaks Dr #101, San Antonio, TX,78247
+35022,107,Macs &amp; Stacks (La Cantera),4.2,40,"American, Burgers, Comfort Food, Pasta, Sandwich",$$,29.5932,-98.61091,15900 La Cantera Parkway, San Antonio, TX,78256
+35023,105,Tia's Taco Hut (Blanco Rd.),4.6,17,"Mexican, Latin American, New Mexican",$,29.52385,-98.50412,7214 Blanco Road, San Antonio, TX,78216
+35024,106,Goomba‚Äôs pizzeria,4.7,117,"Pizza, American, Italian",,29.52398,-98.504706,7216 Blanco Road, San Antonio, TX,78216
+35025,104,Bad-Ass Breakfast Burritos (Stone Oak),4.5,83,"Burgers, American, Sandwiches",$,29.64938,-98.45163,20907 Stone Oak Parkway, San Antonio, TX,78258
+35026,103,Embers Wood Fire Grill &amp; Bar,4.9,21,"Burgers, American, Sandwiches",$$,29.5313334,-98.5638968,9818 I-10, San Antonio, TX,78240
+35027,102,El Taco Grill (Huebner Rd ),4.6,200,"Mexican, American",$,29.6224103,-98.5125804,19211 Huebner Rd, San Antonio, TX,78258
+35028,101,Tommy's Restaurant (Medical Center),4.7,200,"Mexican, Latin American, New Mexican",$,29.52513,-98.56865,8823 Wurzbach Rd, San Antonio, TX,78240
+35029,96,Frontier Burger,,,"Breakfast and Brunch, American, Sandwiches",$$,29.51591,-98.46262,838 NE Lp 410, San Antonio, TX,78209
+35031,100,La Coronela Mexican Restaurant,4.7,28,"Mexican, Latin American, New Mexican, Family Meals",$,29.4214191,-98.4615301,201 N New Braunfels Ave, San Antonio, TX,78202
+35034,91,Mark's Outing,4.5,26,"Burgers, American, Sandwiches, Seafood, Bar Food, Cafe, Wings",$,29.419647,-98.470772,1624 E Commerce St, San Antonio, TX,78205
+35035,90,Tacos Chagos,4.5,64,"Mexican, Latin American, New Mexican",$,29.547888,-98.4103563,11827 Perrin Beitel Road, San Antonio, TX,78217
+35036,89,Tommy's Restaurant (IH35 &amp; Nogalitos),4.7,200,"Mexican, Breakfast and Brunch, Tacos",$,29.40149,-98.51124,1205 Nogalitos, San Antonio, TX,78204
+35038,86,The Hut Diner,4.7,16,"American, Diner",$,29.459837,-98.521047,1610 Fredericksburg Rd, San Antonio, TX,78201
+35039,85,Do√±a Tota (Northside),4.5,42,"Mexican, Latin American",$,29.5097885,-98.4997349,7053 San Pedro Ave, San Antonio, TX,78216
+35040,84,Cicis Pizza (6900 San Pedro Ave),,,"pizza, American, Sandwiches",$,29.50606,-98.49858,6900 San Pedro Avenue, San Antonio, TX,78216
+35041,83,Rolando's Super Tacos No 1,4.4,200,"Mexican, Latin American, New Mexican",$,29.466758,-98.508629,919 West Hildebrand Avenue, San Antonio, TX,78201
+35042,81,Boss Bagels,4.7,91,"Breakfast and Brunch, American, Sandwiches",$,29.48965,-98.45912,6458 N New Braunfels Ave, San Antonio, TX,78209
+35043,79,Blanco BBQ,4.6,200,"Burgers, American, Sandwiches, BBQ, Family Meals",$$,29.5652696,-98.5207704,13259 Blanco Rd, San Antonio, TX,78216
+35045,75,Which Wich (13429 San Pedro),4.5,51,"American, Sandwich",$,29.5650853,-98.4840428,13429 San Pedro Ave, San Antonio, TX,78216
+35046,80,Tommy's Restaurant (San Pedro),4.6,149,"Mexican, Latin American, New Mexican, Tacos, Breakfast and Brunch",$,29.49739,-98.49865,6510 San Pedro Ave, San Antonio, TX,78216
+35048,72,Tip Top Cafe,4.5,43,"American, Seafood",$$,29.470117,-98.531185,2814 Fredericksburg Rd, San Antonio, TX,78201
+35049,73,Buffalo Wild Wings GO (508 Chestnut St),4.8,26,"Burgers, American, Sandwiches, Wings, Chicken, Fast Food",$,29.42669,-98.47906,508 Chestnut, San Antonio, TX,78202
+35050,70,El Paraiso De Jalisco #2 ,4.5,74,"Mexican, Latin American, New Mexican",,29.56219,-98.38224,13550 O'Connor Road, San Antonio, TX,78233
+35051,69,Barbecue Station,,,"BBQ, American, Burgers",$$,29.51496461,-98.43940803,1610 Northeast Interstate 410 Loop, San Antonio, TX,78209
+35052,68,Firehouse Subs (The Colonnade III),4.4,39,American,$,29.5359586,-98.565733,9961 Interstate 10 Frontage Rd, San Antonio, TX,78230
+35053,67,Maple Street Biscuit Company (Quarry Village),4.7,50,"American, Breakfast &amp; Brunch, Comfort Food",$$,29.49533,-98.47913,290 East Basse Road, San Antonio, TX,78209
+35054,64,Marco's Pizza (5203 Eisenhauer Rd),4.6,160,"Pizza, American, Italian",$,29.4973,-98.3837,5203 Eisenhauer Rd, San Antonio, TX,78260
+35056,62,Las Palapas (4802 Walzem Road),4.4,56,"Black-owned, Mexican, Latin American, New Mexican, Family Meals",$,29.5098288,-98.3967802,4802 Walzem Road, San Antonio, TX,78218
+35057,61,Big'z Burger Joint,4.7,34,"Burgers, American, Sandwiches",$,29.6069486,-98.5290337,2303 N Loop 1604 W, San Antonio, TX,78258
+35058,59,Little Jamaica Foods Bar &amp; Grill,4.4,75,"Caribbean, Seafood, Latin American",,29.51017,-98.38168,5490 Walzem Rd, San Antonio, TX,78218
+35060,57,Dog Haus Biergarten ‚Äì Stone Oak ,4.6,78,"Burgers, American, Hot Dog",,29.64938,-98.45163,20907 Stone Oak Parkway, San Antonio, TX,78258
+35061,54,Shake Shack (Park North),4.7,200,"American, Burgers",$,29.5173826,-98.4998416,7411 San Pedro Avenue, San Antonio, TX,78216
+35062,53,Chicago Hot Dogs,4.8,36,"American, Burgers, Sandwiches",,29.55821762,-98.46170794,12914 Jones Maltsberger, San Antonio, TX,78247
+35063,50,Dignowity Meats On Houston Street,4.7,84,American,$,29.4252977,-98.4715268,1701 E Houston St, San Antonio, TX,78202
+35064,48,Lennys Grill &amp; Subs (17910 Bulverde Road),4.7,68,American,$,29.6039365,-98.4185054,17910 Bulverde Rd, San Antonio, TX,78259
+35065,47,Raising Cane's Chicken Fingers  (8402 Broadway St.),4.8,194,"Comfort Food, American, Chicken",$$,29.515244,-98.46498,8402 Broadway, San Antonio, TX,78209
+35066,44,Babe's Old Fashioned Food (Fredericksburg Rd.),4.3,91,"American, Family Meals",$,29.4904493,-98.552062,4535 Fredericksburg Rd, San Antonio, TX,78201
+35067,43,Golden Chick (4110 N Foster Rd),4.5,67,"Fast Food, Wings, American, Family Meals",$,29.46779,-98.35916,4110 N FOSTER RD, San Antonio, TX,78244
+35069,37,Wendy's  (11919 PERRIN-BEITEL),4.3,70,"American, Burgers, Fast Food",$,29.548904,-98.408904,11919 PERRIN-BEITEL, SAN ANTONIO, TX,78217
+35070,36,Dairy Queen (9726 Perrin Beitel),4.2,102,"Ice Cream + Frozen Yogurt, Burgers, Chicken, American",$,29.528778,-98.41062,9726 Perrin Beitel, San Antonio, TX,78217
+35071,35,BJ's Restaurant &amp; Brewhouse (San Antonio #480),4.4,190,"American, Burgers, Pizza, Family Meals",$$,29.6495,-98.4486,22410 Highway 281 North, San Antonio, TX,78259
+35072,33,Bill Miller Bar B Q -5113 WALZEM RD,4.1,69,"BBQ, American, Comfort Food, Family Meals",$$,29.5107239,-98.3885256,5113 Walzem Road, San Antonio, TX,78239
+35073,31,Al Carbon Pollos Asados,4.8,129,"Mexican, Latin American, New Mexican",$,29.5673359,-98.386617,13835 Nacogdoches Rd, San Antonio, TX,78217
+35077,27,Jersey Mike's Subs (999 Ease Basse Road),4.9,160,"Sandwich, American, Comfort Food",$,29.49797,-98.4686,999 East Basse Road, San Antonio, TX,78209
+35079,25,KFC (8727 Perrin Beitel),4.6,50,"American, Chicken, Comfort Food",$,29.5192,-98.41148,8727 Perrin Beitel, San Antonio, TX,78217
+35080,24,Cheesy Jane's,4.3,40,"Burgers, American, Hot Dog, Salads, Sandwiches, Comfort Food, Ice Cream",,29.46506,-98.46378,4200 Broadway St, San Antonio, TX,78209
+35081,20,Bush's Chicken (Nacogdoches),4.6,195,"Fast Food, American, Family Meals, Family Friendly",$,29.5655293,-98.3890692,13603 Nacogdoches Rd, San Antonio, TX,78217
+35082,23,Subway #35145 ,,,"Fast Food, Sandwich, American",$,29.5465,-98.3658,11726 I-35 North, San Antonio, TX,78233
+35083,19,Jack in the Box (859) 11615 N. Ih 35,3.8,135,"American, burger, Fast Food",$,29.5468462,-98.3682173,11615 N. Ih 35, San Antonio, TX,78233
+35084,18,Long John Silver's (5430 Walzem Rd),4.5,100,"Seafood, American, Family Meals, Fish and Chips, Chicken",$,29.5099521,-98.3822806,5430 Walzem Road, San Antonio, TX,78218
+35086,14,Sonic (11725 O'Connor Rd.),4.5,18,"Burgers, Sandwich, American, Fast Food, burger, Hot Dog, American, Sandwiches",$$,29.54777,-98.3711,11725 O'Connor Rd., San Antonio, TX,78233
+35087,15,Burger King (4618 Rittiman Road),4,31,"American, burger, Fast Food, Family Meals",$,29.483627,-98.401191,4618 Rittiman Road, San Antonio, TX,78218
+35092,6,Cracker Barrel Old Country Store (6330 N Interstate 35),4.4,200,"Burgers, American, Sandwiches, Family Meals",$,29.4863122,-98.4012565,6330 N Interstate 35, San Antonio, TX,78218
+35096,193,Sop‚Äôs kitchen ,,,"Chinese: Other, Asian",,29.47638,-98.35937,5418 North Foster Road, San Antonio, TX,78244
+35097,192,B&amp;D Ice House,,,"American, BBQ",$$,29.4139357,-98.4906558,1004 S Alamo St, San Antonio, TX,78210
+35099,189,Killer Kebob (5713 Evers Rd),,,"Middle Eastern, Mediterranean, Falafel, Sandwiches, Halal",$,29.48953,-98.59832,5713 Evers Rd, San Antonio, TX,78238
+35100,188,Mora Mediterranean Grill,,,"Middle Eastern, Mediterranean, Comfort Food, Vegan, Vegan Friendly",,29.52086,-98.57302,8620 Fredericksburg Road, San Antonio, TX,78240
+35101,187,Dos Amigos,,,"Mexican, Steak, Kids Friendly",$,29.3628769,-98.5036429,1900 Pleasanton Road, San Antonio, TX,78214
+35103,185,Figlios Pizzeria and Ristorante,,,"Italian, Pasta, Comfort Food, Salads, Sandwich, Pasta, Wings, Kids Friendly, Healthy, Family Friendly",$,29.61499,-98.315,18816 Fm 2252, San Antonio, TX,78266
+35104,184,Chismosa‚Äôs Cantina y Comida Texicana,,,"Mexican, Tacos, Kids Friendly",,29.57324,-98.51631,14355 Blanco Road, San Antonio, TX,78216
+35105,183,La Siberia Mexicana Inc,,,"Mexican, Vegetarian Friendly",,29.471339,-98.532403,3018 Fredericksburg Rd, San Antonio, TX,78201
+35106,182,El Ceviche De Waldito,,,"Vegetarian, Mexican, Chicken, Peruvian, Kids Friendly, Healthy, Seafood, Rice-bowls, Especialidades, Seafood",$,29.4876638,-98.5968946,5526 Evers Rd, San Antonio, TX,78238
+35107,181,46th St. Pizza,,,"Pizza, American, Italian, Comfort Food, Burgers, Wings, Pasta, Salads, Kids Friendly, Healthy, Exclusive to Eats",$,29.648874,-98.425402,22250 Bulverde Rd, San Antonio, TX,78259
+35108,180,La Puntada Restaurant,,,"Mexican, Latin American, Salads, Kids Friendly, Healthy",$,29.3832045,-98.4561565,117 Goliad Rd, San Antonio, TX,78223
+35109,178,Iron Cactus (San Antonio),,,"Mexican, Gluten Free Friendly",$$,29.4250333,-98.4909928,200 River Walk St #100, San Antonio, TX,78205
+35110,177,Acenar Mexican Restaurant ,,,"Mexican, Breakfast and Brunch, Kids Friendly",$$,29.4263024,-98.4918378,146 E Houston St, San Antonio, TX,78205
+35111,176,La Chiquita Paleteria Y Neveria,,,"American, Desserts, Kids Friendly",$,29.5015091,-98.4988548,6726 San Pedro Ave, San Antonio, TX,78216
+35112,175,Bok Choy,,,"Kids Friendly, Asian, Asian Fusion",$,29.474074,-98.4622363,5130 Broadway St, San Antonio, TX,78209
+35114,172,CHIN'S CHINESE KITCHEN,4.6,200,"Chinese, Asian, Asian Fusion, Kids Friendly, Local Specialities",$,29.4893384,-98.5992307,5764 Evers Rd, San Antonio, TX,78238
+35115,171,Tacos Betos,4.6,49,"Mexican, Burgers, Kids Friendly",$$,29.45047,-98.57686,3715 Culebra Road, San Antonio, TX,78228
+35116,173,"Johnny Rockets (849 E. Commerce, Space 677)",,,"American, Fast Food, Kids Friendly, Diner, Kids Friendly, Comfort Food, Burgers, Chicken, Breakfast and Brunch",$,29.42385,-98.48476,849 E Commerce St, San Antonio, TX,78205
+35118,169,Mr. Juicy,4.7,99,"American, Comfort Food, Kids Friendly",$,29.46623,-98.49965,3315 San Pedro Avenue, San Antonio, TX,78212
+35119,168,Ida Claire - San Antonio,4.4,43,"American, Sandwich, Family Friendly",,29.4974717,-98.4787341,7300 Jones Maltsberger Rd, San Antonio, TX,78209
+35120,166,Yuyus Pi√±as,4.8,11,"Desserts, Fruit, Kids Friendly",,29.58732,-98.45136,2235 Thousand Oaks Drive, San Antonio, TX,78232
+35121,167,La Focaccia Italian Grill,4.2,44,"Italian, Pizza, Family Friendly",$,29.4157068,-98.4890307,800 S Alamo St, San Antonio, TX,78205
+35122,164,Chow's Express,,,"Coffee and Tea, Kids Friendly, Snacks",,29.48385,-98.40658,4424 Rittiman Road, San Antonio, TX,78218
+35124,163,BurgerFi San Antonio-Alamo Heights,4.6,48,"Burgers, American, Vegetarian Friendly",$,29.5076533,-98.4583523,1907 Nacogdoches Rd., San Antonio, TX,78209
+35125,162,La Playa Seafood,4.3,32,"Mexican, Seafood, Kids Friendly, Family Meals",$,29.492729,-98.526245,3343 West Avenue, San Antonio, TX,78213
+35126,161,Pho 32,4.6,90,"Vietnamese, Noodles, Healthy, Vegetarian, Vegetarian Friendly, Thai, Rice Dishes, Chinese, Pho",$,29.58634,-98.4503,2413 Thousand Oaks Dr, San Antonio, TX,78232
+35127,160,Alida,,,"Sandwich, American, Allergy Friendly",$,29.418745,-98.505761,527 El Paso Street, San Antonio, TX,78207
+35128,158,The Growler Exchange Pizza &amp; Beer,,,"Pizza, Italian, Comfort Food, Allergy Friendly",$$,29.4646496,-98.4640624,4130 Broadway St # 2, San Antonio, TX,78209
+35129,159,Clementine,,,"Italian, Pasta, Comfort Food, Allergy Friendly",$,29.5326977,-98.5216488,2195 NW Military Hwy, San Antonio, TX,78213
+35130,157,Acha Bacha Indian Cuisine,,,"Indian, Vegetarian, Asian, Allergy Friendly",,29.397702,-98.463814,535 Kayton Avenue, San Antonio, TX,78210
+35131,156,Tacos Los Nortenos,,,"Mexican, Tacos, Allergy Friendly",,29.49418,-98.53543,2331 Vance Jackson Road, San Antonio, TX,78213
+35132,154,Buffalo Kitchen q,,,"Burgers, American, Sandwiches, Allergy Friendly",$,29.55846,-98.39592,13032 Nacogdoches Road 200, San Antonio, TX,78217
+35133,155,Center Court Pizza and Brew,,,"Pizza, American, Allergy Friendly",$,29.6351409,-98.5159138,20711 Wilderness Oak #113, San Antonio, TX,78260
+35134,153,Burrikos ,4.5,14,"Mexican, Tacos, Burritos, Allergy Friendly",,29.42792,-98.4943,316 North Flores Street, San Antonio, TX,78205
+35136,150,Ruth's Chris Steak House (600 E Market St),,,"Steak, American, Fast Food, Allergy Friendly",$$,29.4219236,-98.4848293,600 E Market St, San Antonio, TX,78205
+35137,148,SUPER DOG (427 Lombrano Street),3.5,21,"American, Sandwich, Hot Dog, Allergy Friendly",$,29.44191,-98.51055,427 Lombrano Street, San Antonio, TX,78207
+35138,147,SA Cloud Indian Kitchen,3.6,59,"Indian, Vegetarian, Asian, Allergy Friendly",,29.44191,-98.51055,427 Lombrano Street, San Antonio, TX,78207
+35139,145,il Forno (San Antonio),4.5,41,"Pizza, American, Italian, Allergy Friendly",$,29.4084468,-98.5020033,122 Nogalitos St, San Antonio, TX,78204
+35141,142,Indian Crepe Co. (9903 Fredericksburg Rd),,,"Indian, Vegetarian, Snacks, Street Food, Vegan Friendly",,29.53438,-98.57737,9903 Fredericksburg Rd, San Antonio, TX,78240
+35142,141,Lentil (9903 Fredericksburg Rd),,,"Indian, Healthy, Vegan Friendly, Fast Food, Gluten Free",,29.53438,-98.57737,9903 Fredericksburg Rd, San Antonio, TX,78240
+35143,140,India Taj Palace,4.8,76,"Indian, Indian Curry, Family Friendly",$$,29.6276438,-98.4937408,20323 Huebner Road, San Antonio, TX,78258
+35144,138,Tacos El Regio - St. Mary's,4.6,200,"Mexican, Latin American, New Mexican, Group Friendly",$,29.4509066,-98.4862643,2726 North Saint Mary's Street, San Antonio, TX,78212
+35145,137,Texas Crab Boil,4.1,54,"Seafood, Desserts, Kids Friendly",$,29.5040954,-98.6171405,6613 Evers Rd, San Antonio, TX,78240
+35146,135,Chick-fil-A  (10503 NW Military Highway),4.8,200,"American, Fried Chicken, Family Meals, Southern, Sandwich, Fast Food, Group Friendly",$,29.5551092,-98.5346207,10503 NW Military Hwy, San Antonio, TX,78230
+35147,133,Viva Vegeria,4.9,108,"Salads, Mexican, Vegetarian, Vegetarian Friendly, Vegan",$,29.3991856,-98.5124841,1422 Nogalitos, San Antonio, TX,78204
+35149,131,Shifu Noodle,4.6,148,"Asian, Asian Fusion, Korean",$,29.38036,-98.4593,3850 S New Braunfels Ave, San Antonio, TX,78223
+35150,127,Amigos Snacks And More #3,,,"Desserts, Kids Friendly, Snacks",,29.42401,-98.49302,126 East Main Plaza, San Antonio, TX,78205
+35151,126,Papa Murphy's  (938 Wurzbach Pkwy),4.9,17,"Pizza, American, Salads, Healthy",$,29.5574027,-98.5186682,938 Wurzbach Pkwy, San Antonio, TX,78231
+35153,124,Grand Buffet,4.1,19,"Chicken, Seafood, Salads, Healthy, Allergy Friendly",$,29.3580669,-98.5010573,615 SW Military Dr, San Antonio, TX,78221
+35154,121,Golden Chick (26210 Canyon Golf Road),4.8,21,"American, Salads, Comfort Food, Family Meals, Healthy, Family Friendly",$,29.688865,-98.476766,26210 Canyon Golf Rd, San Antonio, TX,78260
+35156,119,Hard Rock Cafe (San Antonio),,,"American, Traditional American, Comfort Food, Burgers, Steak, Chicken, Salads, Pasta, Kids Friendly, Desserts, Drinks, Cafe, Sandwich, Sandwiches",$,29.4251,-98.4894,111 W Crockett St, San Antonio, TX,78205
+35157,118,Kilwins San Antonio,,,"Desserts, Kids Friendly, chocolatier, Ice Cream + Frozen Yogurt",$$,29.424076,-98.487326,109 Alamo Plaza, San Antonio, TX,78205
+35158,117,El Chango Loco,4.9,18,"Ice Cream &amp; Frozen Yogurt, Comfort Food, Desserts, Allergy Friendly",$,29.351485,-98.503676,2802 Pleasanton Rd, San Antonio, TX,78221
+35159,114,La Sorrentina,4.7,60,"Sandwich, Pasta, Pizza, Salads, Chicken, Steak, Seafood, Kids Friendly, Desserts",$$,29.448803,-98.566369,3330 Culebra Rd, San Antonio, TX,78228
+35160,113,Cinnaholic (San Antonio),4.7,60,"Desserts, Bakery, Breakfast and Brunch, Coffee and Tea, Comfort Food, Vegan, Vegan Friendly, Vegetarian, Vegetarian Friendly, Healthy",$,29.41527,-98.48931,812 S. Alamo St., San Antonio, TX,78205
+35161,111,Po Po Trattoria Pizzeria,4.1,18,"Italian, Pizza, Pasta, Family Friendly",$$,29.5851944,-98.533076,15614 Huebner Rd, San Antonio, TX,78248
+35162,110,Wow Bao (2177 NW Military Hwy.),3.9,13,"Asian, Asian Fusion, Rice-bowls, Vegetarian Friendly, Chinese",$,29.5326,-98.52164,2177 Northwest Military Highway, San Antonio, TX,78213
+35163,109,The Exclusive Cake Shop ,4.4,36,"Bakery, Cupcakes, Desserts, Allergy Friendly",,29.50128,-98.624261,7015 Bandera Rd #13, San Antonio, TX,78240
+35164,107,Delice chocolatier &amp; patisserie,4.5,15,"Desserts, chocolatier, Pastry, Cupcakes, Gluten Free Friendly",$,29.6078432,-98.5050562,946 N Loop 1604 W, San Antonio, TX,78232
+35165,106,Kumori Sushi &amp; Teppanyaki - Stone Oak,4.8,89,"Sushi, Japanese, Desserts, Family Friendly",$$,29.6143297,-98.4849992,700 E Sonterra Blvd, San Antonio, TX,78232
+35168,102,Li's Restaurant  &amp; Sushi Bar,4.5,107,"Chinese, Seafood, Noodles, Chicken, Vegetarian Friendly, Family Friendly, Allergy Friendly, Sushi, Japanese",$$,29.62605,-98.49326,20330 Huebner Rd, San Antonio, TX,78258
+35169,101,Yellowfish Sushi (Wurzbach),4.8,65,"Sushi, Family Friendly",$,29.5267359,-98.5662186,9102 Wurzbach Rd, San Antonio, TX,78240
+35170,100,Chicken N' Biscuits by Cracker Barrel (98 NE Loop 410),3.6,16,"American, Comfort Food, Fried Chicken, Family Meals, Sandwich, Family Friendly",$$,29.51985,-98.48449,98 NE Loop 410, SAN ANTONIO, TX,78216
+35171,99,Nonno's Pasta Kitchen,2.9,67,"Pasta, Italian, American, Fast Food, Vegetarian Friendly",$,29.43802,-98.54174,901 NW 24th St, San Antonio, TX,78207
+35172,98,Don Pedro Mexican Restaurant,4.7,143,"Mexican, Sandwich, Breakfast and Brunch, Family Meals, Family Friendly, Kids Friendly, Local Specialities, Seafood, Steak, Desserts",$,29.356384,-98.517193,1526 SW Military Dr, San Antonio, TX,78221
+35173,95,Fish City Grill - San Antonio,4.5,90,"Seafood, American, Southern, Family Friendly",$$,29.6054052,-98.4674533,18130 San Pedro Ave, San Antonio, TX,78232
+35174,93,Grimaldi's Pizzeria (Quarry Village),4.5,58,"Italian, pizza, Salads, Healthy, Family Friendly",$$,29.4959572,-98.4788536,330 E Basse Rd Ste 101, San Antonio, TX,78209
+35175,97,Smokey Mo's BBQ (Stone Oak),4.7,182,"BBQ, American, Southern, Traditional American, Chicken, Sandwich, Kids Friendly, Breakfast and Brunch, Desserts, Comfort Food, Family Meals, Family Friendly, Group Friendly, Local Specialities",$,29.6420286,-98.4793432,20210 Stone Oak Pkwy, San Antonio, TX,78258
+35176,92,Bar-B-Cutie,4.5,84,"American, Sandwich, Family Friendly",$,29.5849953,-98.5956399,5603 Presidio Parkway, San Antonio, TX,78249
+35177,91,Jersey Mike's Subs (20323 Huebner Road),4.8,200,"Sandwich, American, Group Friendly",$,29.627111,-98.493824,20323 Huebner Road, San Antonio, TX,78258
+35178,90,El Carbonero Pollos Asados,4.7,200,"Mexican, Chicken, Healthy, Family Meals, Family Friendly, Group Friendly",$,29.4230577,-98.5553721,619 S General McMullen Dr, San Antonio, TX,78237
+35179,89,Papouli's Greek Grill (11224 Huebner Rd),4.8,133,"Mediterranean, Greek, Vegetarian, Vegetarian Friendly",$,29.54607,-98.57654,11224 Huebner Rd, San Antonio, TX,78230
+35180,88,Hon Machi Sushi &amp;  Teppanyaki (Stoneoak),4.7,105,"Japanese, Asian, Sushi, Noodles, Korean, Allergy Friendly",$,29.611051,-98.47413,1321 N Loop 1604 E Ste 108, San Antonio, TX,78232
+35181,87,Tandoor Palace Indian Restaurant,4.4,130,"Indian, Indian Curry, North Indian, South Indian, Asian, Vegetarian Friendly, Family Friendly",$,29.5247775,-98.5692173,8783 Wurzbach Rd, San Antonio, TX,78240
+35183,82,Eggspectation (San Antonio),4.7,69,"Breakfast and Brunch, American, Sandwiches, Family Meals, Family Friendly",$,29.607776,-98.4992485,402 N Loop 1604 W, San Antonio, TX,78232
+35184,80,Camp Outpost,4.7,47,"Burgers, American, Sandwiches, Allergy Friendly",$,29.41118,-98.49988,1811 S Alamo St, San Antonio, TX,78204
+35185,79,"El Pollo Loco (7327 San Pedro Ave,3777)",4,101,"Latin American, Mexican, New American, Family Meals, Family Friendly",$,29.5162359,-98.499688,7327 San Pedro Ave, San Antonio, TX,78216
+35186,78,Golden Dragon Express,4.6,78,"Chinese, Asian, Asian Fusion, Vegetarian, Vegetarian Friendly, Noodles, Rice Dishes, Kids Friendly, Soup",$,29.54252,-98.52924,2249 Lockhill Selma Rd, San Antonio, TX,78230
+35187,77,Poke Central,4.9,91,"Hawaiian, Poke, Vegetarian, Vegetarian Friendly, Healthy",$$,29.6077613,-98.5097328,1130 North Loop 1604 West., San Antonio, TX,78248
+35188,76,Little Italy Restaurant (San Antonio),4.6,117,"Italian, Desserts, Family Friendly",$$,29.5473053,-98.506643,824 Afterglow St, San Antonio, TX,78216
+35189,75,La Feria Del Taco,4.5,47,"Mexican, Comfort Food, Vegetarian Friendly",$,29.4871607,-98.4997588,5723 San Pedro Ave, San Antonio, TX,78212
+35190,73,EZ's Brick Oven &amp; Grill (6498 N New Braunfels Ave),4.5,63,"Burgers, American, Sandwiches, Pizza, Family Meals, Wings, Vegetarian Friendly, Soup, Salads, Bakery, Desserts, Ice Cream, Italian",$,29.49018,-98.45914,6498 N New Braunfels Ave, San Antonio, TX,78209
+35192,71,IHOP (6519 FM 78),4.3,146,"American, Breakfast and Brunch, burger, Comfort Food, Dinner, Omelette, salad, Traditional American, Family Meals, Family Friendly",$,29.4811825,-98.3603373,6519 FM 78, San Antonio, TX,78244
+35193,70,EZ's Brick Oven &amp; Grill (734 Bitters Rd),4.5,92,"Pizza, American, Italian, Wings, Salads, Fish &amp; Seafood, Burgers, Family Meals, Vegetarian Friendly, Soup, Bakery, Desserts, Ice Cream",$,29.56556,-98.48383,734 Bitters Rd, San Antonio, TX,78216
+35194,69,Bakery Lorraine (Pearl),4.8,87,"Bakery, Cafe, Breakfast and Brunch, Desserts, Family Friendly",$$,29.4420363,-98.4800905,306 Pearl Pkwy, San Antonio, TX,78215
+35195,68,Big Lou's Pizza,4.7,200,"American, Vegetarian Friendly, Italian, Family Friendly",$,29.3943129,-98.4041002,2048 S.W.W.  White Road, San Antonio, TX,78222
+35196,67,Noppagao Thai Cuisine,4.8,172,"Thai, Noodles, Salads",,29.50434,-98.56111,5242 Fredericksburg Road, San Antonio, TX,78229
+35198,64,Spice Fine Indian Cuisine,4.2,200,"Indian, Family Friendly, Group Friendly, Vegetarian, Vegetarian Friendly",$$,29.4922157,-98.5561931,3720 Northwest Loop 410, San Antonio, TX,78229
+35200,63,Rocky's Taco House,4.3,200,"Mexican, Latin American, New Mexican, Tacos, Breakfast and Brunch, Sandwiches, Sandwich, Kids Friendly, Seafood, Soup",$,29.354717,-98.504295,2423 Pleasanton Rd, San Antonio, TX,78221
+35202,61,Golden Wok Chinese Restaurant,4.8,200,"Chinese, Asian, Asian Fusion, Family Friendly, Group Friendly",$,29.5245496,-98.5678885,8822 Wurzbach Rd, San Antonio, TX,78229
+35203,59,Beijing Restaurant &amp; Gift Shop (Embassy Row),4.7,120,"Chinese, Asian, Vegetarian, Vegetarian Friendly, Kids Friendly, Ramen, Soup",$,29.564964,-98.485214,13730 Embassy Row, San Antonio, TX,78216
+35205,54,Snooze AM Eatery (Alamo Quarry Market),4.6,81,"Breakfast and Brunch, American, Sandwiches",$,29.49356,-98.47978,255 East Basse Road, San Antonio, TX,78209
+35206,53,Dahlia Thai Cuisine,4.8,161,"Thai, Family Friendly, Group Friendly",$,29.5205336,-98.5723115,8498 Fredericksburg Rd, San Antonio, TX,78229
+35208,51,Sushi Seven,4.8,200,"Sushi, Japanese, Family Meals, Group Friendly",$,29.6246759,-98.4963278,19141 Stone Oak Pkwy, San Antonio, TX,78258
+35210,49,Pete's Tako House (Brooklyn Ave),4.7,200,"Breakfast, Mexican, Burgers, Desserts, Salads, Breakfast and Brunch, Healthy, Family Meals, Group Friendly",$$,29.4329593,-98.4843854,502 Brooklyn Avenue, San Antonio, TX,78215
+35211,48,Wah Kee Chinese restaurant,4.6,200,"Chinese, Asian, Family Meals, Group Friendly, Chicken, Steak, Vegetarian, Soup, Kids Friendly, Rice Dishes, Noodles, Desserts",$,29.611118,-98.5070826,18360 Blanco Rd, San Antonio, TX,78258
+35212,47,The Friendly Spot,,,"Burgers, American, Sandwiches",$$,29.414381,-98.490757,943 South Alamo Stree, San Antonio, TX,78204
+35213,45,Kai Japanese sushi restaurant,4.4,139,"Japanese, Family Friendly",$,29.512785,-98.5340128,2535 Northwest Loop 410, San Antonio, TX,78230
+35214,46,Spice Grill and Bar,4.5,200,"Indian, Pakistani, Asian, Vegetarian, Vegetarian Friendly",$,29.4281796,-98.4872048,220 Broadway St, San Antonio, TX,78205
+35216,43,Lemongrass Thai Restaurant,4.8,95,"Thai, Noodles, Salads",,29.594242,-98.472188,16666 San Pedro Avenue, San Antonio, TX,78232
+35217,42,Earth Burger (San Antonio),4.7,54,"Burgers, Sandwich, Desserts, American, Fast Food, Comfort Food, Vegan, Vegan Friendly, Vegetarian, Vegetarian Friendly, Healthy, Gluten Free, Gluten Free Friendly, Kids Friendly, Allergy Friendly, Ice Cream",$$,29.519256,-98.50523,818 NW Loop 410, San Antonio, TX,78216
+35219,40,Taqueria Perla Tapatia,4.4,78,"Mexican, Latin American, New Mexican, Allergy Friendly",$$,29.48368,-98.3914,5102 Rittiman Road, San Antonio, TX,78218
+35220,39,Tarka Indian Kitchen (North Loop),4.8,200,"Indian, Vegetarian, Healthy, Family Friendly, Group Friendly",$,29.6099515,-98.4991143,427 North Loop 1604 W, San Antonio, TX,78258
+35222,37,Earth Burger (Nacogdoches St),4.5,50,"American, Sandwiches, Burgers, Desserts, Comfort Food, Vegan Friendly, Vegetarian Friendly, Vegan, Vegetarian, Gluten Free, Gluten Free Friendly, Fast Food, Allergy Friendly, Kids Friendly, Ice Cream",$,29.5182751,-98.4501988,2501 Nacogdoches Rd, San Antonio, TX,78217
+35224,33,Thai Hut,4.8,200,"Thai, Asian, Noodles, Family Friendly, Group Friendly",$$,29.60203,-98.53369,2602 N Loop 1604 W, San Antonio, TX,78248
+35225,35,Shake Shack (Brackenridge Park),4.7,200,"American, Burgers, Sandwich, Group Friendly",$,29.45469992,-98.47179504,3003 Broadway Street, San Antonio, TX,78209
+35226,32,Salsalito Mexican Restaurant¬†,4.5,169,"Mexican, Family Friendly",$$,29.5727251,-98.3797707,14535 Nacogdoches Rd, San Antonio, TX,78247
+35227,31,Zio's Italian Kitchen - Hwy 281,4.5,200,"Italian, Pasta, Family Friendly, Group Friendly",$,29.6045225,-98.4674143,18030 US-281, San Antonio, TX,78232
+35229,29,Wen Wah Chinese Restaurant,4.6,200,"Chinese, Group Friendly",$,29.4260782,-98.4615529,531 N New Braunfels Ave, San Antonio, TX,78202
+35231,27,Thai Casa,4.7,75,"Thai, Asian, Noodles, Vegetarian, Vegetarian Friendly, Kids Friendly, Local Specialities, Bubble Tea",$,29.5176451,-98.4650047,8503 Broadway Street, San Antonio, TX,78217
+35232,26,Buffalo Wild Wings (8450 N Interstate 35),4.3,151,"wings, American, Burgers, Family Friendly",$$,29.5138187,-98.3960284,8450 N Interstate 35, San Antonio, TX,78239
+35233,25,Pho Tommy #1,4.7,110,"Vietnamese, Noodles, Healthy, Thai, Vegetarian, Soup, Pho, Rice &amp; Curry, Bubble Tea, Desserts, Local Specialities, Vegetarian Friendly",$,29.5752413,-98.4390258,3023 Thousand Oaks Dr, San Antonio, TX,78247
+35234,24,Yokai Japanese &amp; Asian Restaurant,4.8,71,"Japanese, Ramen, Comfort Food, Allergy Friendly",,29.57857,-98.44084,2923 Thousand Oaks Drive, San Antonio, TX,78247
+35235,23,El Rodeo De Jalisco (Interstate 10),4.4,200,"Mexican, Group Friendly",$,29.4378066,-98.3810323,5510 Interstate 10 Frontage Road, San Antonio, TX,78219
+35236,21,Yaya's Thai Restaurant (McCullough),4.7,94,"Thai, Asian, Noodles",$,29.4796818,-98.4922755,5305 McCullough Avenue, San Antonio, TX,78212
+35239,17,54th Street Restaurant &amp; Drafthouse - (Colonnade),4.7,200,"Burgers, American, Sandwiches, Family Friendly",$,29.532985,-98.563055,9907 I-10, San Antonio, TX,78230
+35240,16,Taco Palenque (Loop 410),4.7,200,"Mexican, Breakfast and Brunch, Latin American, Family Meals, Family Friendly",$,29.5155772,-98.4593443,1002 NE Interstate 410 Loop, San Antonio, TX,78209
+35242,14,Project Pollo (N Alamo St),4.6,190,"American, Vegan Friendly, Comfort Food",,29.43188,-98.48217,723 North Alamo Street, San Antonio, TX,78215
+35243,13,Tony Gs Soul Food,4.6,76,"Black-owned, Soul Food, American, Burgers, Allergy Friendly",$,29.4098051,-98.4736595,915 S Hackberry, San Antonio, TX,78210
+35244,10,Pei Wei (999 E Basse Rd. Suite 199),4.5,110,"Chicken, Salads, Asian, Chinese, Asian Fusion, Thai, Family Meals, Family Friendly",$$,29.4972028,-98.4693446,999 E Basse Rd., San Antonio, TX,78209
+35247,7,Longhorn Cafe (Rittiman Road),4.6,200,"Burgers, American, Sandwiches, Comfort Food, Family Friendly",$,29.48599,-98.4290008,1003 Rittiman Rd, San Antonio, TX,78218
+35248,6,Thai Topaz (Castle Hills),4.8,146,"Thai, Noodles, Asian, Asian Fusion, Family Friendly, Family Meals, Vegetarian Friendly",$,29.5326357,-98.5216687,2177A NW Military Hwy, San Antonio, TX,78213
+35249,5,P.F. Chang's (San Antonio),4.6,200,"Chinese, Family Friendly",$$,29.4950877,-98.4820704,255 E Basse Rd Suite 1200, San Antonio, TX,78216
+35250,4,Panda Express (6355 Rittiman Road),4.7,200,"Asian, Chinese, Family Meals, Group Friendly",$,29.4811892,-98.3621479,6355 Rittiman Rd, San Antonio, TX,78244
+35251,3,Thai Walzem Cuisine,4.6,75,"Thai, Asian, Noodles, Vietnamese, Chinese, Japanese, Local Specialities, Rice &amp; Curry, Bubble Tea, Sushi, Desserts, Kids Friendly, Pho, Soup",$,29.5104146,-98.3906177,5009 Walzem Rd, San Antonio, TX,78218
+35252,2,Tasty Thai Restaurants,4.4,176,"Thai, Sushi, Asian, Family Friendly, Chinese, Noodles, Rice &amp; Curry, Rice Dishes, Desserts, Coffee and Tea, Fish &amp; Seafood, Vegetarian Friendly",$$,29.5800459,-98.4752175,14516 Brook Hollow Blvd, San Antonio, TX,78232
+35253,1,Bamboo,4.6,200,"Chinese, Asian, Kids Friendly, Noodles, Group Friendly",$$,29.4135038,-98.4996326,1010 S Flores St, San Antonio, TX,78204
+35254,75,Beer N All,,,"Alcohol, Wine",$,29.51455,-98.52568,5132 West Avenue, San Antonio, TX,78213
+35255,74,Southern Liquor and Wine,,,"Alcohol, Liquor Stores, Drinks",,29.496082,-98.434737,3253 Harry Wurzbach Road, San Antonio, TX,78209
+35256,73,Southern Liquor and Wine,,,"Alcohol, Liquor Stores, Drinks",$,29.52848,-98.51983,1908 Northwest Military Highway, San Antonio, TX,78213
+35257,72,Beer N All,,,"Alcohol, Wine",$,29.3541575,-98.4765625,1331 SE Military Dr, San Antonio, TX,78214
+35258,71,Sam's Famous Salsa (427 Lombrano St),,,"Mexican, New Mexican, Comfort Food, Alcohol",$,29.44191,-98.51055,427 Lombrano St, San Antonio, TX,78207
+35259,70,"Chinese Yum! Yum! (427 Lombrano St,)",,,"Chinese, Asian, Noodles, Alcohol",$,29.44191,-98.51055,427 Lombrano St, San Antonio, TX,78207
+35260,69,"Poke Picnic (427 Lombrano St,)",,,"Hawaiian, Japanese, Poke, Alcohol",$,29.44191,-98.51055,427 Lombrano St, San Antonio, TX,78207
+35261,66,"Sushi Sensei (427 Lombrano St,)",,,"Japanese, Asian, Sushi, Alcohol",$,29.44191,-98.51055,427 Lombrano St, San Antonio, TX,78207
+35262,65,Hopdoddy Burger Bar (The Vineyard),4.5,176,"American, Burgers, Alcohol",$,29.60939,-98.5120641,1301 North Loop 1604, San Antonio, TX,78258
+35263,63,Snack Attack - Nacogdoches Rd (Powered by Lula),,,"Convenience, Snacks, Everyday Essentials, Alcohol",$,29.55281,-98.40397,12434 Nacogdoches Road, San Antonio, TX,78217
+35264,62,Claude Hopper's,,,"Pizza, Chicken, Comfort Food, Alcohol",$,29.6207142,-98.5113752,19178 Blanco Rd, San Antonio, TX,78258
+35265,60,Willie's Grill &amp; Icehouse (San Pedro),4.6,156,"Traditional American, American, Family Friendly, Wings, Alcohol",$,29.5863955,-98.475892,15801 San Pedro Ave, San Antonio, TX,78232
+35266,59,Arrow Sub Shop (427 Lombrano Street),,,"Sandwiches, American, Alcohol",$$,29.44194688,-98.51041451,427 Lombrano street, San Antonio, TX,78207
+35267,58,"Tikka Taj (10222 Huebner Rd,)",,,"Indian, Vegetarian, Asian, Alcohol",$,29.53875,-98.58462,10222 Huebner Rd, San Antonio, TX,78240
+35268,57,August (427 Lombrano St),,,"Healthy, Grocery, Alcohol",$,29.44191,-98.51055,427 Lombrano St, San Antonio, TX,78207
+35269,56,Curry Home (10222 Huebner Rd),,,"Indian, Vegetarian, Asian, Alcohol",$,29.53875,-98.58462,10222 Huebner Rd, San Antonio, TX,78240
+35270,55,Hot Kurry (10222 Huebner Rd),,,"Indian, Vegetarian, Asian, Alcohol",$,29.53875,-98.58462,10222 Huebner Rd, San Antonio, TX,78240
+35272,53,Hunt Brothers Pizza - Nacogdoches Rd,4.4,26,"Pizza, Wings, Convenience, Alcohol, Everyday Essentials",,29.55285,-98.4039,12434 Nacogdoches Road, San Antonio, TX,78217
+35273,52,FREAKING GOOD PIZZA,,,"Italian, Pizza, Alcohol",$,29.54725,-98.50645,824 Afterglow St, San Antonio, TX,78216
+35274,50,"Roti Roll (10222 Huebner Rd,)",,,"Sushi, Asian, Japanese, Alcohol",$,29.53875,-98.58462,10222 Huebner Rd, San Antonio, TX,78240
+35275,49,Albi's Vite Italian Kitchen,4.6,200,"Italian, Pasta, Pizza, Alcohol, Group Friendly, Sandwiches, Gluten Free Friendly, Vegetarian Friendly, Soup, Salads, Chicken, Seafood, Steak, Desserts",,29.48899,-98.58508,4979 Northwest Loop 410, San Antonio, TX,78229
+35276,48,Hearthstone Bakery Cafe &amp; Event Center,4.8,24,"American, Breakfast and Brunch, Desserts, Alcohol",$,29.50597,-98.43413,3920 Harry Wurzbach Road, San Antonio, TX,78218
+35277,47,Blazin' Bamboo (17700 San Pedro Avenue Ste 430),,,"Asian, Chinese, Alcohol",$$,29.60183,-98.46861,17700 San Pedro Avenue Ste 430, San Antonio, TX,78232
+35278,45,Bakudan Ramen,4.8,200,"Ramen, Japanese, Comfort Food, Alcohol, Wine",$,29.6101691,-98.5982357,17619 La Cantera Pkwy 208, San Antonio, TX,78257
+35279,46,Pasta Glory (824 Afterglow St),3.8,19,"Italian, Pasta, Alcohol",$,29.54725,-98.50645,824 Afterglow St, San Antonio, TX,78216
+35280,43,Ilsong Garden,4.8,195,"Korean, Asian, BBQ, Soup, Desserts, Vegetarian Friendly, Vegetarian, Fish &amp; Seafood, Stir‚Äã Fried, Local Specialities, Alcohol",$,29.5187449,-98.507876,6905 Blanco Rd, San Antonio, TX,78216
+35281,42,Pimp my Pasta (824 Afterglow St),3.9,28,"Italian, Pasta, Alcohol",$,29.54725,-98.50645,824 Afterglow St, San Antonio, TX,78216
+35283,40,Fleming‚Äôs Prime Steakhouse &amp; Wine Bar (San Antonio),4.6,45,"Steak, Salads, Family Meals, Burgers, Healthy, American, Sandwiches, Seafood, Alcohol",$$$,29.4952727,-98.479772,255 East Basse Rd., San Antonio, TX,78209
+35284,39,Ichiban Steak &amp; Asian Fusion,4.7,171,"Japanese, Asian, Noodles, Family Meals, Alcohol, Rice Dishes, Japanese Style curry, Soup, Salads, Vegetarian, Vegetarian Friendly, Ramen, Sushi, Healthy",$,29.519968,-98.6043547,8601 Huebner Rd, San Antonio, TX,78240
+35285,38,Eddie's Taco House(3755 Thousand Oaks Dr),4.5,200,"Mexican, Latin American, New Mexican, Group Friendly, Tex Mex, Local Specialities",$,29.5627437,-98.42289231,3755 Thousand Oaks Dr, San Antonio, TX,78247
+35286,37,Cured,,,"American, Allergy Friendly, Alcohol",$$,29.4419648,-98.4798832,306 Pearl Pkwy, San Antonio, TX,78215
+35287,36,Brick House Tavern + Tap (1011 N Loop 1604 E),4.4,20,"American, Traditional American, Burgers, Alcohol",$$,29.6111237,-98.4777959,1011 N Loop 1604 E, San Antonio, TX,78232
+35288,35,Cerveceria Chapultepec (Elimira),,,"Mexican, Latin American, New Mexican, Alcohol",$,29.44079,-98.48554,906 East Elmira Street, San Antonio, TX,78212
+35289,33,Velvet Taco (Rim Crossing),4.7,120,"Gourmet, Gluten Free Friendly, Vegetarian Friendly, Tacos, New American, New Mexican, Alcohol",$,29.59194,-98.59316,5515 N Loop 1604 W #105, San Antonio, TX,78257
+35290,31,Hooters (San Pedro Ave &amp; Embassy Oaks),4.6,149,"American, Bar Food, Wings, Chicken, Burgers, Alcohol",$$,29.5616031,-98.4842684,13131 San Pedro Ave, San Antonio, TX,78216
+35291,29,Wild Peckers San Antonio,4.4,91,"American, Wings, Chicken, Alcohol",$,29.48057,-98.60623,5809 Northwest Loop 410, San Antonio, TX,78238
+35292,28,Formosa Garden,4.6,200,"Chinese, Asian, Family Meals, Alcohol",$,29.5170115,-98.4580155,1011 NE Interstate 410 Loop, San Antonio, TX,78209
+35293,25,Velvet Taco (The Pearl),4.7,123,"Mexican, Tacos, Burritos, Alcohol",$,29.44479,-98.48172,103 W. Grayson Street, San Antonio, TX,78212
+35294,23,Saltgrass (60 North East loop 410),4.6,74,"Seafood, American, Southern, Healthy, Desserts, Alcohol",$$,29.5195901,-98.4896342,60 North East loop 410, San Antonio, TX,78216
+35295,21,Thrifty Liquors,5,17,"Alcohol, Drinks, Wine",$,29.5725,-98.54672,14602 Huebner Road, San Antonio, TX,78230
+35296,20,Boulevard Spirits,,,"Alcohol, Drinks, Wine",$,29.5355254,-98.3764422,5715 Randolph Boulevard, San Antonio, TX,78233
+35298,6,Thrifty Liquor,4.9,19,"Alcohol, Liquor Stores, Drinks, Wine",$,29.59521,-98.42175,17026 Bulverde Rd, San Antonio, TX,78247
+35301,103,Zero Degrees - NE San Antonio,,,"Juice and Smoothies, Healthy, Coffee and Tea, Family Meals",$,29.6052675,-98.4177121,18010 Bulverde Rd, San Antonio, TX,78259
+35302,102,Los Cocos Fruteria Y Taqueria,,,"Juice and Smoothies, Breakfast and Brunch, Vegetarian, Seafood",,29.467053,-98.567306,1502 Bandera Rd, San Antonio, TX,78228
+35303,101,I'll Have A Smoothie: Fresh Drinks &amp; Smoothies,,,"Coffee and Tea, American, Breakfast and Brunch",,29.57344,-98.51611,14375 Blanco Road, San Antonio, TX,78248
+35304,100,Flush Juicery,,,"Juice &amp; Smoothies, American, Snacks",,29.57875,-98.47698,15060 San Pedro Avenue, San Antonio, TX,78232
+35305,99,Canyon Cup (427 Lombrano St),,,"Healthy, Comfort Food, American",$$,29.44191,-98.51055,427 Lombrano St, San Antonio, TX,78207
+35306,98,Vanessa's Mexican Food,,,"Mexican, Breakfast and Brunch, Comfort Food",,29.4446477,-98.4947699,1621 N Main Ave, San Antonio, TX,78212
+35307,97,Pops Ice Cream Sweet and Treats,,,Desserts,$,29.4931524,-98.5521205,4522 Fredericksburg Rd, San Antonio, TX,78201
+35309,95,The Good Kind Southtown,,,"Sandwiches, American, Healthy",$,29.411854,-98.4885926,1127 South St. Mary‚Äôs, San Antonio, TX,78210
+35310,91,Marble Slab Creamery (Ingram Park),,,"Ice Cream + Frozen Yogurt, Desserts",$,29.4689832,-98.621558,6301 NW Loop 410, San Antonio, TX,78238
+35311,93,Juice Joint,,,"Juice and Smoothies, Drinks",,29.55056,-98.54119,11858 Wurzbach Rd, San Antonio, TX,78230
+35312,90,Zero Degrees - San Antonio,,,"Juice and Smoothies, Chicken, Coffee and Tea, Family Meals",$$,29.5187739,-98.5078009,6903 Blanco Rd, San Antonio, TX,78216
+35313,89,Las Nieves Fruit Cups &amp; More,4.5,54,"Mexican, Desserts, Comfort Food",,29.466178,-98.512659,1118 W Hildebrand Ave Ste 101, san antonio, TX,78201
+35314,88,Bobalicious Wi-fi Cafe,4.9,36,"American, Juice and Smoothies, Bubble Tea, Desserts, Snacks, Comfort Food, Allergy Friendly",,29.4897,-98.58542,4961 Northwest Loop 410, San Antonio, TX,78229
+35315,87,Namaste chill and grill,,,"Vegetarian, Plant Based, Gluten Free, Allergy Friendly, Vegan",,29.547845,-98.376367,11911 Crosswinds Way, San Antonio, TX,78233
+35316,86,Arctic Ape Wild Desserts,5,28,"Desserts, Juice and Smoothies, Vegan, Allergy Friendly, Ice Cream + Frozen Yogurt",$,29.5111386,-98.3870691,5221 Walzem Rd, San Antonio, TX,78218
+35318,82,Jamba (290 E. Basse Rd. #A),,,"Juice and Smoothies, Breakfast and Brunch, Vegetarian",$,29.49533,-98.47913,290 E. Basse Rd. #A, San Antonio, TX,78209
+35319,84,Claude's Kitchen Creole &amp; Cajun Cuisine (427 Lombrano Street),,,"Cajun, American, Comfort Food, Allergy Friendly",$,29.44191,-98.51055,427 Lombrano Street, San Antonio, TX,78207
+35320,83,Farenheit 32,,,"American, Sandwich, Salads",$,29.49697,-98.5353683,2527 Vance Jackson Rd, San Antonio, TX,78213
+35321,81,Chipper Chiqn (Nacogdoches St),,,"Vegetarian, Vegan, Healthy",,29.51844,-98.45009,2501 Nacogdoches Road, San Antonio, TX,78217
+35322,79,Pure Juice (Stone Oak),,,"Juice and Smoothies, American, Asian",$$,29.641928,-98.4548143,21019 US-281 #840, San Antonio, TX,78258
+35323,78,My Juice Life ,,,"Juice and Smoothies, Breakfast and Brunch, Vegetarian, Healthy",$,29.413065,-98.4876581,812 S Presa St, San Antonio, TX,78210
+35324,69,La Che y Dos Hermanos ,,,"Empanada, Coffee and Tea, Mexican, Breakfast and Brunch",,29.45047,-98.51179,106 Michigan Avenue, San Antonio, TX,78201
+35325,68,Thundercloud Subs (1901 Nacogdoches),,,"American, Burgers, Sandwiches",$$,29.506042,-98.458848,1901 Nacogdoches Road, San Antonio, TX,78209
+35327,65,LA Crawfish (Castle Hills),,,"Comfort Food, Caribbean, Cajun",$$,29.52171895,-98.49362721,25 NE Loop 410, San Antonio, TX,78216
+35329,61,D&amp;B Liquor,4.8,17,"Alcohol, Drinks, Liquor Stores, Wine",$,29.56724,-98.38561,13912 Nacogdoches Rd, San Antonio, TX,78233
+35330,58,Grill N Shout BBQ,,,"BBQ, American, Cajun",$,29.5966045,-98.3510486,6909 N Loop 1604 E #2065, San Antonio, TX,78266
+35331,56,Mochinut (DeZavala),5,40,"Bubble Tea, Desserts, American",,29.56402,-98.58681,5222 De Zavala Rd #328, San Antonio, TX,78249
+35332,55,Tony G's Soul Food,,,"Cajun, Seafood, Chicken",,29.37532,-98.41929,3857 East Southcross, San Antonio, TX,78222
+35333,54,Orderup,4.7,47,"Tacos, Burgers, Breakfast and Brunch",$$,29.49797,-98.4686,999 East Basse Road, San Antonio, TX,78209
+35334,53,Subway (10811 Perrin Beitel),4.3,15,"Fast Food, Sandwich, American",$,29.5392341,-98.4114055,10811 Perrin Beitel, San Antonio, TX,78217
+35335,52,Wings &amp; Things (SAT02-1),3.7,25,"American, Wings, Chicken",$,29.5756,-98.41869,14730 Bulverde Road, San Antonio, TX,78247
+35336,51,Premium Matcha Cafe Maiko,,,"Ice Cream &amp; Frozen Yogurt, Comfort Food, Desserts",$$,29.52267,-98.50644,7115 Blanco Road, San Antonio, TX,78216
+35337,49,Sat Asian seafood,4.5,64,"Seafood, American, Southern, Cajun, Family Meals, Chinese",$,29.4827857,-98.4025333,6000 I-35, San Antonio, TX,78218
+35338,48,Kokee Tea (North Star MallÔºâ,5,15,"Asian, Desserts, Juice and Smoothies, Bubble Tea",$,29.5187575,-98.49638,7400 San Pedro Avenue, San Antonio, TX,78216
+35340,46,Spill the Tea,4.8,36,"Desserts, Juice and Smoothies, Bubble Tea",,29.5632531,-98.48089227,13486 San Pedro Avenue, San Antonio, TX,78216
+35341,45,Wicho's Mexican Deli,4.7,25,"Mexican, Burgers, Ice Cream + Frozen Yogurt",$,29.43887,-98.52548,1110 N Zarzamora, San Antonio, TX,78207
+35346,39,Paciugo Gelato Cafe,4.8,29,"Desserts, Ice Cream + Frozen Yogurt",$,29.49637,-98.47854,340 East Basse Road, San Antonio, TX,78209
+35347,38,Castle Coffee,4.6,28,"Coffee and Tea, American, Breakfast and Brunch",,29.429646,-98.482272,500 6th Street, San Antonio, TX,78215
+35348,37,Soups &amp; Rolls,4.8,172,"Vietnamese, Noodles, Dumpling House",,29.44078,-98.46132,1815 N New Braunfels Ave, San antonio, TX,78208
+35349,36,Jerusalem Grill (Loop 1604),4.7,200,"Middle Eastern, Mediterranean, Family Friendly, Family Meals",$,29.609673,-98.4957,203 N Loop 1604 W, San Antonio, TX,78258
+35350,35,Shisha Cafe &amp; Kababchi Grill,4.8,165,"Mediterranean, Middle Eastern, Greek, Family Friendly, Group Friendly",$$,29.5167501,-98.5977344,5500 Babcock Rd, San Antonio, TX,78240
+35351,33,Munchies Shakes Snacks &amp; More (N Loop),4.9,22,"Juice and Smoothies, Ice Cream + Frozen Yogurt",$,29.611029,-98.478966,923 North Loop 1604 East, San Antonio, TX,78232
+35353,32,Capriotti's Sandwich shop (SAT02-1),4,47,"American, Sandwiches, Vegetarian",$,29.5756,-98.41869,14730 Bulverde Road, San Antonio, TX,78247
+35355,30,Munchies Shakes Snacks &amp; More (UTSA),4.7,39,"Juice and Smoothies, Ice Cream + Frozen Yogurt, Desserts",$,29.572065,-98.597206,5602 W Hausman Rd, San Antonio, TX,78249
+35356,28,First Watch (Blanco),4.8,152,"American, Breakfast and Brunch, Juice and Smoothies, Healthy, Family Friendly, Family Meals",$$,29.5182461,-98.5064232,830 Nw Loop 410, San Antonio, TX,78216
+35357,27,Las Nieves Fruit Cups &amp; More (Thousand Oaks),4.8,19,"Desserts, Mexican, Comfort Food",,29.55062,-98.40886,4342 Thousand Oaks Drive, San Antonio, TX,78217
+35359,25,Local Health Market,4.9,69,"Juice and Smoothies, Healthy, Breakfast and Brunch, Salads, Gluten Free",$$,29.592479,-98.52876,16535 Huebner Rd, San Antonio, TX,78248
+35361,23,Roots Salad Kitchen,4.8,97,"Salads, Vegetarian, Coffee and Tea, Exclusive to Eats",,29.40632,-98.49346,403 Blue Star Ste 106, San Antonio, TX,78210
+35362,21,"Smoothie King (1251 Austin Hwy, Suite 101)",4.6,56,"Juice and Smoothies, Drinks, Healthy",$$,29.48924,-98.44426,1251 Austin Hwy, San Antonio, TX,78209
+35364,20,Juice Joint,4.8,44,"Healthy, Juice and Smoothies",$,29.4445478,-98.4944783,1621 N Main Ave, San Antonio, TX,78212
+35365,15,Earth burger(Highway 281),4.6,17,"Burgers, Comfort Food, Desserts, Vegan Friendly, Vegetarian Friendly, Fast Food, Gluten Free, Kids Friendly, American, Healthy, Sandwiches, Ice Cream, Allergy Friendly",,29.639,-98.45758,20821 U.S. Highway 281 North #102, San Antonio, TX,78258
+35366,14,Cositas Ricas - San Antonio,,,"Sandwiches, Juice and Smoothies, Comfort Food",$,29.497013,-98.535225,2527 Vance Jackson Road, San Antonio, TX,78213
+35367,13,Fogo de Chao (San Antonio),4.6,32,"Steak, Brazilian",$$,29.4233969,-98.484431,849 E. Commerce St. #393, San Antonio, TX,78205
+35368,12,Cafe Vida (Blanco),4.9,54,"Latin American, Mexican, Vegetarian, Family Meals, Healthy",$,29.62042,-98.51299,19179 Blanco Road, San Antonio, TX,78258
+35370,10,Cafe Vida (Rogers Ranch),5,114,"Breakfast and Brunch, Healthy, Latin American, Family Meals",$,29.6044984,-98.5372048,2711 Treble Creek, San Antonio, TX,78258
+35372,8,Starbucks (I-35 &amp; Walzem),4.6,90,"Bakery, Breakfast and Brunch, Cafe, Coffee &amp; Tea",$,29.5106127,-98.3949,4901 Walzem, San Antonio, TX,78218
+35373,7,Fahrenheit32Sa,4.9,29,"Ice Cream + Frozen Yogurt, Desserts",$,29.497,-98.53529,2527 Vance Jackson Rd, San Antonio, TX,78213
+35374,6,Revolucion Coffee and Juice @ the Rim,4.7,109,"Coffee and Tea, Vegan Friendly, Juice and Smoothies",,29.61115156,-98.59929152,5846 Worth Parkway, San Antonio, TX,78257
+35375,5,Revolucion Coffee + Juice,4.9,59,"Juice and Smoothies, Coffee and Tea",$,29.426147,-98.489572,300 E Houston St, San Antonio, TX,78205
+35376,3,Revolucion Coffee + Juice (Alamo Heights),4.8,158,"Coffee and Tea, Juice and Smoothies, Breakfast and Brunch",$$,29.5066425,-98.4669936,7959 Broadway St, San Antonio, TX,78209
+35377,99,"UD Wings (21119 Hwy 281 south San Antonio, TX)",,,"Wings, American, Comfort Food",,29.6436,-98.45395,21119 U.S. 281, San Antonio, TX,78258
+35378,2,"Bahama Buck's (7022 S New Braunfels Ave, Suite 1010)",4.6,24,"Desserts, Ice Cream &amp; Frozen Yogurt",$,29.3577561,-98.44817,7022 S New Braunfels Ave, San Antonio, TX,78223
+35379,97,Taqueria Huentitan Jalisco,,,"Mexican, Latin American, New Mexican",$,29.46701,-98.52829,2318 Fredericksburg Rd, San Antonio, TX,78201
+35380,98,Poblano's on the Plaza,,,"Mexican, Chicken, Tacos",,29.42456,-98.49345,115 Main Plaza, San Antonio, TX,78205
+35383,94,Cafe Martinez,,,"Coffee and Tea, Breakfast and Brunch, Cafe",$,29.5020528,-98.5754674,7302 Louis Pasteur Dr, San Antonio, TX,78229
+35384,93,Clear Light Coffee Co,,,"Coffee and Tea, Juice and Smoothies",,29.5561,-98.49757,12656 West Avenue, San Antonio, TX,78216
+35386,92, Hawx Street Tacos Inside Ricky Bobby's,,,"Mexican, Chicken, Comfort Food, Exclusive to Eats",$,29.542763,-98.52754,2335 NW Military Hwy, San Antonio, TX,78231
+35388,89,Star Mart,,,"Convenience, Everyday Essentials, Snacks, Home &amp; Personal Care, Family Meals",$,29.4395658,-98.534668,1537 Delgado Street, San Antonio, TX,78207
+35389,88,Beer Central (Powered by Lula),,,"Convenience, Snacks, Everyday Essentials, Alcohol",$,29.55281,-98.40397,12434 Nacogdoches Road, San Antonio, TX,78217
+35390,87,The Faktory Pizzeria,3.9,75,"Pizza, American, Italian",,29.43801,-98.54174,901 Northwest 24th Street, San Antonio, TX,78207
+35391,86,Kirby's Steakhouse (San Antonio),,,"Steak, American, Seafood",$,29.61007,-98.48869,123 North Loop 1604 East, San Antonio, TX,78232
+35392,85,De Jamaica Kitchens SA,4.6,61,"Caribbean, Jamaican, Comfort Food, Allergy Friendly",,29.45834,-98.32083,8669 Interstate 10 East, San Antonio, TX,78109
+35393,84,Taqueria Hacienda Tapatia,4.5,115,"Mexican, Latin American, New Mexican",$,29.4883489,-98.4016194,6402 N Interstate 35, San Antonio, TX,78218
+35394,82,Lion's Den Eatery,,,"Mediterranean, Sandwiches, Bowls",,29.4903,-98.59918,5755 Evers Road, San Antonio, TX,78238
+35395,81,Morton's The Steakhouse  (300 E. Crockett Street),,,"Seafood, American, Southern, Healthy, Desserts, Alcohol",$,29.4246212,-98.4850314,300 E. Crockett Street, San Antonio, TX,78205
+35396,83,‚Äã‚Äã‚Äã‚Äã‚Äã‚Äã‚ÄãLeaf or Liquor,,,"Alcohol, Wine",$,29.480309,-98.362175,6394 Rittiman Rd, San Antonio, TX,78244
+35397,80,Dashi,4.8,20,"Asian Fusion, Asian, Korean",,29.57909,-98.44236,2895 Thousand Oaks Drive, San Antonio, TX,78232
+35399,78,Ito Ramen,4.6,118,"Asian, Noodles, Japanese",$,29.5736562,-98.5158931,14395 Blanco Rd, San Antonio, TX,78216
+35400,77,McDonald's¬Æ (2402 E Southcross),4.3,200,"American, Fast Food, Burgers",$,29.3751633,-98.4563184,2402 E Southcross Blvd, San Antonio, TX,78223
+35402,75,buybuy BABY (522 Northwest Loop 410 Suite 108),,,"Gift Store, Baby, Retail",$,29.51963,-98.50209,522 Northwest Loop 410, San Antonio, TX,78216
+35403,74,Gabriel's Wine &amp; Spirits,5,20,"Alcohol, Drinks, Liquor Stores, Wine",$,29.46672,-98.50761,837 West Hildebrand Avenue, San Antonio, TX,78212
+35405,72,Tealicious Cafe,,,"Coffee and Tea, American, Breakfast and Brunch",,29.66152,-98.43696,3111 TPC Parkway, San Antonio, TX,78259
+35408,69,PRESS Coffee,,,"Coffee and Tea, American, Breakfast and Brunch",$$,29.46395,-98.46608,4035 Broadway, San Antonio, TX,78209
+35409,68,Don's &amp; Ben's,4.9,13,"Alcohol, Liquor Stores, Drinks, Wine",$,29.5452213,-98.5108298,11525 West Ave, San Antonio, TX,78213
+35410,67,D &amp; B Liquor,4.3,21,"Alcohol, Drinks, Wine, Liquor Stores",$,29.425245,-98.46355,501 Saint James, San Antonio, TX,78202
+35411,66,Leaf and Liquor,4.5,14,"Alcohol, Liquor Stores, Drinks",,29.50981,-98.37176,5816 Walzem Road, San Antonio, TX,78218
+35412,1,Playa Bowls (San Antonio),4.9,131,"American, Vegetarian, Drinks",$,29.65323,-98.44833,22706 HWY 281 N, San Antonio, TX,78258
+35413,65,Me Latte,,,"Coffee and Tea, American, Breakfast and Brunch",,29.59584923,-98.50994155,16900 Blanco Road, San Antonio, TX,78232
+35414,64,The Good Kind Southtown,,,"Salads, American, Vegetarian",,29.41183,-98.48848,1127 S St Mary‚Äôs St, San Antonio, TX,78215
+35415,63,Seazar's,,,"Alcohol, Liquor Stores, Drinks, Wine",$,29.48874,-98.45879,6422 N New Braunfels Ave, San Antonio, TX,78209
+35416,62,Don's &amp; Ben's,5,29,"Alcohol, Liquor Stores, Drinks, Wine",$,29.510084,-98.379819,5516 Walzem Rd, San Antonio, TX,78218
+35417,61,D &amp; B Liquor,4.8,31,"Alcohol, Drinks, Liquor Stores, Wine",$,29.5180579,-98.4490981,2506 Nacogdoches Rd, San Antonio, TX,78217
+35418,60,Picoso Grill,,,"Mexican, Latin American, New Mexican",$$,29.55229,-98.40472,12400 Nacogdoches Rd., San Antonio, TX,78217
+35419,59,Don's &amp; Ben's,,,"Alcohol, Drinks, Wine",$,29.488732,-98.445606,1235 Austin Highway, San Antonio, TX,78209
+35420,58,Taipei Restaurant,4.8,46,"Asian, Noodles, Salads, Healthy, Chinese, Beef Noodles, Seafood, Rice Dishes, Family Meals, Vegetarian Friendly",,29.61304,-98.49288,18802 Stone Oak Pkwy, San Antonio, TX,78258
+35421,57,Lol Liquors - O‚ÄôConnor &amp; 1604 ,4.9,15,"Alcohol, Liquor Stores, Allergy Friendly",,29.60111,-98.40541,4330 N Loop 1604 E Ste 106, San Antonio, TX,78247
+35422,56,Kum &amp; Go,,,"Convenience, Everyday Essentials, Home &amp; Personal Care",$,29.43819,-98.54111,910 Northwest 24th Street, San Antonio, TX,78207
+35423,55,Pho Hung Cuong Restaurant (W Interstate 10),4.7,190,"Vietnamese, Noodles, Healthy",$,29.56213489,-98.59283716,12730 W Interstate 10, San Antonio, TX,78249
+35424,54,Don's &amp; Ben's,,,"Alcohol, Drinks, Liquor Stores, Wine",$,29.5520702,-98.405522,12332 Nacogdoches Rd, San Antonio, TX,78233
+35425,53,El Kiosko San Antonio,,,"Ice Cream &amp; Frozen Yogurt, Desserts, Juice and Smoothies, Sandwich",$,29.3570646,-98.51506,1427 SW Military Dr, San Antonio, TX,78221
+35426,52,ProFlowers (1501 HARRY WURZBACH RD),,,"Flowers, Gifts, Plants, Gift Store",$$,29.47514,-98.4359,1501 HARRY WURZBACH RD, SAN ANTONIO, TX,78209
+35427,51,El rincon del taco los compadres,4,12,"Mexican, Latin American, Tacos",,29.49234,-98.52641,3333 West Avenue, San Antonio, TX,78213
+35428,50,Al Madina Meat Market Grill &amp; Pizza,4.8,12,"Halal, Chicken, Middle Eastern",$,29.5277641,-98.5650746,9218 Wurzbach Rd, San Antonio, TX,78240
+35429,49,Krispy Kreme (1117 N Loop 1604 E),4.8,61,"Desserts, Donuts, Snacks",$,29.6110376,-98.4770094,1117 N Loop 1604 E, San Antonio, TX,78232
+35430,48,Mencius's Gourmet Hunan,4.7,107,"Seafood, Sushi, Rolls, Vegetarian, Vegetarian Friendly",,29.51194,-98.56833,7959 Fredericksburg Rd, San Antonio, TX,78229
+35431,47,Beer Central - Nacogdoches Road,4.5,11,"Convenience, Black-owned, Everyday Essentials, Alcohol, Snacks",,29.55281,-98.40397,12434 Nacogdoches Road, San Antonio, TX,78217
+35432,46,L&amp;L Hawaiian Barbecue (1302 Austin Highway),4.7,36,"Hawaiian, BBQ, Seafood",$,29.48953,-98.44182,1302 Austin Highway, San Antonio, TX,78209
+35433,45,7-Eleven (7050 N Interstate 35),,,"Everyday Essentials, Convenience, Home &amp; Personal Care, Snacks, Pizza, American",$,29.49589,-98.39998,7050 N Interstate 35, San Antonio, TX,78218
+35437,41,Don's &amp; Ben's Liquor,5,20,"Alcohol, Drinks, Liquor Stores, Wine",$,29.4838238,-98.34758,6251 Woodlake Pkwy Ste 101, San Antonio, TX,78244
+35438,40,Medina's Mexican Grill,4.6,64,"Mexican, Latin American, New Mexican",$,29.3979,-98.5046317,2711 S Flores St, San Antonio, TX,78204
+35439,39,Basil Mediterranean Kitchen (New),4.7,57,"Mediterranean, Salads, Sandwich, Pizza",,29.534784,-98.565121,9955 W Interstate 10, San Antonio, TX,78230
+35440,38,PJ Fresh (1815 N Foster Road),4.8,13,"Burgers, American, Sandwiches",$,29.44617,-98.3615603,1815 N Foster Road, San Antonio, TX,78244
+35441,37,Taco-Tex,4.2,32,"Mexican, Latin American, New Mexican",$$,29.57947,-98.476615,15104 San Pedro Avenue, San Antonio, TX,78232
+35442,36,24th St. Pizzeria,4.1,89,"Pizza, Wings, Italian, Salads, Family Meals",$,29.43799,-98.54176,901 Northwest 24th Street, San Antonio, TX,78207
+35443,35,Baskin-Robbins (6418 N. New Braunfels Ave),4.7,22,"Desserts, Ice Cream + Frozen Yogurt, Comfort Food",$,29.4886428,-98.4587858,6418 N. New Braunfels Ave, San Antonio, TX,78209
+35444,34,"Curry Consortium (220 Broadway,)",4.5,54,"Indian, Pakistani, Healthy, Gluten Free, Vegan",$,29.42816,-98.48725,220 Broadway, San Antonio, TX,78205
+35445,33,Taqueria Los Dos Laredos #5,4.5,120,"Mexican, Latin American, New Mexican",$,29.41527,-98.46097,414 S New Braunfels Ave., San Antonio, TX,78203
+35446,32,Cicis Pizza (6900 San Pedro Ave),4.6,54,"Pizza, Wings, Comfort Food",$,29.50606,-98.49858,6900 San Pedro Ave Ste 155, San Antonio, TX,78216
+35447,31,Kong‚Äôs Express,4.5,200,"Chinese, Group Friendly",$$,29.419302,-98.5281694,903 S Zarzamora St, San Antonio, TX,78207
+35448,30,Honey Baked Ham (999 East Basse),,,"Sandwich, Family Meals",$,29.498996,-98.467015,999 East Basse, San Antonio, TX,78209
+35449,29,Bushwood BBQ,4,23,"BBQ, Wings, Family Meals",$$,29.5665951,-98.4531923,13800 Jones Maltsberger Rd, San Antonio, TX,78247
+35450,28,Taqueria Jalisco #15 LLC,4.5,200,"Mexican, Breakfast and Brunch, Comfort Food",$$,29.5192083,-98.5961109,5527 Babcock Rd, San Antonio, TX,78240
+35451,27,Sunsun Chinese Restaurant,4.1,200,"Chinese: Other, Chinese, Asian",$$,29.5019239,-98.5602532,5137 Fredericksburg Rd, San Antonio, TX,78229
+35452,26,Wings Out (San Antonio),4.2,15,"Wings, Chicken, American",$$,29.42395,-98.48488,849 East Commerce Street, San Antonio, TX,78205
+35453,25,Bahia Bowls San Antonio,4.8,104,"Salads, Bowls, Drinks",,29.64637,-98.42591,22103 Bulverde Rd, San Antonio, TX,78259
+35454,24,BOILER HOUSE TEXAS GRILL &amp; WINE GARDEN,,,"Steakhouse, Steak, American",$$$$,29.4431834,-98.4803507,312 Pearl Pkwy Bldg 3, San Antonio, TX,78215
+35455,23,Econ Liquor,,,,,29.523152,-98.4105196,9124 Perrin Beitel Road, San Antonio, TX,
+35456,22,Piranha Izakaya,4.5,68,"Ramen, Japanese, Noodles",$,29.49438,-98.479,260 E Basse Rd, San Antonio, TX,78209
+35457,21,Bayseas Seafood - Jones Maltsberger,4.7,50,"Seafood, American, Southern",$,29.552498,-98.4685201,12151 Jones Maltsberger Road, San Antonio, TX,78247
+35458,20,Bayseas Seafood - WW White,4.5,108,"Seafood, American, Southern",$,29.4279869,-98.4060296,217 S WW White Rd, San Antonio, TX,78219
+35459,19,"Jason's Deli (25 Ne Loop 410, Pavillion)",4.7,200,"Burgers, American, Sandwiches",$,29.5212765,-98.4939094,25 Northeast Interstate 410 Loop, San Antonio, TX,78216
+35460,18,Brown Bag Sandwich Shop,4.5,37,"Sandwiches, American, Healthy, Soup, Deli, Desserts, Salads",,29.54107,-98.44409,11035 Wetmore Rd, San Antonio, TX,78216
+35461,17,Rebel Wings (SAT02-1),2.9,15,"American, Wings, Fast Food, Chicken",$,29.5756,-98.41869,14730 Bulverde Road, San Antonio, TX,78247
+35462,16,Panchito's (McCullough),4.8,200,"Mexican, Breakfast and Brunch, Family Meals, Alcohol",$,29.4684917,-98.4915254,4100 McCullough Ave, San Antonio, TX,78212
+35463,15,30F Degrees,4.5,29,"Asian, Desserts, Juice and Smoothies",,29.51859,-98.5078,6903 Blanco Road, San Antonio, TX,78216
+35464,14,Meemo's Bakery,4.8,93,"American, Breakfast and Brunch, Desserts, Family Friendly",$,29.5175695,-98.4490429,2611 Wagon Wheel, San Antonio, TX,78217
+35465,13,Wendy's  (2422 EAST SOUTHCROSS BLVD.),4.3,88,"American, Burgers, Fast Food",$,29.374961,-98.455714,2422 EAST SOUTHCROSS BLVD., SAN ANTONIO, TX,78223
+35466,12,Just Wing It. (905 Northwest 24th Street),3.1,26,"American, Chicken, Wings",$$,29.43816,-98.54172,905 Northwest 24th Street, San Antonio, TX,78207
+35467,11,Church's Chicken (4747 Rittiman Road),4.3,54,"Fast Food, Family Meals",$,29.4844028,-98.3982951,4747 Rittiman Road, San Antonio, TX,78218
+35468,10,Another Wing by DJ Khaled (SAT02-1),3.2,26,"American, Wings, Chicken",$,29.57497,-98.41831,14730 Bulverde Rd, San Antonio, TX,78247
+35469,9,Twin Peaks (702 NW Loop 410),4.2,79,"Burgers, American, Sandwiches, Wings",$,29.5197588,-98.5037098,702 NW Loop 410, San Antonio, TX,78216
+35470,8,Applebee's (Windsor Park),4.2,154,"American, Burgers, Salads, Healthy, Family Friendly, Comfort Food, Pasta, Sandwiches, Steak, Wings",$$,29.5068401,-98.3974603,7880 IH 35 North, San Antonio, TX,78218
+35471,7,Popeyes (4535 Rittiman Rd),3.9,125,"American, Chicken, Family Meals, Fried Chicken, Comfort Food",$,29.48426,-98.404374,4535 Rittiman Rd, San Antonio, TX,78218
+35473,5,Taco Bell (5318 W WALZEM RD),4,41,"Burritos, Fast Food, Mexican",$,29.509886,-98.3868926,5318 W WALZEM RD, San Antonio, TX,78218
+35475,3,CVS (5506 WALZEM ROAD),4.5,13,"Everyday Essentials, Convenience, Pharmacy, Snacks",$,29.5099,-98.38076,5506 WALZEM ROAD, SAN ANTONIO, TX,75038
+35476,2,Everyday Needs by Gopuff,4.9,146,"Everyday Essentials, Convenience, Alcohol, Snacks",$,0,0,2803 NE Loop 410 -, San Antonio, TX,78217
+35477,1,7-Eleven (6110 N Pan Am Expy),4.5,79,"Convenience, Everyday Essentials, Snacks, Home &amp; Personal Care, Alcohol",$,29.483193,-98.402326,6110 N Pan Am Expy, San Antonio, TX,78218
+35478,4,African Village restaurant,4.4,17,"Black-owned, African, Ethiopian",$,29.540939,-98.5514947,10918 Wurzbach Road suite 131, San Antonio, TX,78230
+35479,3,Rehoboth Eritrean-Ethiopian Cuisine,4.9,28,"Black-owned, African, Ethiopian, Vegetarian, Healthy",$$,29.49443,-98.57016,1721 Babcock Rd, San Antonio, TX,78229
+35480,2,Lagos Buka,3.8,47,"African, Comfort Food, Steak",,29.5108,-98.36881,6060 Montgomery, San Antonio, TX,78239
+35482,68,"Soft Stream Sushi (427 Lombrano St,)",,,"Sushi, Japanese, Asian, Alcohol",$,29.44191,-98.51055,427 Lombrano St, San Antonio, TX,78207
+35484,15,Kung Fu Kitchen Patio Bar,,,"Chinese, Exclusive to Eats",$,29.413485,-98.4996298,1010 S Flores St, San Antonio, TX,78204
+35485,2,Texas de Brazil (San Antonio),4.8,29,"Steak, Brazilian, Latin American, Salads, Healthy",$$,29.4267454,-98.4891452,313 East Houston Street, San Antonio, TX,78205
+35486,296,Leonardo's Italian Ristaurante  (Fredricksburg Rd.),,,"Italian, Pasta, Pizza",$,29.50447,-98.56121,5252 Fredricksburg Rd., San Antonio, TX,78229
+35487,196,Tilo Tex Mex Mexican Restaurant,,,"Breakfast and Brunch, Mexican, Tex Mex",$,29.5530215,-98.5020812,12403 West Ave, San Antonio, TX,78216
+35488,259,Subway (5619 Interstate 10 E),,,"Sandwiches, American, Healthy",$$,29.43968,-98.37999,5619 Interstate 10 E, San Antonio, TX,78219
+35490,217,BUNZ,,,"Burgers, American, Sandwiches",,29.42643,-98.49286,122 E Houston St, San Antonio, TX,78205
+35491,11,Nola Eats,,,"Cajun / Creole, Burgers, Seafood",,29.5099,-98.37922,5514 Walzem Road, San Antonio, TX,78218
+35492,294,Shuck Shack,,,"Seafood, American",$$,29.4429916,-98.4746328,520 E Grayson St, San Antonio, TX,78215
+35493,106,Gloria's Latin Cuisine (17623 La Cantera Pkwy #103),,,"Latin American, Tex Mex, Salvadorian",$,29.6095116,-98.5985887,17623 La Cantera Pkwy #103, San Antonio, TX,78257
+35494,107,Munchies Shakes Snacks &amp; More (N Loop),,,"Ice Cream &amp; Frozen Yogurt, Comfort Food, Desserts",,29.61098,-98.47919,923 North Loop 1604 East, San Antonio, TX,78232
+35495,12,Momma Luv's SOUL And Caribbean Food,4,24,"Caribbean, Seafood, Latin American, Soul Food",$,29.51001,-98.40868,2427 Austin Hwy, San Antonio, TX,78218
+35496,11,Little Jamaica Caribbean Mix,,,"Caribbean, Latin American, Chicken",,29.51999,-98.46025,8816 Broadway Street, San Antonio, TX,78217
+35497,9,Congas,,,"Spanish, Latin American, Puerto Rican, Cuban, Caribbean, Latin Fusion",$,29.5417772,-98.4113982,11211 Perrin Beitel Road, San Antonio, TX,78217
+35498,284,Amigos Snacks And More #2,,,"Hot Dog, Sandwich, Drinks",,29.42517,-98.49461,1006 Vfw Boulevard, San Antonio, TX,78223
+35499,282,Buckets Burgers &amp; Beer Garden,,,"American, Burgers, Desserts",$,29.39539,-98.40422,2014 S WW White Rd, San Antonio, TX,78222
+35500,79,Thai Cuisine,,,Thai,$,29.636196,-98.4527025,2339 E Evans Rd, San Antonio, TX,78259
+35501,277,The Angry Elephant,,,American,$,29.6215286,-98.4625147,19314 US-281, San Antonio, TX,78259
+35504,272,Little Mexico,,,"Mexican, Burgers, Hot Dog",,29.47869,-98.52112,1607 West Hermosa Drive, San Antonio, TX,78201
+35505,271,The Esquire Tavern (155 E Commerce St),,,"Burgers, American, Sandwiches",$,29.42472,-98.49176,155 E Commerce St, San Antonio, TX,78205
+35508,261,Papas Burgers,,,"Burgers, American, Sandwiches, Family Meals",$,29.42584,-98.57534,709 Enrique M Barrera Pkwy, San Antonio, TX,78237
+35509,265,HOT CHICKS (427 Lombrano Street),4.4,11,"American, Wings, Comfort Food",$,29.44191,-98.51055,427 Lombrano Street, San Antonio, TX,78207
+35511,258,CHARLIE BURGER (427 Lombrano Street),3.9,36,"American, Burgers, Comfort Food",$,29.44191,-98.51055,427 Lombrano Street, San Antonio, TX,78207
+35512,259,Alamo Hot Dog Co.,,,"American, Exclusive to Eats",$,29.4239674,-98.4900209,E Crockett St &amp; N Presa St &amp; W Crockett St, San Antonio, TX,78205
+35513,257,Dirty Dawgs and Fries,,,"Burgers, American",$,29.5126252,-98.4896282,335 Sprucewood Ln, San Antonio, TX,78216
+35514,256,"Papa's Burger  ""In God We Trust""",,,"Burgers, American, Sandwiches",,29.41253,-98.57402,972 Southwest 36th Street, San Antonio, TX,78237
+35516,251,Juanys taqueria,,,"Mexican, Latin American, New Mexican",$,29.361352,-98.545365,1502 Somerset Rd, San Antonio, TX,78211
+35518,248,Astro SuperBowl,,,"Burgers, American, Sandwiches",$,29.4945831,-98.4354869,3203 Harry Wurzbach Road, San Antonio, TX,78209
+35519,245,Gaby Burger,,,"Burgers, American, Drinks",,29.44191,-98.51055,427 Lombrano Street, San Antonio, TX,78207
+35520,244,Groove House,,,"American, Burgers",$,29.55261,-98.50303,12333 West Ave, San Antonio, TX,78216
+35521,243,Wrigleyville Grill Food Truck,,,"Burgers, American, Sandwiches",$,29.4485445,-98.4875647,2410 N St Mary's St, San Antonio, TX,78212
+35522,240,Nathan's Famous (SAT01-1),4.3,57,"Hot Dog, American, Comfort Food",$,29.54824,-98.37567,11911 Crosswinds Way, San Antonio, TX,78233
+35523,242,Hometown Burger ( Fredericksburg Rd.),4.2,13,"Burgers, American, Sandwiches",$,29.46895,-98.53097,2719 Fredericksburg Road, San Antonio, TX,78201
+35524,228,Soul Brotha #1 Wings,,,"Wings, American, Chicken",,29.51848,-98.43108,2015 Northeast Loop 410, San Antonio, TX,78217
+35525,215,Headlines Mexican Spot,,,"Mexican, American, Fast Food, Healthy, Sandwich",,29.38656,-98.55009,2110 Cupples Road, San Antonio, TX,78226
+35527,207,Taqueria Garibaldi (Walzem Rd),,,"Mexican, Latin American, New Mexican",$$,29.51065,-98.38542,5299 Walzem Road, San Antonio, TX,78218
+35528,176,Sabor Del Pueblo,4.9,16,"Mexican, Latin American, New Mexican",,29.57181,-98.51715,13489 Blanco Road, San Antonio, TX,78248
+35529,162,Amigos Snacks And More,4.2,42,"Mexican, Desserts",$,29.39864,-98.4731,107 Rigsby Avenue, San Antonio, TX,78210
+35530,143,Taco Cabana (2908 Broadway),4.4,48,"Mexican, Tex Mex, Breakfast and Brunch, Family Meals",$,29.4536897,-98.4716044,2908 Broadway, San Antonio, TX,78209
+35531,126,Jack in the Box (935) 7150 San Pedro Ave.,3.8,146,"American, burger, Fast Food",$,29.5134616,-98.498363,7150 San Pedro Ave., San Antonio, TX,78216
+35532,100,Vallarta Grill and Bar,,,"Mexican, Latin American, New Mexican",$$,29.57606,-98.44345,14814 Jones Maltsberger Road, San Antonio, TX,78247
+35533,97,Super Pollo Asados,,,"Mexican, Latin American, New Mexican",$$,29.5106399,-98.3930235,4927 Walzem Rd, San Antonio, TX,78218
+35534,77,JAILBIRD (20907 Stone Oak Pkwy),,,"Burgers, American, Sandwiches",$,29.64963,-98.45279,20907 Stone Oak Pkwy, San Antonio, TX,78258
+35537,101,Creamistry (21134 N US HWY 281 #101),,,"Desserts, Ice Cream, Frozen Yogurt",$,29.6401623,-98.4537124,21134 N HWY 281 #105, San Antonio, TX,78259
+35538,97,Haagen Dazs (214 Alamo Plaza South),,,"Desserts, Ice Cream + Frozen Yogurt",$$,29.424966,-98.4863357,214 Alamo Plaza South, San Antonio, TX,78205
+35539,94,Smoke Shack Meat Market,4.5,13,"Salads, American, Vegetarian",,29.46091,-98.46619,3710 Broadway Street, San Antonio, TX,78209
+35540,93,Smack's Chicken Shack,,,"American, Wings, Chicken, Fried Chicken, Sandwich",,29.46672,-98.50106,447 West Hildebrand Avenue, San Antonio, TX,78212
+35541,88,Sanitary Tortilla Company,,,"Mexican, New Mexican, Healthy",$,29.419426,-98.501349,623 Urban Loop, San Antonio, TX,78204
+35542,85,Filipino Express (Grocery),,,"Convenience, Everyday Essentials, Home &amp; Personal Care",$,29.48839,-98.58476,4963 Northwest Loop 410, San Antonio, TX,78229
+35543,64,"Veggie Wonderland (220 Broadway,)",4.6,31,"Indian, Vegetarian, Indian Curry, Healthy, Vegan",$,29.42816,-98.48725,220 Broadway, San Antonio, TX,78205
+35544,53,Schlotzsky's (2514 Nacogdoches Road),4.9,29,"Salads, Sandwich, Deli, Desserts, Healthy, Family Meals",$,29.5182993,-98.4493801,2514 Nacogdoches Road, San Antonio, TX,78217
+35545,32,The Ice Cream Shop,,,"Desserts, Ice Cream + Frozen Yogurt",$,29.4331,-98.54244,423 Northwest 24th Street, San Antonio, TX,78207
+35546,19,Panera (999 E Basse Road),4.5,192,"Breakfast and Brunch, salad, Sandwich, Pizza, Healthy, American, Chicken",$,29.4972557,-98.4696513,999 E Basse Road, San Antonio, TX,78209
+35547,292,Which Wich (1203 N. Loop 1604 West # 109),,,"Sandwich, American",$,29.6095425,-98.5104706,1203 N Loop 1604 W, San Antonio, TX,78258
+35548,288,Piatti,,,"Italian, Pasta, Comfort Food",,29.49356,-98.47978,255 East Basse Road, San Antonio, TX,78209
+35549,284,LandShark Bar &amp; Grill (San Antonio),,,"Burgers, American, Sandwiches",$,29.4235955,-98.4853304,849 East Commerce Street, San Antonio, TX,78205
+35550,283,1718 Steakhouse - Stone Oak,,,"Steak, American, Fast Food",$,29.6487476,-98.4627898,20626 Stone Oak parkway suite 103, San Antonio, TX,78258
+35551,274,Lala's Gorditas,,,"Mexican, Latin American, New Mexican",$,29.3874845,-98.4854073,1600 Roosevelt Ave, San Antonio, TX,78210
+35552,261,Frederick's Restaurant,,,"European, Modern European, Seafood",$,29.499939,-98.467375,7701 Broadway, San Antonio, TX,78209
+35553,252,Mary's Pizza and Pasta NY style,,,"Italian, Pasta, Pizza",,29.5115,-98.367,6206 Montgomery Drive, San Antonio, TX,78239
+35554,250,Turquoise Grill,,,Turkish,$$,29.4925323,-98.5553088,3720 NW Loop 410, San Antonio, TX,78229
+35555,247,Tink-A-Tako #9:,,,"Mexican, Latin American, Desserts",$,29.47379,-98.50807,2919 Blanco Road, San Antonio, TX,78201
+35556,244,Pesto Ristorante - Judson,,,"Italian, Pasta, Comfort Food",$,29.5884485,-98.3790428,15179 Judson Rd, San Antonio, TX,78247
+35557,249,Brasa Chicken,,,"Peruvian, Latin American, Seafood",$,29.5446402,-98.5093966,8523 Blanco Rd, San Antonio, TX,78216
+35558,241,Rico's Diner,,,"American, Diner",$,29.4927479,-98.5518122,4522 Fredericksburg Rd, San Antonio, TX,78201
+35559,225,Umami Burger (SAT01-1),3.5,26,"American, Burgers, Sandwiches",$,29.54784,-98.37637,11911 Crosswinds Way, San Antonio, TX,78233
+35561,224,Deco Pizzeria (2026 Babcock Rd),,,"Pizza, Italian, Sandwich",$,29.5005911,-98.5797746,2026 Babcock Rd, San Antonio, TX,78229
+35562,223,Al‚Äôs Famous Pitas,,,"Mediterranean, Greek, Vegetarian",,29.51007509,-98.37593693,5616 Walzem Road, San Antonio, TX,78218
+35563,212,Tacos  El Takin,4.7,54,"Latin American, New Mexican",,29.55987,-98.39466,13131 El Sendero Street, San Antonio, TX,78233
+35564,168,Arby's (Evans Rd.),4.7,52,"American, Sandwich, Fast Food, Kids Friendly",$,29.6364764,-98.4535426,2223 E Evans Rd, San Antonio, TX,78259
+35565,162,Don Benitos Cocina y Cantina,,,"Mexican, Latin American, New Mexican",$,29.3518,-98.45425,2402 Southeast Military Drive, San Antonio, TX,78223
+35567,139,Snooze AM Eatery (Vineyard),4.9,66,"Breakfast and Brunch, American, Sandwiches",$,29.60914,-98.51389,1305 N. Loop 1604 W., San Antonio, TX,78258
+35568,135,Lick Honest Ice Creams ,,,"Ice Cream &amp; Frozen Yogurt, Desserts",$$,29.41909,-98.48643,639 Hemisfair Blvd, San Antonio, TX,78205
+35569,133,Orange Leaf Frozen Yogurt (18030 Highway 281 North),,,"Ice Cream + Frozen Yogurt, Desserts",$,29.604519,-98.4687801,18030 San Pedro Ave, San Antonio, TX,78232
+35571,103,Chicken N' Biscuits by Cracker Barrel (3327 SE Military Dr.),3.7,12,"American, Comfort Food, Fried Chicken, Family Meals, Sandwich, Family Friendly",$$,29.35193,-98.43445,3327 SE Military Dr, San Antonio, TX,78223
+35572,92,The Palm (233 East Houston St.),,,"American, Steak, Italian, Healthy, Desserts",$$$$,29.42647,-98.49012,233 East Houston St., San Antonio, TX,78205
+35573,9,Marble Slab Creamery (13426 San Pedro Ave),4.4,21,"Desserts, Ice Cream + Frozen Yogurt",$,29.5619815,-98.4815477,13426 San Pedro Ave, San Antonio, TX,78216
+35576,215,Bilia Eatery and coffee,,,"Salad / Sandwiches, Sandwich, Salads, Healthy",,29.534702,-98.523988,2211 NW Military Hwy, San Antonio, TX,78213
+35577,196,Fonda latina,,,"Latin American, Mexican, Seafood",$,29.500918,-98.498692,6714 San Pedro Ave, San Antonio, TX,78216
+35578,192,The Fruteria,,,"Mexican, Latin American, New Mexican",$,29.4098667,-98.5013985,1401 S Flores St Ste 102, San Antonio, TX,78204
+35579,191,GORDITAS MI TORREON,,,"Mexican, Latin American, New Mexican",,29.37451,-98.4987,5201 South Flores Street, San Antonio, TX,78214
+35580,185,Gorditas Mi Torreon #2,,,"Mexican, Latin American, New Mexican",,29.47098,-98.49975,3905 San Pedro Avenue, San Antonio, TX,78212
+35581,183,Original Blanco Cafe,,,"Mexican, Latin American, New Mexican",$,29.42817,-98.49148,419 N Saint Marys St, San Antonio, TX,78205
+35582,179,Canyon Cafe,,,"Mexican, Noodles, Tex Mex",$$,29.496982,-98.4796774,255 E Basse Rd # 600, San Antonio, TX,78209
+35583,177,Las Rancheritas Cafe,,,"Mexican, Latin American, New Mexican",$,29.4181788,-98.556139,902 S. San Augustine, San Antonio, TX,78237
+35584,174,Gypsy Cafe,,,"Mediterranean, Greek, Vegetarian, Healthy",$,29.5793331,-98.4426752,2813 Thousand Oaks Dr, San Antonio, TX,78232
+35585,172,Al Amir Cafe &amp; Grill,,,"Mediterranean, Greek, Vegetarian, Healthy",$,29.5209577,-98.5730611,8620 Fredericksburg Rd, San Antonio, TX,78240
+35586,169,Julianita's Cafe,,,"Mexican, Latin American, New Mexican",$,29.4418651,-98.5408668,1222 Northwest 24th Street, San Antonio, TX,78207
+35587,167,My Break Time Cafe,,,"Burgers, Salads, Sandwiches",,29.4896,-98.5355,1803 Vance Jackson Road, San Antonio, TX,78213
+35588,157,Regio Latte,,,"Mexican, Latin American, New Mexican",$,29.4453197,-98.491601,1706 McCullough Ave, San Antonio, TX,78212
+35589,140,Honey Baked Ham (9963-I-H 10 West),,,"Sandwich, Family Meals",$,29.53607989,-98.56591009,9963 interstate 10 west, San Antonio, TX,78230
+35590,125,Delicious Tamales (4510 West Ave),,,"Mexican, Latin American, New Mexican, Chicken",,29.5067,-98.52566,4510 West Avenue, San Antonio, TX,78213
+35592,101,Delicious Tamales (13533 Nacogdoches Rd),3.9,12,"Mexican, Latin American",,29.56534,-98.3894,13533 Nacogdoches Road, San Antonio, TX,78217
+35593,95,"American Grilled Cheese Company (1011 N Loop 1604 E, San Antonio, TX, 78232)",,,"American, Deli, Sandwich",$$,29.61114,-98.47781,1011 N Loop 1604 E, San Antonio, TX,78232
+35595,231,Sonic (3035 Tpc Pkwy),4.5,50,"American, Fast Food, Burgers",$$,29.659651,-98.4379391,3035 Tpc Pkwy, San Antonio, TX,78259
+35596,230,Sushi Zushi - Stone Oak,4.7,200,"Japanese, Sushi, Family Friendly",$$,29.6098887,-98.490678,18720 Stone Oak Pkwy, San Antonio, TX,78258
+35598,197,Church's Chicken (5903 San Pedro Ave.),4.3,18,Fast Food,$,29.4884473,-98.4996682,5903 San Pedro Ave., San Antonio, TX,78212
+35600,44,ChurroStar,5,14,"Desserts, Vegetarian, Coffee and Tea, Healthy",$,29.565504,-98.48495,13802 Embassy Row, San Antonio, TX,78216
+35601,22,Teapioca,,,"Comfort Food, American, Burgers",$$,29.50989,-98.37963,5514 Walzem Road, San Antonio, TX,78218
+35602,192,Thousand Oaks Cafe I,4.7,16,"Mexican, Tacos, Soup, New Mexican, Latin American, Breakfast and Brunch, Chicken, Steak, Asado, Burritos, Tex Mex, American",$,29.55858,-98.46141,12930 Jones Maltsberger Rd, San Antonio, TX,78247
+35603,188,Caf√© Azteca,,,"Breakfast and Brunch, Coffee and Tea",,29.42708,-98.48849,106 Jefferson, San Antonio, TX,78205
+35604,186,The Egg Sandwich,,,"Breakfast and Brunch, American, Sandwiches",,29.44186,-98.51055,427 Lombrano Street, San Antonio, TX,78207
+35605,187,Old Danny's Cocina,,,"Mexican, Tex Mex, Breakfast and Brunch",$,29.4299931,-98.564667,250 Old Hwy 90 W, San Antonio, TX,78237
+35608,182,Cafe Rosa #2,,,"Black-owned, Mexican, Breakfast and Brunch",$,29.479984,-98.535328,1304 Gardina, San Antonio, TX,78201
+35609,181,Merit Coffee - Leon Springs,,,"Breakfast and Brunch, American, Sandwiches",$,29.57834,-98.59509,W IH 10, San Antonio, TX,78249
+35610,179,Merit Coffee - Shavano Park,,,"Breakfast and Brunch, American, Sandwiches",$,29.5979627,-98.563303,Pond Hill Lane, San Antonio, TX,78231
+35611,177,Charly's Cafe,,,"Coffee and Tea, American, Breakfast and Brunch",$,29.380347,-98.503611,514 Pleasanton Rd, San Antonio, TX,78214
+35612,175,The Beignet Stand,,,"Desserts, Pastry, Sandwich, Coffee and Tea, Breakfast and Brunch",$,29.54767,-98.3768,11911 Crosswinds Way #306, San Antonio, TX,78233
+35613,173,Oro Restaurant &amp; Bar,,,"Burgers, American, Sandwiches, Salads, Steak, Healthy",$,29.4265629,-98.4858777,705 E Houston St., San Antonio, TX,78205
+35614,172,Tapatio Vegan Tacos,,,"Vegetarian, Vegan, Healthy, Mexican, Latin American, Latin Fusion",$,29.4194653,-98.5014675,623 Urban Loop, San Antonio, TX,78204
+35615,170,Windows On the River,,,"Breakfast and Brunch, Burgers, American, Sandwich",$,29.425868,-98.4917455,217 N St Mary's St, San Antonio, TX,78205
+35617,162,Brainfreeze,,,"Comfort Food, Chicken, Breakfast and Brunch",$,29.4260137,-98.5549428,415 S General McMullen Dr, San Antonio, TX,78237
+35618,161,Charly‚Äôs Cafe,,,"Mexican, Breakfast and Brunch, Chicken",$,29.380203,-98.503582,514 Pleasanton Rd, San Antonio, TX,78214
+35619,159,El Taco Tote - San Antonio,,,"Mexican, Tex Mex, Breakfast and Brunch",$,29.5283494,-98.5604857,9502 Interstate 10 Frontage Rd, San Antonio, TX,78230
+35621,156,Brew's Lee Tea,,,"Coffee and Tea, American, Breakfast and Brunch",$,29.4636769,-98.4658142,4009 Broadway St, San Antonio, TX,78209
+35622,155,Old Fashioned Sticky Buns,,,"Breakfast and Brunch, Salads, Sandwiches",,29.49401,-98.53505,2317 Vance Jackson Road, San Antonio, TX,78213
+35623,154,Moe Jo‚Äôs Coffee Co.,,,"Coffee and Tea, American, Breakfast and Brunch",$,29.4651,-98.46373,4200 Broadway Street, San Antonio, TX,78209
+35624,153,"Breakfast Beauties (427 Lombrano St,)",,,"American, Breakfast and Brunch, Sandwich",$$,29.44191,-98.51055,427 Lombrano St, San Antonio, TX,78207
+35626,145,Panfila Mexican Breakfast,,,"Breakfast and Brunch, American, Sandwiches",,29.44186,-98.51055,427 Lombrano Street, San Antonio, TX,78207
+35627,144,Jim's Restaurant,,,"Breakfast and Brunch, American, Sandwiches",$$,29.4643,-98.46423,4108 Broadway St, San Antonio, TX,78209
+35629,135,La Taqueria Austin Hwy,,,"Pizza, American, Italian",$$,29.4872172,-98.446506,1208 Austin Hwy, San Antonio, TX,78209
+35630,136,CVS (7208 FM 78),4.8,15,"Everyday Essentials, Convenience, Pharmacy, Snacks",$,29.48514,-98.34657,7208 FM 78, SAN ANTONIO, TX,75038
+35631,129,Mudslingers Drive - Thru Coffee,,,"Coffee and Tea, American, Breakfast and Brunch",$$,29.58551,-98.45077,2235 Thousand Oaks, San Antonio, TX,78232
+35632,121,THE IMPOSSIBLE SHOP‚Ñ¢ (STONE OAK ),4.9,15,"Burgers, Healthy, Plant Based",$$,29.64953,-98.45208,20907 Stone Oak Parkway, San Antonio, TX,78258
+35633,109,Lazydaze Counterculture,,,"Coffee and Tea, American, Breakfast and Brunch",,29.51525,-98.52771,2166 Jackson Keller Road, San Antonio, TX,78213
+35634,96,Williams Confectionery Crafts,,,"Sandwiches, American, Healthy",$$,29.548708,-98.344303,12107 Toepperwein Rd, San Antonio, TX,78233
+35635,35,Taco Bell (11711 O'Connor Road),4.4,96,"Burritos, Fast Food, Mexican",$,29.54713,-98.3704776,11711 O'Connor Road, San Antonio, TX,78233
+35636,291,Willy B's,,,Pizza,$,29.4229029,-98.4931884,100 Villita St, San Antonio, TX,78205
+35637,3,Denny's (6703 Fm78),4.3,89,"American, Breakfast and Brunch, Coffee and Tea, Diner, Desserts, Salads, Steak, Sandwich, Family Meals, Healthy",$$,29.4828234,-98.3570396,6703 Fm78, San Antonio, TX,78244
+35638,290,NOLA Brunch and Beingets (111 Kings Ct),,,"Breakfast and Brunch, American, Sandwiches",$,29.45294,-98.48505,111 Kings Ct, San Antonio, TX,78212
+35639,289,Pizzarita's,,,"Pizza, American, Italian",$,29.424771,-98.4901666,245 E Commerce St, San Antonio, TX,78205
+35640,288,Sofia‚Äôs Pizzeria,,,"Pizza, American, Italian",,29.56358,-98.47892,903 East Bitters Road, San Antonio, TX,78216
+35641,287,Sanford &amp; Son Sandwiches,,,"Pizza, American, Italian",$,29.43802,-98.54174,901 NW 24th St, San Antonio, TX,78207
+35642,286,Tre Enoteca,,,Italian,$$,29.579008,-98.4996156,555 W Bitters Rd, San Antonio, TX,78216
+35643,284,MalDonado's Grill,,,"Mediterranean, Greek, Vegetarian, Desserts, Healthy",$,29.4561,-98.49961,2301 San Pedro Avenue, San Antonio, TX,78212
+35644,285,Capos Pizzeria,,,"Italian, Pizza, Salads",,29.49014,-98.56768,4263 Northwest Loop 410, San Antonio, TX,78229
+35645,283,Puerto's,,,"American, Italian, Desserts",$,29.4417,-98.47383,101 East Carson Street, San Antonio, TX,78208
+35647,280,Playland Pizza,,,Pizza,$$,29.4262527,-98.4885338,400 E Houston St, San Antonio, TX,78205
+35648,278,"Fratello's Ristorante, Market &amp; Deli",,,"Italian, Pasta, Comfort Food",$,29.4244899,-98.4959638,115 Plaza de Armas #107, San Antonio, TX,78205
+35649,277,Truegreens,,,"Pizza, American, Italian",$,29.4417,-98.47383,101 East Carson Street, San Antonio, TX,78208
+35650,276,Shisha Garden,,,"Indian, Exclusive to Eats",$$,29.625677,-98.49585,19141 Stone Oak Pkwy, San Antonio, TX,78258
+35651,275,The Slippery Noodle,,,"Pizza, American, Italian",$,29.4417,-98.47383,101 East Carson Street, San Antonio, TX,78208
+35652,273,El Rodeo Mexican Grill,,,Mexican,$$,29.5557962,-98.6148112,6565 Babcock Rd, San Antonio, TX,78249
+35653,271,Mr. Pepperoni Pizza  (Fredericksburg Rd.),,,"Pizza, American, Italian",$,29.50447,-98.56121,5252 Fredericksburg Rd., San Antonio, TX,78229
+35654,270,Wingman,,,"Pizza, American, Italian",$,29.396025,-98.481504,2620 South Presa Street, San Antonio, TX,78210
+35655,269,Truegreens,,,"Pizza, American, Italian",$,29.43802,-98.54174,901 NW 24th St, San Antonio, TX,78207
+35656,265,Big John's Pizza,,,"Pizza, American, Italian",$,29.5082152,-98.5543846,7806 Callaghan Rd, San Antonio, TX,78229
+35658,263,In The Zone Calzones,,,"Pizza, American, Italian",$,29.43802,-98.54174,901 NW 24th St, San Antonio, TX,78207
+35659,262,Other People's Pizza,,,"Pizza, American, Italian",$,29.43802,-98.54174,901 NW 24th St, San Antonio, TX,78207
+35660,261,Deco pizzeria express,,,"Sandwich, Salads, Wings",,29.4057567,-98.4614838,1401 S New Braunfels Ave, San Antonio, TX,78210
+35661,260,Proper,,,"Pizza, American, Italian",$,29.396025,-98.481504,2620 South Presa Street, San Antonio, TX,78210
+35662,257,Fuddruckers (Botts Lane),,,"Burgers, American",$$,29.5181821,-98.4600999,8602 Botts Ln, San Antonio, TX,78217
+35663,256,Beirut's Kitchen,,,"Pizza, American, Italian",$,29.396025,-98.481504,2620 South Presa Street, San Antonio, TX,78210
+35664,255,Wingman,,,"Pizza, American, Italian",$,29.43802,-98.54174,901 NW 24th St, San Antonio, TX,78207
+35665,254,Alamo Drafthouse (Stone Oak),,,"Burgers, American, Sandwiches",$,29.6537016,-98.4470734,22806 U.S. 281, San Antonio, TX,78258
+35666,249,Rosey's Fish and Chips,,,"European, Modern European, Sandwiches",,29.42587,-98.49762,100 North Santa Rosa Street, San Antonio, TX,78207
+35667,252,Luther's Cafe,,,"Breakfast and Brunch, Cafe, Sandwich",$,29.442964,-98.4944541,1503 N Main Ave, San Antonio, TX,78212
+35668,248,Parry's Pizzeria &amp; Taphouse (San Antonio),,,"Pizza, American, Italian",,29.59233,-98.58992,5311 North Loop 1604 West, San Antonio, TX,78249
+35669,247,Mariscos El Kora,,,"Mexican, Seafood",$$,29.5088756,-98.4105335,2367 Austin Hwy, San Antonio, TX,78218
+35670,245,Saveurs,,,"European, French, Seafood",$$,29.42796,-98.48776,207 Broadway St, San Antonio, TX,78205
+35672,240,NONNA Osteria,,,"Pizza, Pasta, Italian",,29.4205005,-98.4884629,401 S Alamo St, San Antonio, TX,78205
+35674,232,Gus's World Famous Fried Chicken,4.7,200,"American, Fried Chicken",$$,29.41543,-98.48917,812 S. Alamo St., San Antonio, TX,78210
+35675,228,Cedar Mediterranean Grill,4.4,103,Mediterranean,$$,29.52086,-98.57302,8620 Fredericksburg Road, San Antonio, TX,78240
+35676,224,Southtown Pizzeria,4.9,41,"Italian, Pasta, Salads, Desserts, Seafood, Pizza",,29.4133,-98.48781,728 S Presa St, San Antonio, TX,78210
+35677,220,FREAKING GOOD PIZZA (3703 Blanco Rd),,,"American, Pizza",$$,29.48089,-98.50856,3703 Blanco Rd, San Antonio, TX,78212
+35678,214,Los Comales (San Antonio),,,"Mexican, Latin American, New Mexican",$,29.4481578,-98.5600671,3018 Culebra Rd, San Antonio, TX,78228
+35679,213,Luby's (Las Palmas),,,"Seafood, Southern, Traditional American, American, Comfort Food",$$,29.4175839,-98.5537605,803 Castroville Rd, San Antonio, TX,78237
+35680,212,La Perla Del Pacifico 410.,,,"Mexican, Seafood, Tacos",,29.51676,-98.41225,2623 Northeast Interstate 410 Loop, San Antonio, TX,78217
+35681,200,The Bread Box,,,"Breakfast and Brunch, Salads, Sandwich, Desserts, Healthy",$,29.5789313,-98.4999066,555 W Bitters Rd, San Antonio, TX,78216
+35682,206,Sabor Latino Restaurant,,,"Latin American, Desserts, Seafood, Chicken, Steak, Exclusive to Eats",$,29.4844512,-98.4991088,5506 San Pedro Ave, San Antonio, TX,78212
+35683,188,Jet's Pizza (San Antonio),4.8,88,Pizza,$,29.6429319,-98.4891067,20079 Stone Oak Pkwy, San Antonio, TX,78258
+35684,157,Center Court Pizza &amp; Brew,,,"Pizza, Pasta, Salads",,29.63511,-98.51636,20711 Wilderness Oak #113, San Antonio, TX,78258
+35685,81,Cracker Barrel Old Country Store (3327 SE Military Dr.),4.5,192,"Burgers, American, Sandwiches, Family Meals",$,29.3521067,-98.434621,3327 SE Military Dr., San Antonio, TX,78223
+35687,2,Frederick's Bistro,,,"European, Modern European, Seafood",$,29.5740583,-98.5445839,14439 Northwest Military Highway, San Antonio, TX,78230
+35688,22,Halal Kitchen Express (427 Lombrano),,,"Middle Eastern, Halal, Mediterranean",$$,29.44186,-98.51055,427 Lombrano Street, San Antonio, TX,78207
+35689,247,TCBY (5920 Broadway St),,,"Burgers, American, Sandwiches",$,29.48097,-98.46501,5920 Broadway St, San Antonio, TX,78209
+35690,234,Corner Bakery (18720 Stone Oak Pkwy),4.7,166,"Breakfast and Brunch, Family Meals, Sandwich, Salads, Pasta, Cafe",$$,29.609807,-98.4911951,18720 Stone Oak Pkwy Ste 103, San Antonio, TX,78258
+35691,228,BOTANERO RD LLC,,,"Ice Cream + Frozen Yogurt, Snacks, Coffee and Tea",,29.46542,-98.56647,1407 Bandera Road, San Antonio, TX,78228
+35692,226,"Gollos taqueria, fruter√≠a &amp; mas ",,,"Snacks, Mexican, Comfort Food",,29.44439,-98.55203,676 North General McMullen Drive, San Antonio, TX,78228
+35693,9,Bed Bath &amp; Beyond (1730 N. FM 1604 East),,,"Retail, Gift Store, Beauty Supply",$,29.60778,-98.46498,1730 N. FM 1604 East, San Antonio, TX,78232
+35694,222,Anthony's Chicken,,,"Comfort Food, American, Wings",,29.41972,-98.45204,2603 East Commerce Street suite 101, San Antonio, TX,78203
+35695,221,Mini Taquitos La Polla,,,"Mexican, New Mexican, Burgers",,29.46616,-98.51169,1046 West Hildebrand Avenue, San Antonio, TX,78201
+35696,39,The Ice Cream Shop,4.9,15,"Desserts, Ice Cream + Frozen Yogurt",$,29.54119,-98.42045,11230 Nacogdoches Rd, San Antonio, TX,78217
+35697,259,El Taco Regio (Rigsby),,,"Mexican, Tacos, Burritos",,29.39871,-98.39223,5063 Rigsby Ave., San Antonio, TX,78222
+35698,152,"Matchstick Masala (427 Lombrano St,)",,,"American, Mexican, Latin American",$$,29.44191,-98.51055,427 Lombrano St, San Antonio, TX,78207
+35699,62,Nora's Mexican Restaurant,,,"Mexican, Latin American, New Mexican",$$,29.36729,-98.48492,2906 Mission Road, San Antonio, TX,78214
+35700,60,Pink Panda,,,"Asian, Noodles, Chicken, Nepalese, Street Food",,29.5027,-98.55908,5152 Fredericksburg Road, San Antonio, TX,78229
+35701,269,Jack in the Box (870) 15037 Nacogdoches,4.3,49,"American, burger, Fast Food",$,29.5781971,-98.3732954,15037 Nacogdoches, San Antonio, TX,78247
+35702,127,Fattboy Burgers &amp; Dogs,,,"Burgers, American, Sandwich",$,29.4944874,-98.5355966,2345 Vance Jackson Rd, San Antonio, TX,78213
+35703,201,GiGi's Deli,5,11,"American, Sandwiches",,29.44781,-98.48766,2327 North Saint Marys Street, San Antonio, TX,78212
+35705,204,Longhorn Cafe(12311 Nacogdoches Rd),4.5,39,"Burgers, American, Sandwiches",$,29.55314,-98.40581,12311 Nacogdoches Rd, San Antonio, TX,78217
+35706,176,Church's Chicken (430 S. New Braunfels Ave),4.4,76,Fast Food,$,29.4148,-98.46086,430 South New Braunfels Avenue, San Antonio, TX,78203
+35707,79,Freddy's Frozen Custard &amp; Steakburgers (16522 San Pedro/Hwy 281),3.8,65,"Burgers, American, Sandwiches, Desserts",$,29.59365,-98.47204,16522 San Pedro/Hwy 281, San Antonio, TX,78232
+35708,63,Do√±a Tota (Stone Oak),4.9,111,"Mexican, Latin American",$,29.611214,-98.478822,923 N Loop 1604 E, San Antonio, TX,78232
+35709,42,"Baskin-Robbins (634 Nw Loop 410, Suite 101)",4.9,16,"Desserts, Ice Cream + Frozen Yogurt, Comfort Food",$,29.5173119,-98.5038186,634 Nw Loop 410, San Antonio, TX,78216
+35710,35,Crumbl Cookies (TX - Stone Oak),4.8,132,"Bakery, Desserts, Snacks",$$,29.63788,-98.45691,20811 Highway 281 North, San Antonio, TX,78258
+35711,2,Shipley Do-Nuts (10918 Wurzbach Rd),4.9,73,"Desserts, American",$,29.5411107,-98.5516559,10918 Wurzbach Rd, San Antonio, TX,78230
+35712,216,Agave Azul ,,,"Mexican, Seafood",,29.44508,-98.49154,1626 McCullough Avenue, San Antonio, TX,78212
+35713,215,Hacienda camilla,,,Mexican,,29.5761173,-98.4434073,14814 Jones Maltsberger Rd, San Antonio, TX,78247
+35714,211,Fish Express,,,"Seafood, Fried Chicken, Wings",,29.62456089,-98.49625379,19141 Stone Oak Pkwy, San Antonio, TX,78258
+35715,197,Casa Frida,,,"Mexican, Latin American, New Mexican",$,29.4129389,-98.4912912,1036 S Alamo St, San Antonio, TX,78210
+35716,175,Family pizza ,,,"Pizza, Pasta",,29.34592,-98.52787,1447 West Hutchins Place, San Antonio, TX,78221
+35718,122,Taqueria Los Dos Laredos,,,"Mexican, Latin American, New Mexican",$,29.3985429,-98.4005916,4703 Rigsby Ave, San Antonio, TX,78222
+35719,99,Las Palapas (SE Military),4.4,74,"Mexican, Breakfast and Brunch, Snacks, Family Meals, Tacos, Chicken, Asado, Fish &amp; Seafood, Salads",$,29.3528801,-98.4432071,3039 SE Military Drive, San Antonio, TX,78223
+35720,96,Las Quesabrosaz,,,"Mexican, Latin American, New Mexican",$,29.4152922,-98.4065842,909 S WW White Rd 909, San Antonio, TX,78220
+35721,63,Krab Kingz San Antonio,4.7,43,"Seafood, American, Southern, Exclusive to Eats",$,29.45607,-98.49955,2301 San Pedro Avenue, San Antonio, TX,78212
+35722,240,Hon Machi Korean BBQ,4,12,"Korean, Asian, BBQ, Family Meals",,29.53875,-98.58462,10222 Huebner Road, San Antonio, TX,78240
+35723,220,Taquitos &amp; Panaderia West Avenue,,,"Mexican, Latin American, New Mexican",$$,29.55611,-98.39929,12734 Nacogdoches Road, San Antonio, TX,78217
+35724,204,Sabores Cali-Baja Mex Grill,4.1,14,"Mexican, Salads, Burritos",,29.50510559,-98.58601643,2414 Babcock Road, San Antonio, TX,78229
+35725,149,Jersey Mike's Subs (17202 Bulverde Rd),5,15,"Sandwich, American",$,29.59835,-98.41799,17202 Bulverde Road, San Antonio, TX,78247
+35727,121,El San Luis Mexican Restaurant,,,"Mexican, Latin American, New Mexican",$$,29.51056,-98.40559,4455 Walzem Rd, San Antonio, TX,78218
+35728,108,"Red Robin, 363 (1750 N Loop 1604 E, Ste 102)",4.6,40,"American, burger, Sandwich, Family Friendly",$,29.6070872,-98.4637349,1750 N Loop 1604 E Ste 102, San Antonio, TX,78232
+35729,116,Long John Silver's (11611 West Avenue),4.2,77,"Seafood, Chicken, Family Meals, Fish and Chips, American",$$,29.545723,-98.5101069,11611 West Avenue, San Antonio, TX,78213
+35730,89,Las Palapas (Churchill),4.8,113,"Black-owned, Mexican, Salads, New Mexican, Healthy, Family Meals",$$,29.5484993,-98.5097242,11860 Blanco Rd., San Antonio, TX,78216
+35731,82,Good As Cluck (702 NW Loop 410),,,"American, Burgers, Wings",$$,29.5198,-98.50378,702 NW Loop 410, San Antonio, TX,78216
+35732,28,Auntie Anne's (6301 NW Loop 410 Space KL11),,,"Bakery, Comfort Food, Desserts, Pretzel, Family Meals",$,29.4690176,-98.621036,6301 NW Loop 410 Space KL11, San Antonio, TX,78238
+35734,1,Man vs Fries (SAT02-1),4.6,29,"Mexican, Desserts",$,29.57526406,-98.41811081,14730 Bulverde Road, San Antonio, TX,78247
+35735,168,La Fogata (San Antonio),,,"Mexican, Latin American, New Mexican",$$,29.49591247,-98.53529034,2427 Vance Jackson Road, San Antonio, TX,78213
+35736,165,Palenque Grill (La Cantera),5,19,"Mexican, Latin American, New Mexican, Seafood, Steak, Chicken, Family Meals, Family Friendly",$$,29.592398,-98.6113062,15900 La Cantera Pkwy, San Antonio, TX,78256
+35738,53,La Marginal,,,"Burgers, Chicken, Sandwich",$,29.5178867,-98.4510356,2447 Nacogdoches Rd, San Antonio, TX,78217
+35739,13,7-Eleven (12210 Nacogdoches Rd),4.7,85,"Convenience, Everyday Essentials, Snacks, Home &amp; Personal Care, Alcohol",$,29.55069,-98.4067,12210 Nacogdoches Rd, San Antonio, TX,78233
+35740,142,Takos chaires,,,"Mexican, Latin American, New Mexican",$,29.4748363,-98.5372289,3441 Fredericksburg Road, San Antonio, TX,78201
+35742,110,Total Wine &amp; More (125 NW Loop 410 Ste 260),4.8,23,"Liquor Stores, Alcohol, Wine",$,29.52356,-98.49522,125 NW Loop 410 Ste 260, San Antonio, TX,78216
+35743,102,Mandarin Express (508 Chestnut St),,,"Asian, Chinese",$,29.42669,-98.47906,508 Chestnut, San Antonio, TX,78202
+35744,101,MOD Pizza (Vineyard),4.8,64,"Pizza, Desserts, Salads, American, Healthy, Vegetarian Friendly, Kids Friendly, Family Friendly",$,29.609836,-98.514488,1435 N Loop 1604 W, San Antonio, TX,78258
+35745,100,Pei Wei (508 Chestnut St),,,"Asian, Chinese",$,29.42669,-98.47906,508 Chestnut, San Antonio, TX,78202
+35747,225,Pesto Ristorante (Downtown),,,"Mexican, Latin American, New Mexican, Pasta",$,29.42632,-98.49102,204 East Houston Street, San Antonio, TX,78205
+35748,222,Mi Cocinita Restaurant,,,"Mexican, Latin American, New Mexican",$,29.356044,-98.4479605,2711 Lasses Blvd, San Antonio, TX,78223
+35749,198,Bun and Meat Burgers,,,"Burgers, American, Sandwiches",$,29.5783969,-98.3737365,15033 Nacogdoches Rd, San Antonio, TX,78247
+35750,160,"Indian Spice Lane (220 Broadway,)",4.5,34,"Indian, Pakistani, Indian Curry, Vegetarian, Vegan",$,29.42816,-98.48725,220 Broadway, San Antonio, TX,78205
+35751,109,The Last Slice,4.5,19,Pizza,,29.52709,-98.43985,3021 MacArthur View, San Antonio, TX,78217
+35753,211,The Ice Cream Shop,,,"Desserts, Ice Cream + Frozen Yogurt, Comfort Food",$,29.4973,-98.3837,5203 Eisenhauer Rd, San Antonio, TX,78218
+35754,208,Pesto Ristorante - Olmos Park,,,"Italian, Pasta, Comfort Food",$,29.47882,-98.491857,5221 McCullough Ave, San Antonio, TX,78212
+35755,206,The Big Melt (110 East Crockett),,,"Sandwiches, American, Cheese",$,29.42499,-98.48766,110 East Crockett, San Antonio, TX,78205
+35756,205,Grilled Cheese Society (110 East Crockett),3.9,20,"Sandwiches, American, Cheese",$,29.42499,-98.48766,110 East Crockett, San Antonio, TX,78205
+35757,203,Stroop Club (427 Lombrano St),,,"Desserts, Snacks, Comfort Food",$,29.44191,-98.51055,427 Lombrano St, San Antonio, TX,78207
+35759,179,Marble Slab Creamery,,,"Ice Cream &amp; Frozen Yogurt, Comfort Food, Desserts",$,29.6098315,-98.5328164,2506 Ox Eye Trail, San Antonio, TX,78258
+35761,155,Freshest Ice Creams,,,"Ice Cream &amp; Frozen Yogurt, Comfort Food, Desserts",,29.51299,-98.55146,8053 Callaghan Road, San Antonio, TX,78230
+35762,135,Pollos asados el rey,,,"Comfort Food, American, Chicken",$$,29.43952426,-98.45820053,1704 Interstate 35 Frontage Road, San Antonio, TX,78208
+35763,124,Shipley Donuts (1134 Culebra),4.8,73,"Breakfast and Brunch, American, Sandwiches",$,29.444836,-98.525707,1134 CULEBRA RD, San Antonio, TX,78201
+35764,89,It's Just Wings (8502 Broadway Street),4.5,16,"American, Comfort Food",$$,29.51745,-98.46329,8502 Broadway Street, San Antonio, TX,78217
+35765,69,Jack in the Box (4723) 21034 Us Hwy 281 N.,4.2,64,"American, burger, Fast Food",$,29.6389554,-98.4542333,21034 Hwy 281 N., San Antonio, TX,78258
+35766,41,Charleys Cheesesteaks - North Star Mall,4.6,41,"Sandwiches, American, Healthy",$,29.5183302,-98.4962833,7400 San Pedro Ave Ste FC-8, San Antonio, TX,78216
+35767,35,Golden Chick (22002 Hwy 281 N),4.5,48,"American, Salads, Fried Chicken, Family Meals, Healthy",$,29.64705678,-98.45019029,22002 Hwy 281 N, San Antonio, TX,78259
+35769,32,Taco Bell (8040 Pat Booker),4.9,38,"Burritos, Fast Food, Mexican",$,29.561241,-98.330609,8040 Pat Booker, San Antonio, TX,78233
+35771,29,Five Guys TX-4035 20811 US Hwy 281 N,4.7,69,"American, Burgers, Comfort Food",$,29.6380906,-98.4570633,20811 U.S. Hwy 281 N, San Antonio, TX,78258
+35773,147,Grady's Bar-B-Que (San Antonio),4.4,50,"American, BBQ, Southern, Comfort Food",$,29.4485176,-98.4274971,3619 I-35, San Antonio, TX,78219
+35774,127,Subway (8521 Perrin Beitel),4.5,17,"Fast Food, Sandwich, American",$,29.51705,-98.4118,8521 Perrin Beitel, San Antonio, TX,78217
+35775,120,KFC  (2907 Thousand Oaks Drive),4.4,71,"American, Fast Food, wings",$,29.57803,-98.44094,2907 Thousand Oaks Drive, San Antonio, TX,78247
+35776,106,Longhorn Cafe (3150 Southeast Military Drive ),4.4,101,"Burgers, American, Sandwiches",$,29.3493662,-98.4357915,3150 Southeast Military Drive Ste 106, San Antonio, TX,78223
+35777,80,Wendy's  (16611 NACOGDOCHES),4.6,58,"American, Burgers, Fast Food",$,29.59156,-98.353179,16611 NACOGDOCHES, SAN ANTONIO, TX,78247
+35778,78,Taco Cabana (1253 Austin Hwy),4.3,40,"Mexican, Tex Mex, Breakfast and Brunch, Family Meals",$,29.4894334,-98.444029,1253 Austin Hwy, San Antonio, TX,78209
+35779,74,Panda Express (1446 Austin Hwy.),4.6,200,"Asian, Chinese, Family Meals, Group Friendly",$,29.4925242,-98.4353117,1446 Austin Hwy., San Antonio, TX,78209
+35780,49,Dairy Queen (11734 West Ave),4.4,119,"Ice Cream + Frozen Yogurt, Burgers, Chicken, American",$,29.5473141,-98.5074203,11734 West Ave, San Antonio, TX,78216
+35781,45,Shipley Do-Nut (2815 N. Loop 1604 E Suite 101),4.7,41,Middle Eastern,$,29.603971,-98.444405,2815 N. Loop 1604 E, San Antonio, TX,78259
+35783,36,IHOP (6831 North Loop 1604 East),4.6,69,"American, Breakfast and Brunch, burger, Comfort Food, Dinner, Omelette, salad, Traditional American, Family Meals, Family Friendly",$,29.5942214,-98.3522684,6831 North Loop 1604 East, San Antonio, TX,78266
+35784,243,Loaded Baked Potatoes,,,"Burgers, American, Sandwiches",$,29.57823,-98.37368,15033 Nacogdoches Rd, San Antonio, TX,78247
+35785,238,Elotitos Corn Bar,,,"Comfort Food, American, Burgers",,29.463318,-98.52532,1933 Fredericksburg Road, San Antonio, TX,78201
+35786,223,Andres Food Truck,,,"Mexican, Latin American, New Mexican, Tacos, Burgers, Tex Mex, Hot Dog, Comfort Food",,29.3978,-98.53108,2625 South Zarzamora Street, San Antonio, TX,78207
+35787,220,Franklin Jack,,,"Burgers, American, Sandwiches",,29.599312,-98.402658,4951 Bending Trail, San Antonio, TX,78247
+35788,221,Demo's Greek Food (St. Mary's),4.5,80,"Mediterranean, Greek, Salads",$,29.44937,-98.488,2501 N Saint Marys St, San Antonio, TX,78212
+35789,211,Ritas on the River,,,"Mexican, Tex Mex, Salads, Healthy",$,29.4247766,-98.4901863,245 E Commerce St Ste 100, San Antonio, TX,78205
+35790,207,Lucky Lizard Sports Bar,,,"American, Burgers, Wings",,29.42389,-98.48974,302 East Commerce Street, San Antonio, TX,78205
+35791,205,Burgerteca,,,"Mexican, Latin American, New Mexican",$,29.4062328,-98.4938076,403 Blue Star St 105, San Antonio, TX,78204
+35792,203,The Hangar,,,"Burgers, American, Sandwiches",$,29.5115882,-98.4666149,8203 Broadway, San Antonio, TX,78209
+35793,202,Caliente Grill (Broadway),,,"Mexican, Latin American, New Mexican",$,29.43395,-98.480628,930 Broadway St., San Antonio, TX,78215
+35794,194,Gibby's Ice House (E. Military),,,"Burgers, Pizza",,29.35153918,-98.45423927,2402 Southeast Military Drive, San Antonio, TX,78223
+35795,187,The Lone Star Food Truck,,,"Burgers, American, Sandwiches",,29.53145,-98.56029,9900 Wurzbach Road, San Antonio, TX,78230
+35796,182,Project Pollo (South San Pedro),4.6,33,"Comfort Food, American, Chicken",$,29.43585,-98.49631,303 San Pedro Avenue, San Antonio, TX,78212
+35797,181,Tacos El Regio (427 Lombrano St.),4.3,52,"Mexican, Latin American, New Mexican",,29.44195,-98.510414,427 Lombrano Street, San Antonio, TX,78207
+35798,178,Project Pollo (North San Pedro),4.8,29,"Burgers, American, Sandwiches",$,29.5274,-98.49899,9519 San Pedro Avenue, San Antonio, TX,78216
+35799,167,Indacouch Grub (427 Lombrano Street),,,"American, Burgers",$$,29.44191,-98.51055,427 Lombrano Street, San Antonio, TX,78245
+35800,158,Golden Chick (2503 SE Military Dr),4.6,48,"Wings, American, Fast Food, Family Meals, Burgers",$,29.3523775,-98.4532359,2503 SE Military Dr, San Antonio, TX,78223
+35801,131,La Terrazita,,,"Mexican, Fast Food, Fruit",,29.47603,-98.58211,4823 Evers Rd, San Antonio, TX,78228
+35802,150,Saltgrass (2885 Cinema Ridge),4.5,93,"Seafood, American, Southern, Healthy, Desserts, Alcohol",$$$,29.4626881,-98.6199471,2885 Cinema Ridge, San Antonio, TX,78238
+35803,42,Radickes Bluebonnet Grill,,,"Italian, Pasta, Comfort Food",$$,29.4346,-98.40578,237 North Ww White Road, San Antonio, TX,78219
+35804,15,MrBeast Burger (SAT02-1),4.5,79,"American, Burgers, Chicken",$,29.5756,-98.41869,14730 Bulverde Road, San Antonio, TX,78247
+35805,252,Chipotle Mexican Grill (7322 Jones Maltsberger Rd Ste 206),4.7,104,"Healthy, Mexican",$,29.498136,-98.4801676,7322 Jones Maltsberger Rd Ste 206, San Antonio, TX,78209
+35807,224,El Itacate Tacos,,,"Mexican, Latin American, New Mexican",$,29.39004,-98.52116,2501 Nogalitos, San Antonio, TX,78225
+35808,92,Tlahco Mexican Kitchen,,,"Mexican, Latin American, New Mexican, Family Meals",$,29.5005633,-98.4988411,6702 San Pedro Ave, San Antonio, TX,78216
+35809,78,Taco Guadalajara Mexican Restaurant,,,"Mexican, Spanish, Latin American, Exclusive to Eats",$,29.483769,-98.396583,4838 Rittiman Road, San Antonio, TX,78218
+35810,152,Baby Taco,,,Mexican,,29.515034,-98.465986,8343 Broadway St, San Antonio, TX,78209
+35811,151,Firehouse Wings,,,"Wings, American, Fast Food",$$,29.57842,-98.3738,15033 Nacogdoches Rd, San Antonio, TX,78247
+35813,150,Mirrey Grill,,,"Tacos, Fast Food",,29.60907,-98.50492,23803 Calico Chase, San Antonio, TX,78258
+35814,136,The Burger Den (6703 Fm78),4.2,21,"American, Burgers, Comfort Food, Vegetarian Friendly, Fast Food",$$,29.48283,-98.35703,6703 Fm78, San Antonio, TX,78244
+35815,122,Alfonso's Tamales,,,"Mexican, Latin American, New Mexican",,29.402283,-98.387522,2000 S East Loop 410 Ste 103, San Antonio, TX,78220
+35816,70,DoughBoy,,,"Pizza, American, Italian",,29.4354,-98.48164,1009 Avenue B, San Antonio, TX,78215
+35817,34,Subway (1171 AT&amp;T CENTER PARKWAY),,,"Burgers, American, Sandwiches",$$,29.44084,-98.43797,1171 AT&amp;T CENTER PARKWAY, SAN ANTONIO, TX,78219
+35818,19,Damasco Mediterranean Buffet,,,"Mediterranean, Greek, Vegetarian",,29.49685,-98.55707,4841 Fredericksburg Road, San Antonio, TX,78229
+35819,13,Pasha Mediterranean Grill (N Loop 1604),4.5,173,"Mediterranean, Greek, Family Friendly",$$,29.6094081,-98.5115308,1207 TX-1604 Loop, San Antonio, TX,78258
+35820,243,7-Eleven (5603 N Foster Rd),4.9,115,"Convenience, Everyday Essentials, Snacks, Home &amp; Personal Care, Alcohol",$,29.479444,-98.361208,5603 N Foster Rd, San Antonio, TX,78244
+35822,230,Chef‚Äôs table Mediterranean grill,,,"Mediterranean, Soup, Salads, Kebab",,29.49112,-98.56955,1546 Babcock Road, San Antonio, TX,78229
+35823,218,Lindo Jalisco Grill,,,"Latin American, Mexican, Vegetarian, Healthy",$,29.5188518,-98.5723501,8434 Fredericksburg Rd, San Antonio, TX,78229
+35824,158,Golden Corral (1025 Se Military Road),4.7,19,"American, Comfort Food, Seafood",$,29.356944,-98.483762,1025 Se Military Road, San Antonio, TX,78214
+35825,13,Express Pie Parlor (8132 Fredericksburg Rd),,,"Pizza, Italian, American, Chicken, BBQ",$,29.51551,-98.57069,8132 Fredericksburg Rd, San Antonio, TX,78229
+35826,146,Dairy Queen (8099 Village Oak Dr),4.4,115,"Ice Cream + Frozen Yogurt, Burgers, Chicken, American",$,29.559685,-98.3300346,8099 Village Oak Dr, San Antonio, TX,78233
+35828,126,"Art of Biryani (3720 Northwest Loop 410, San Antonio, TX 78229)",3.4,12,"Indian, Pakistani, Vegetarian, Halal, Chicken",$,29.49263,-98.55528,3720 Northwest Loop 410, San Antonio, TX,78229
+35829,101,Subway (14084 Nacogdoches Rd),4.8,80,"Fast Food, Sandwich, American",$,29.5700022,-98.3820313,14084 Nacogdoches Rd, San Antonio, TX,78247
+35830,157,Church's Chicken (2602 N.W. Loop 410),4.5,75,"Fast Food, Family Meals",$,29.5106364,-98.5354395,2602 N.W. Loop 410, San Antonio, TX,78213
+35831,133,Hootie's Chicken Tenders (13131 San Pedro),3.6,23,"American, Chicken Strips, Wings, Chicken",$,29.56067,-98.48424,13131 San Pedro, San Antonio, TX,78216
+35832,91,Taco Cabana (4622 Rittiman Rd),3.9,72,"Mexican, Tex Mex, Breakfast and Brunch, Family Meals",$,29.4837714,-98.40072,4622 Rittiman Rd, San Antonio, TX,78218
+35834,60,Fahrenheit 32 (Bitters Rd.),,,"Ice Cream + Frozen Yogurt, Desserts",$,29.5658031,-98.4861554,226 W Bitters Rd, San Antonio, TX,78216
+35835,57,Starbucks (I-10 &amp; Commerce),4.6,149,"Bakery, Breakfast and Brunch, Cafe, Coffee &amp; Tea",$,29.4257384,-98.4215508,3818 E Commerce St, San Antonio, TX,78219
+35836,58,Sonic (811 San Pedro),4.5,11,"Burgers, Sandwich, American, Fast Food, burger, Hot Dog, American, Sandwiches",$$,29.44119,-98.4995,811 San Pedro, San Antonio, TX,78212
+35837,53,Taco Bell (4714 Rittiman Rd),4.2,80,"Burritos, Fast Food, Mexican",$,29.48374,-98.39931,4714 Rittiman Rd, San Antonio, TX,78218
+35838,50,Dairy Queen Grill &amp; Chill (2282 SE Military Dr),4.8,19,"Ice Cream + Frozen Yogurt, Burgers, Chicken, American",$,29.35123,-98.45837,2282 SE Military Dr, San Antonio, TX,78223
+35839,37,Which Wich (San Antonio - Downtown),4.5,10,"American, Sandwich",$,29.4236353,-98.4852833,849 E Commerce St, San Antonio, TX,78205
+35841,146,DTOX ME,,,"Sandwiches, Salads",,29.44191,-98.51055,427 Lombrano Street, San Antonio, TX,78207
+35842,211,Sanchos,,,"Mexican, New Mexican, Comfort Food",$,29.4394502,-98.499309,628 Jackson St, San Antonio, TX,78212
+35843,154,Darinas Mexican Restaurant,,,"Mexican, Latin American, New Mexican",$,29.48882,-98.5975052,5625 Evers Rd, San Antonio, TX,78240
+35844,219,Leonardo's Italian Restaurante (Downtown),,,"Italian, Pasta, Salads",$,29.42452,-98.49578,115 Plaza de Armas #107, San Antonio, TX,78205
+35845,216,Subway (14439 NW Military Hwy),,,"Fast Food, Sandwich, American",$,29.57365,-98.5450916,14439 NW Military Hwy, San Antonio, TX,78230
+35846,166,Taco Bell (849 E. Commerce Street),,,"Burritos, Fast Food, Mexican",$,29.4238,-98.48432,849 E Commerce St, San Antonio, TX,78205
+35847,207,Taco Bell (8727 Perrin Beitel),,,"American, Fast Food, wings, Family Meals, Family Friendly",$,29.519144,-98.411402,8727 Perrin Beitel, San Antonio, TX,78217
+35848,85,Church's Chicken (1318 S. WW White Rd),4.1,42,"Fast Food, Family Meals",$,29.4093051,-98.4052222,1318 S. WW White Rd, San Antonio, TX,78220
+35849,61,Buffalo Wild Wings (18410 US Highway 281 N),4.4,200,"wings, American, Chicken, Family Friendly",$$,29.611586,-98.466805,18410 Highway 281 N, San Antonio, TX,78259
+35850,191,"Hot Chx Nashville Hot Chicken (427 Lombrano St,)",,,"American, Chicken, Comfort Food",$$,29.44191,-98.51055,427 Lombrano St, San Antonio, TX,78207
+35851,186,Chick-fil-A  (27 NE Loop 410),4.8,200,"American, Fried Chicken, Family Meals, Southern, Sandwich, Fast Food",$,29.521153,-98.493059,27 NE Loop 410, San Antonio, TX,78216
+35852,186,Sa Fresh Cutz,,,"American, Sandwiches, Burgers",,29.42517,-98.49461,5931 whispering lake st., San Antonio, TX,78222
+35853,10,"Mad Over Curry (3720 Northwest Loop 410, San Antonio, TX 78229)",3.9,21,"Indian Curry, Indian, Pakistani, Healthy, Vegan",$,29.49263,-98.55528,3720 Northwest Loop 410, San Antonio, TX,78229
+35855,177,Baskin-Robbins (6727 Bandera Rd),4.5,25,"Desserts, Ice Cream + Frozen Yogurt, Comfort Food",$,29.496221,-98.6190837,6727 Bandera Rd, San Antonio, TX,78238
+35856,189,Mini Tacos Los Cowboys,4.5,42,"Tacos, Mexican",$,29.42688,-98.5549,327 South General McMullen Drive, San Antonio, TX,78237
+35857,183,Thunder Thighs 210 Turkey Legs,4.6,46,"American, Desserts, Drinks",,29.43397,-98.4806,930 Broadway, San Antonio, TX,78215
+35858,105,Las Palapas (Thousand Oaks),4.4,52,"Mexican, Latin American, New Mexican",$,29.57877,-98.44281,2866 Thousand Oaks Dr, San Antonio, TX,78232
+35859,172,Charleys Cheesesteaks - Rolling Oaks Mall,4.5,11,Sandwich,$,29.59487,-98.3531,6909 N. Loop 1604 East, San Antonio, TX,78247
+35860,164,Firehouse Subs (City Base West),4.8,103,Sandwich,$,29.3525982,-98.4510903,2611 SE Military Dr, San Antonio, TX,78223
+35861,61,Red Lobster (17415 US 281 N),4.7,80,"Seafood, American, Family Meals",$$,29.602484,-98.471365,17415 281 N, San Antonio, TX,78232
+35862,183,Burger King (8922 Airport Blvd),4.4,46,"American, burger, Fast Food, Family Meals",$,29.5212279,-98.4763678,8922 Airport Blvd, San Antonio, TX,78216
+35863,94,Jack in the Box (9330 Wurzbach),4.4,62,"American, burger, Fast Food",$,29.5288928,-98.563928,9330 Wurzbach, San Antonio, TX,78240
+35864,75,Panda Express (14072 Nacogdoches Rd),4.8,200,"Asian, Chinese, Family Meals, Group Friendly",$,29.5692642,-98.3830788,14072 Nacogdoches Rd, San Antonio, TX,78233
+35865,62,Denny's (1815 North Foster Rd),3.6,29,"American, Breakfast and Brunch, Coffee and Tea, Dinner, Desserts, Salads, Steak, Sandwich, Family Meals, Healthy",$$,29.4461565,-98.3618402,1815 North Foster Rd, San Antonio, TX,78244
+35867,162,Dunkin' (18235 Bulverde Rd),4.5,43,"Breakfast &amp; Brunch, Donuts",$,29.6077865,-98.4194292,18235 Bulverde Rd, San Antonio, TX,78259
+35868,160,Nashville Hot Chicken Shack (4109 Fredericksburg Road),,,"American, BBQ, Comfort Food",$,29.4853729,-98.54734415,4109 Fredericksburg Road, San Antonio, TX,78201
+35869,133,Long John Silver's (12812 W IH 10),4.4,116,"American, Family Meals, Seafood, Fish and Chips, Chicken",$,29.5644462,-98.5925342,12812 W IH 10, San Antonio, TX,78249
+35870,48,Popeyes (14107 Nacogdoches Rd),3.8,99,"American, Chicken, Family Meals, Fried Chicken, Comfort Food",$,29.570039,-98.383099,14107 Nacogdoches Rd, San Antonio, TX,78247
+35871,141,Tyga Bites (20626 Stone Oak Parkway),,,"American, Chicken Strips, Sandwich",$,29.64904,-98.4629,20626 Stone Oak Parkway, San Antonio, TX,78258
+35872,143,VG Pizzeria,,,"Pizza, Wings, Pasta",,29.35498,-98.48484,910 Southeast Military Drive, San Antonio, TX,78214
+35873,208,Taqueria El Trompo,,,"Black-owned, Mexican, Latin American, New Mexican",$,29.49537,-98.4352,3253 Harry Wurzbach, San Antonio, TX,78209
+35874,207,The Dakota (433 S HACKBERRY),,,"Burgers, American, Sandwiches",$,29.41619,-98.47342,433 S HACKBERRY, SAN ANTONIO, TX,78203
+35875,203,Mama's Kitchen,,,"Mexican, Latin American, New Mexican",$,29.466218,-98.501723,504 W Hildebrand Ave, San Antonio, TX,78212
+35876,182,Gordos mini tacos,4.6,75,"Mexican, Latin American, New Mexican",$,29.4773793,-98.3588449,5570 N Foster Rd, San Antonio, TX,78244
+35878,129,Crunchy Greens Salads,,,"Healthy, Vegetarian, Salads",$,29.5783969,-98.3737365,15033 Nacogdoches Rd, San Antonio, TX,78247
+35879,128,La Borinque√±a,,,"Latin American, Mexican, Vegetarian, Healthy",$,29.485432,-98.60319,5700 Wurzbach Rd 5718-b, San Antonio, TX,78238
+35880,126,Fit in 30,,,"Healthy, Exclusive to Eats",$,29.5151192,-98.570135,8116 Fredericksburg Rd, San Antonio, TX,78229
+35881,124,HotBite - Mexican &amp; Venezuelan Food,,,"Latin American, Mexican, Vegetarian, Healthy",$,29.59336,-98.5962,5611 N Loop 1604 W, San Antonio, TX,78257
+35882,123,Chipper Chiqn (Alon),,,"Vegetarian, Vegan, Healthy",,29.54514,-98.52939,10003 Northwest Military Highway, San Antonio, TX,78230
+35883,115,Chipper Chiqn (San Antonio),,,"Vegetarian, Vegan, Healthy",,29.5193,-98.50516,818 Northwest Loop 410, San Antonio, TX,78216
+35884,72,Babe's Old Fashioned Food (Military Dr.),4.1,26,"Burgers, Pizza, Salads, Family Meals, Healthy",$$,29.3563205,-98.4984957,434 SW Military Dr, San Antonio, TX,78221
+35885,26,American Eclectic Burger (SAT01-1),,,"American, Burgers, Chicken",$,29.54784,-98.37637,11911 Crosswinds Way, San Antonio, TX,78233
+35887,201,Makenka,,,"Mexican, Latin American, New Mexican",,29.42557,-98.48824,123 Losoya Street, San Antonio, TX,78205
+35888,200,LOSOYAS EXPRESS,,,"Mexican, Latin American, New Mexican, Exclusive to Eats",$,29.5074922,-98.5886576,2354 Babcock Rd, San Antonio, TX,78229
+35889,156,Hunt Brothers Pizza - Nacogdoches Rd (Powered by Lula),,,"Convenience, Snacks, Everyday Essentials, Alcohol",$,29.55281,-98.40397,12434 Nacogdoches Road, San Antonio, TX,78217
+35890,106,Stone Oak Liquor (19202 Stone Oak Pkwy),,,"Drinks, Wine",$,29.62728,-98.49445,19202 Stone Oak Pkwy, San Antonio, TX,78258
+35892,55,Panda Express (1803 Vance Jackson Rd),4.4,200,"Asian, Chinese, Family Meals",$,29.48914969,-98.53543182,1803 Vance Jackson Road, San Antonio, TX,78213
+35893,126,MOD Pizza (Stone Oak),4.7,98,"Pizza, Desserts, Salads, American, Healthy, Vegetarian Friendly, Kids Friendly",$,29.6462397,-98.4504912,22026 N US-281, San Antonio, TX,78258
+35894,125,Taco Bell (6938 N. Loop 1604 E),4.5,81,"Burritos, Fast Food, Mexican",$,29.5927017,-98.35383,6938 N. Loop 1604 E, San Antonio, TX,78247
+35895,29,Le Mirage,,,"Mediterranean, Middle Eastern, Chicken",,29.52095,-98.57309,8620 Fredericksburg Road, San Antonio, TX,78240
+35896,299,LAS CATRINAS MEXICAN BUFFET,,,"Mexican, Exclusive to Eats",,29.5038066,-98.5857953,7271 Wurzbach Rd Suite 102, San Antonio, TX,78240
+35897,296,El Compa's Mexican Restaurant,,,"Mexican, Comfort Food, Tex Mex",$,29.4900327,-98.5676533,4263 NW Loop 410, San Antonio, TX,78229
+35898,107,Nashville Hot Chicken Shack (3619 I35 South),3.8,17,"American, BBQ, Comfort Food",$,29.44825294,-98.42745653,3619 I35 South, San Antonio, TX,78219
+35899,282,Tacos Martinez,,,"Mexican, Chicken, Tex Mex",$,29.4311229,-98.5601225,5034 W Commerce St, San Antonio, TX,78237
+35900,56,La Madeleine Country French Cafe (722 Northwest Loop 410),4.8,132,"European, Modern European, Seafood",$,29.519857,-98.504505,722 Northwest Loop 410, San Antonio, TX,78216
+35901,257,Alataco (427 Lombrano Street),,,"Mexican, Tacos, Burritos",$,29.44191,-98.51055,427 Lombrano Street, San Antonio, TX,78207
+35902,236,Pepe's Tacos-N-Salsa,,,"Mexican, Exclusive to Eats",$$,29.5579876,-98.4622478,12820 Jones Maltsberger, San Antonio, TX,78247
+35903,197,Carnitas Lonja,,,Mexican,$,29.3931665,-98.4864519,1107 Roosevelt Ave, San Antonio, TX,78210
+35904,58,SYLVIA'S MEXICAN RESTAURANT,,,"Mexican, Tacos",,29.48332,-98.40724,6019 RITTIMAN PLZ, SAN ANTONIO, TX,78218
+35905,120,Whataburger (12309 Nacogdoches Rd),4.2,60,"Burgers, Fast Food, Burgers, Sandwiches, American",$$,29.55248,-98.40569,12309 Nacogdoches Rd, San Antonio, TX,78217
+35906,111,Freddy's Frozen Custard &amp; Steakburgers (255 E Basse Road #1050),4.6,91,"Burgers, American, Sandwiches, Desserts",$,29.49597,-98.48173,255 E Basse Rd, San Antonio, TX,78216
+35907,110,Subway #12289,4.7,18,"Fast Food, Sandwich, American",$,29.5107031,-98.3916143,4977 Walzem Rd, San Antonio, TX,78218
+35908,48,Tropical Smoothie Cafe (21918 US-281 N),4.7,75,"Juice and Smoothies, Breakfast and Brunch, Fast Food, Healthy",$,29.64531,-98.45106,21918 US-281 N, San Antonio, TX,78259
+35909,199,Las Quesadillas,,,"Mexican, Latin American, New Mexican",$,29.57980604,-98.47484926,14530 brook hollow blvd, San Antonio, TX,78232
+35912,190,Una Vez Fue Res,,,"Mexican, Latin American, New Mexican",$,29.448472,-98.4880659,2407 North Saint Mary's Street, San Antonio, TX,78212
+35913,187,Birrieria Ay Arandas,,,"Mexican, Latin American, New Mexican",$$,29.44689,-98.54631,2426 Culebra Road, San Antonio, TX,78228
+35914,181,Grand Burrito,,,"Mexican, Latin American, New Mexican, Exclusive to Eats",$,29.5784359,-98.3734576,15033 Nacogdoches Rd, San Antonio, TX,78247
+35916,178,Las Quesadillas,,,"Mexican, Latin American, New Mexican, Exclusive to Eats",$,29.57989,-98.47498,14530 Brook Hollow Boulevard, San Antonio, TX,78232
+35917,177,Burrito Bandido,,,"Mexican, Latin American, New Mexican",,29.44186,-98.51055,427 Lombrano Street, San Antonio, TX,78207
+35919,174,LOS DIABLITOS,,,"Mexican, Latin American, New Mexican",,29.38768,-98.5264,1239 W Malone Ave., San Antonio, TX,78225
+35920,172,Tacos ZW,,,"Mexican, Latin American, New Mexican",,29.40975,-98.50228,207 West Cevallos, San Antonio, TX,78204
+35921,169,Ay Que Rico LLC ,,,"Mexican, Tacos",,29.41841,-98.33748,7770 Farm-to-Market 1346, San Antonio, TX,78220
+35922,167,Los Hermanos Tortilleria,,,"Mexican, Latin American, New Mexican",$,29.379268,-98.517028,303 Commercial Ave, San Antonio, TX,78211
+35923,164,Alamo Molino (China Grove),,,"Mexican, Latin American, New Mexican",,29.3211,-98.43962,3038 Laura lee Way, San Antonio, TX,78223
+35924,160,Texas Tacos &amp; Catering (Stone Oak) ,,,"Mexican, Latin American, New Mexican",$,29.611022,-98.478627,923 N. Loop 1604 E., San Antonio, TX,78232
+35925,152,El jacalito elotes mexicanos,,,"Mexican, Latin American, New Mexican, Exclusive to Eats",$,29.3886342,-98.5331489,1509 W Theo Ave, San Antonio, TX,78225
+35926,144,Taco Jalisco de los Altos,,,"Mexican, Tacos, Burritos",,29.35618,-98.52359,1902 Southwest Military Drive, San Antonio, TX,78221
+35927,142,Weras tacos,,,"Mexican, Latin American, New Mexican",$,29.3889786,-98.5222237,2619 Nogalitos St, San Antonio, TX,78225
+35928,131,El Remedio (Downtown),,,"Mexican, Latin American, New Mexican",,29.4354,-98.48164,1009 Avenue B, San Antonio, TX,78215
+35929,124,El Remedio (Culebra),4.9,38,"Mexican, Latin American, New Mexican",,29.44811,-98.55808,2924 Culebra Road, San Antonio, TX,78228
+35930,115,Mazorca Street Corn,,,"Mexican, Latin American, New Mexican",,29.44186,-98.51055,427 Lombrano Street, San Antonio, TX,78207
+35931,78,Tacologia,,,"Mexican, Latin American, New Mexican",,29.60986,-98.48952,115 North Loop 1604 East, San Antonio, TX,78258
+35932,272,Kung Fu Tea  ,,,"Bubble Tea, Coffee and Tea, Juice",$,29.35176,-98.45696,2314 SE Military Dr., San Antonio, TX,78223
+35933,183,McDonald's¬Æ (1819 S New Braunfels),4.6,195,"American, Fast Food, Burgers, Group Friendly",$,29.4008972,-98.4615889,1819 S NEW BRAUNFELS, SAN ANTONIO, TX,78210
+35935,9,Arby's (4138 S New Braunfels Ave. Suite 101),4.5,25,"American, Sandwich, Chicken, Salads",$,29.3782958,-98.4594914,4138 S New Braunfels Ave., San Antonio, TX,78223
+35936,8,Whataburger (3500 S New Braunfels),4.1,29,"Burgers, Fast Food, Burgers, Sandwiches, American",$$,29.38381,-98.4608,3500 S New Braunfels, San Antonio, TX,78223
+35937,119,Chipper Chiqn (Alamo Quarry),,,"American, Wings, Chicken",,29.4943,-98.48058,255 East Basse Road, San Antonio, TX,78209
+35938,44,Wei Kee Chinese Restaurant,4.5,175,"Chinese, Asian, Chicken, Seafood, Noodles, Rice Dishes, Group Friendly, Family Meals, Kids Friendly, Vegan Friendly, Soup",$,29.4961982,-98.6206823,6802 Bandera Rd, San Antonio, TX,78238
+35939,87,7-Eleven (16707 Nacogdoches Rd),4.9,73,"Convenience, Everyday Essentials, Snacks, Home &amp; Personal Care, Alcohol",$,29.59264,-98.35119,16707 Nacogdoches Rd, San Antonio, TX,78266
+35940,6,Sonic (4319 South New Braunfels),4.1,111,"American, Fast Food, Burgers",$$,29.375625,-98.4617411,4319 South New Braunfels, San Antonio, TX,78223
+35941,5,Panda Express (4248 S New Braunfels Ave),4.4,90,"Asian, Chinese, Family Meals",$,29.375875,-98.457693,4248 S New Braunfels Ave, San Antonio, TX,78223
+35942,171,Wendy's  (19170 STONE OAK PKWY),4.6,71,"American, Burgers, Fast Food",$,29.624939,-98.494496,19170 STONE OAK PKWY, SAN ANTONIO, TX,78258
+35943,83,Cracker Barrel Old Country Store (98 NE Loop 410),4.5,173,"Burgers, American, Sandwiches, Family Meals",$,29.5193212,-98.484431,98 NE Loop 410, SAN ANTONIO, TX,78216
+35944,1,Starbucks (Nacogdoches &amp; New Braunfels),4.8,76,"Bakery, Breakfast and Brunch, Cafe, Coffee &amp; Tea",$,29.50608,-98.4586817,1901 Nacogdoches, San Antonio, TX,78209
+35945,162,Alamo Drafthouse Cinema (Park North),,,"Burgers, Sandwich",$,29.5182636,-98.5029139,618 NW Loop 410, San Antonio, TX,78216
+35946,132,7-Eleven (298 W Bitters Rd),4.8,165,"Convenience, Everyday Essentials, Snacks, Home &amp; Personal Care, Alcohol",$,29.5677416,-98.486689,298 W Bitters Rd, San Antonio, TX,78216
+35948,179,Bad Mutha Clucka (Stone Oak),4.2,11,"Burgers, American, Sandwiches",$,29.64963,-98.45279,20907 Stone Oak Parkway, San Antonio, TX,78258
+35949,29,Panera (13025 San Pedro Avenue),4.7,142,"Breakfast and Brunch, salad, Sandwich, Family Meals, Pizza, Healthy, American, Chicken",$,29.5599074,-98.4849536,13025 San Pedro Avenue, San Antonio, TX,78216
+35950,13,McDonald's¬Æ (15715 San Pedro),4.8,112,"American, Fast Food, Burgers",$,29.5856041,-98.4759584,15715 SAN PEDRO, SAN ANTONIO, TX,78232
+35951,157,Red Lobster (7835 Interstate 35 S.),4,38,"Seafood, American, Family Meals",$$,29.350694,-98.536036,7835 Interstate 35 S., San Antonio, TX,78224
+35953,132,Potbelly Sandwich Shop (Rivercenter | 417),4.8,34,"Deli, Salads, Sandwich",$,29.4238,-98.48432,849 E. Commerce St., San Antonio, TX,78205
+35955,142,Whataburger (4635 Rittiman Rd),4.3,93,"Burgers, Fast Food, Burgers, Sandwiches, American",$$,29.48439,-98.40049,4635 Rittiman Rd, San Antonio, TX,78218
+35956,136,Freddy's Frozen Custard &amp; Steakburgers (4059 N Loop 1604 West),4.3,28,"Burgers, American, Sandwiches, Desserts",$,29.601234,-98.562515,4059 N Loop 1604 West, San Antonio, TX,78257
+35957,41,The Burger Den (903 E Commerce St),4.1,57,"American, Burgers, Comfort Food, Vegetarian Friendly, Fast Food",$$,29.42317,-98.48284,903 E Commerce St, San Antonio, TX,78205
+35959,58,IHOP (3820 Broadway),4.6,106,"American, Breakfast and Brunch, burger, Comfort Food, Dinner, Omelette, salad, Traditional American, Family Meals",$,29.4617573,-98.4659597,3820 Broadway, San Antonio, TX,78209
+35960,150,KFC  (7009 San Pedro Avenue),4.4,60,"American, Fast Food, wings",$,29.50851438,-98.49971378,7009 San Pedro Avenue, San Antonio, TX,78216
+35963,154,Taste of Motown,,,"Other, Exclusive to Eats",,29.45607,-98.49955,2301 San Pedro Ave, San Antonio, TX,78212
+35964,5,7-Eleven (12351 N. Interstate 35),,,"Everyday Essentials, Convenience, Home &amp; Personal Care, Snacks, Pizza, American",$,29.55236,-98.35641,12351 N. Interstate 35, San Antonio, TX,78233
+35965,172,Burger King (1872 South WW White Rd.),3.9,66,"American, burger, Fast Food, Family Meals",$,29.398751,-98.404189,1872 South WW White Rd., San Antonio, TX,78220
+35966,171,Smoothie King (1141 N Loop 1604 East #106),4.7,55,"American, Healthy, Juice and Smoothies",$$,29.61116,-98.47638,1141 N Loop 1604 East #106, San Antonio, TX,78258
+35967,164,Subway (903 East Bitters Rd),4.9,10,"Fast Food, Sandwich, American",$,29.562833,-98.479302,903 East Bitters Rd, San Antonio, TX,78216
+35968,145,Sonic (955 East Bitters Road),,,"American, Sandwich, Burgers",$$,29.56213,-98.47828,955 East Bitters Road, San Antonio, TX,78216
+35969,129,Firehouse Subs (South Park Commons),4.8,68,"Sandwich, Deli",$,29.35566537,-98.54294878,2814 South West Military Dr. #107, San Antonio, TX,78224
+35970,100,Church's Chicken (2026 South Alamo),4.2,21,Fast Food,$,29.4133262,-98.5038686,2026 S Alamo St, San Antonio, TX,78204
+35971,92,Five Guys TX-1098 1321 North Loop 1604 East,4.8,117,"American, Burgers, Fast Food",$,29.610843,-98.473864,1321 N Loop 1604 Suite 105, San Antonio, TX,78232
+35972,88,Taco Cabana (2347 E Southcross),4.6,92,"Mexican, Tex Mex, Breakfast and Brunch, Family Meals",$,29.3756564,-98.4571369,2347 E Southcross, San Antonio, TX,78223
+35974,22,Orange Leaf Frozen Yogurt (2535 S.E. Military Dr.),,,"Ice Cream + Frozen Yogurt, Desserts, Juice and Smoothies",$,29.3525211,-98.4518757,2535 S.E. Military Dr., San Antonio, TX,78223
+35976,33,Jason's Deli (1141 N. Fm 1604 East #108),4.7,162,"Burgers, American, Sandwiches",$,29.6112544,-98.4763931,1141 North FM 1604 East, San Antonio, TX,78232
+35977,214,The Groovy Chicken,,,"American, Burgers, Sandwiches",$,29.52365,-98.45723,9200 Broadway Street, San Antonio, TX,78217
+35979,81,@flowers Terrell Hills (Operated by Petite Flower Shop),,,"Flowers, florist, Gift Store",$,29.47514,-98.4359,1501 Harry Wurzbach Rd, San Antonio, TX,78209
+35980,185,Bush's Chicken (SWM),4.5,186,"Fast Food, American, Family Meals, Family Friendly",$,29.357883,-98.549789,3219 SW Military Dr, San Antonio, TX,78211
