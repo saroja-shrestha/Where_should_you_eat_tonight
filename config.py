@@ -1,0 +1,5 @@
+database = "Restaurants_SanAntonio"
+user = "postgres"
+password = "Srz787..."
+host = "localhost"
+port = "5433"
